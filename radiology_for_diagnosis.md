@@ -4,6 +4,7 @@
     - [脳](#脳)(54題)
     - [頭頸部](#頭頸部)(19題)
     - [胸部](#胸部)(67題)
+    - [心血管](#心血管)(35題)
 
 
 # 画像診断総論
@@ -990,7 +991,6 @@ e 肺野末梢のすりガラス状陰影
 <details>
 <summary></summary>
 
-【肺癌のStaging】
 
 - 2019-34: 
 </details>
@@ -1295,3 +1295,309 @@ b リンパ脈管筋腫症
 c 急性好酸球性肺炎
 d 肺 Langerhans 細胞組織球症
 e 多発血管肉芽腫症（Wegener 肉芽腫症）
+
+
+## 心血管
+### XC0. 心血管の解剖
+[2015-40](http://www.radiology.jp/content/files/20150821.pdf#page=14)
+◎正常人において胸骨背面に最も近接するのはどれか。1つ選べ。
+`上大静脈` `右心房` `右心室` `左心房` `左心室`  
+
+[2018-41](http://www.radiology.jp/content/files/20180926_2.pdf#page=16)
+正常の心臓について正しいものはどれか。1 つ選べ。
+a	 心尖を形成するのは右心室である。
+b	 大動脈弁は肺動脈弁の右後方にある。
+c	 三尖弁と肺動脈弁とは線維性の連続性が見られる。
+d	 右心室の肉柱の方が左心室肉柱より幅が狭く，密である。
+e	 大動脈弁の冠尖のうち，左冠尖が最も尾側に位置している。
+
+[2012-43](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=15)
+心臓の解剖について正しいのはどれか。1つ選べ。
+a 冠静脈洞は左房に還流する。
+b 右冠動脈は右房室間溝に沿って走行する。
+c 左冠動脈回旋枝は前心室間溝に沿って走行する。
+d 肺動脈弁は 2 枚の半月弁からなる。
+e 左心室の肉柱構造は右心室より直交する。
+
+<details>
+<summary></summary>
+【心臓の解剖】    
+
+- 2015-40: `右心室`
+</details>
+
+[2018-40](http://www.radiology.jp/content/files/20180926_2.pdf#page=16)
+冠動脈解剖に関して正しいものはどれか。1つ選べ。
+a	 右冠動脈から鈍縁枝が分枝する。
+b	 対角枝は左心室後壁を灌流する。
+c	 右冠動脈優位型の頻度は約 50% である。
+d	 左冠動脈回旋枝から鋭縁枝が分枝する。
+e	 左冠動脈前下行枝は前壁側心室中隔を灌流する。
+
+[2016-40](http://www.radiology.jp/content/files/20160825.pdf#page=14)
+冠動脈分枝と解剖学的走行部との組み合わせとして誤っているのはどれか。1 つ選べ。
+a	 鈍縁枝 右心室前壁
+b	 対角枝 左心室前壁
+c	 左前下行枝 前室間溝
+d	 左回旋枝 左房室間溝
+e	 右冠動脈近位部 右房室間溝
+
+◎[2014-42](http://www.radiology.jp/content/files/1377.pdf#page=15)
+通常の右冠動脈優位型の解剖の場合，左冠動脈の分枝はどれか。2つ選べ。  
+`鋭縁枝` `回旋枝` `後下行枝` `前下行枝` `房室結節枝`  
+
+
+<details>
+<summary></summary>
+【冠動脈の解剖】
+
+- 2018-40: 
+- 2016-40: 
+- 2014-42: `回旋枝`, `前下行枝`
+</details>
+
+[2017-41](http://www.radiology.jp/content/files/20170904_2.pdf#page=15)
+足関節の内果背側を走行する動脈はどれか。1 つ選べ。
+a	 anterior tibial artery
+b	 arcuate artery
+c	 fibular artery
+d	 lateral plantar artery
+e	 posterior tibial artery
+
+
+
+### XC1. 心臓CTの撮像
+[2019-40](http://www.radiology.jp/content/files/20190904_02.pdf#page=15)
+冠動脈CTにおける至適条件として誤っているのはどれか。1 つ選べ。
+a	 造影剤の注入時間は 10～15 秒程度とする。
+b	 生理食塩水の後押しは 40 ml 程度を使用する。
+c	 画像ノイズ（標準偏差値）は 20～25 HU 以下とする。
+d	 冠動脈内腔の造影効果は CT 値で 200～250 HU 程度とする。
+e	 β 遮断薬を使用する場合，心拍数 60 回/分以下にすることを目標にする。
+
+[2019-41](http://www.radiology.jp/content/files/20190904_02.pdf#page=15)
+心臓CT検査時，β 遮断薬の使用時に注意すべき疾患はどれか。1 つ選べ。
+a	 心臓神経症
+b	 頻脈型不整脈
+c	 冠攣縮性狭心症
+d	 心室性期外収縮
+e	 本態性高血圧症
+
+[2018-42](http://www.radiology.jp/content/files/20180926_2.pdf#page=16)
+冠動脈 CT 時の前処置として高心拍数患者に投与する薬剤はどれか。1 つ選べ。
+a	 アデノシン 60 mg（アデノスキャン）
+b	 エルゴタミン酒石酸塩 1 mg（クリアミン）
+c	 ジピリダモール 25 mg（ペルサンチン）
+d	 ニフェジピン 10 mg（アダラート）
+e	 ランジオノール塩酸塩 12.5 mg（コアベータ）
+
+[2017-40](http://www.radiology.jp/content/files/20170904_2.pdf#page=15)
+冠動脈 CT について正しいのはどれか。2 つ選べ。
+a	 収縮期早期で再構成する。
+b	 β 遮断薬で脈拍数をコントロールする。
+c	 低心拍はアーチファクトの原因となる。
+d	 左冠動脈は右冠動脈より拍動による動きが大きい。
+e	 プロスペクティブ心電図同期撮影は被ばくが少ない。
+
+[2016-41](http://www.radiology.jp/content/files/20160825.pdf#page=14)
+ 冠動脈 CT の撮影方法として正しいのはどれか。1 つ選べ。
+a	 心拍数は 1 分間 90 拍以下を目標に調整する。
+b	 造影剤は可能な限り橈側皮静脈から注入する。
+c	 造影剤注入開始から撮影開始までの時間は 20 秒程度に固定する。
+d	 体重に応じた造影剤注入速度は 0.02 ml/秒/kg 程度が適切である。
+e	 上大静脈内の造影剤を生理食塩水で洗い流したタイミングで撮影する。
+
+[2016-43](http://www.radiology.jp/content/files/20160825.pdf#page=15)
+心臓 CT について誤っているのはどれか。1 つ選べ。
+a	 ガントリー回転時間の短い CT が適している。
+b	 単純 CT にて冠動脈の石灰化量を測定できる。
+c	 冠動脈狭窄の診断における陽性的中率は高い。
+d	 心筋虚血の評価には薬剤を負荷し造影 CT を撮像する。
+e	 低心拍数ではプロスペクティブ同期法で拡張中期位相を撮像する。
+
+[2013-44](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=15)
+心電図同期冠動脈 CT について正しいのはどれか。1 つ選べ。
+a 冠動脈奇形の診断は困難である。
+b ステント内狭窄の評価が容易である。
+c 高心拍数の患者ではアーチファクトが少ない。
+d 不整脈患者では階段状のアーチファクトが見られる。
+e 石灰化病変による冠動脈狭窄の評価が容易である。
+
+
+### XCc. 冠動脈CTの読影
+[2019-43](http://www.radiology.jp/content/files/20190904_02.pdf#page=16)
+プラークのCT所見で，急性冠症候群をきたす可能性が低いのはどれか。1 つ選べ。
+a	 粗大石灰化
+b	 点状石灰化
+c	 低吸収（50 HU 未満）
+d	 ナプキンリング・サイン
+e	 ポジティブリモデリング
+
+### XCm. 心筋疾患
+[2015-41](http://www.radiology.jp/content/files/20150821.pdf#page=14)
+心筋脂肪変性をきたしやすい疾患はどれか。1 つ選べ。
+a	 心筋炎
+b	 収縮性心膜炎
+c	 陳旧性心筋梗塞
+d	 心アミロイドーシス
+e	 心サルコイドーシス
+
+### XCv. 大動脈瘤,大動脈解離,その他大血管疾患
+[2019-42](http://www.radiology.jp/content/files/20190904_02.pdf#page=16)
+炎症性大動脈瘤について，誤っているのはどれか。1 つ選べ。
+a	 胸部大動脈に好発する。
+b	 造影 CT でマントルサインを認める。
+c	 FDG-PET/CT で異常集積を認める。
+d	 原因疾患として IgG4 関連疾患が最多である。
+e	 大動脈外膜に線維化を伴うリンパ球浸潤が見られる。
+
+[2018-44](http://www.radiology.jp/content/files/20180926_2.pdf#page=17)
+ エンドリークについて正しいものはどれか。1 つ選べ。
+a	 腰動脈からの逆行性血流によるリーク：Type Ⅰa
+b	 ステントグラフト近位部からのリーク：Type Ⅰb
+c	 ステントグラフト間の継ぎ目からのリーク：Type Ⅱ
+d	 ステントグラフトの裂け目からのリーク：Type Ⅲ
+e	 ステントグラフト遠位部からのリーク：Type Ⅳ
+
+[2017-42](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
+腹部大動脈のステントグラフト留置後に，腹部造影 CT にて下腸間膜動脈からの逆行性
+血流によるリークが見られた。分類として正しいのはどれか。1 つ選べ。
+a	 type Ⅰa
+b	 type Ⅰb
+c	 type Ⅱ
+d	 type Ⅲ
+e	 type Ⅳ
+
+[2013-43](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=15)
+大動脈解離について誤っているのはどれか。1 つ選べ。
+a 真腔は拡大した偽腔で圧排される。
+b 剥離内膜の同定は診断上特異性が高い。
+c 血栓閉塞型の偽腔は単純 CT で高吸収を示す。
+d DeBakey II 型では下行大動脈にエントリーがある。
+e 大動脈基部の評価に心電図同期 CT が有用である。
+
+[2012-42](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=14)
+大動脈解離について正しいのはどれか。1 つ選べ。
+a Stanford A 型は，DeBakey II 型に相当する。
+b Stanford B 型は，DeBakey III 型に相当する。
+c Stanford B 型の予後は A 型より不良である。
+d 動脈瘤合併が多い。
+e 単純 CT で急性期解離腔は低吸収を示す。
+
+[2017-44](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
+Marfan 症候群の診断基準として誤っているのはどれか。1 つ選べ。
+a	 鳩　胸
+b	 漏斗胸
+c	 大動脈解離
+d	 脊柱管狭窄
+e	 上行大動脈拡張
+
+[2015-43](http://www.radiology.jp/content/files/20150821.pdf#page=15)
+左右上肢に血圧差が見られる頻度が最も高い疾患はどれか。1 つ選べ。
+a	 川崎病
+b	 高安動脈炎
+c	 動脈管開存症
+d	 Leriche 症候群
+e	 Stanford B 型大動脈解離
+
+[2015-44](http://www.radiology.jp/content/files/20150821.pdf#page=15)
+動脈疾患と特徴的所見との組み合わせとして正しいのはどれか。2 つ選べ。
+a	 高安動脈炎 冠動脈病変
+b	 炎症性大動脈瘤 大動脈壁菲薄化
+c	 Marfan 症候群 大動脈弁輪拡張
+d	 感染性大動脈瘤 紡錘状拡張
+e	 線維筋性異型成 腎動脈起始部
+
+### XCF. 血管炎
+[2018-43](http://www.radiology.jp/content/files/20180926_2.pdf#page=17)
+高安動脈炎について間違っているのはどれか。1 つ選べ。
+a	 肺動脈にも病変を生じる。
+b	 慢性期では動脈の全周性石灰化を生じる。
+c	 血管壁の状態は CT の造影早期相で評価する。
+d	 18F-FDG-PET/CT は活動性の評価に有用である。
+e	 急性期では大動脈壁の double ring enhancement がみられる。
+
+### XCI. 肺動静脈
+[2019-44](http://www.radiology.jp/content/files/20190904_02.pdf#page=16)
+慢性血栓塞栓性肺高血圧症（CTEPH）における肺動脈造影もしくは造影 CT の所見と
+して誤っているのはどれか。1 つ選べ。
+a	 mural defects
+b	 web and bands
+c	 abrupt narrowing
+d	 intimal irregularities
+e	 dilatation and beading
+
+[2017-43](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
+慢性血栓性肺高血圧症の造影CT所見として誤っているのはどれか。1 つ選べ。
+a	 abrupt narrowing
+b	 complete obstruction
+c	 intimal dilatation
+d	 pouch/mural defect
+e	 webs and band
+
+[2014-44](http://www.radiology.jp/content/files/1377.pdf#page=16)
+肺塞栓症について正しいのはどれか。2 つ選べ。
+a 造影 CT では，区域動脈枝の血栓を検出できる。
+b 下腿の塞栓源の検出には，造影 CT が第一選択である。
+c CT における肺野のモザイクパターンは，急性期で見られる。
+d D-ダイマーが陰性でも，造影 CT ではしばしば血栓が検出される。
+e 造影 CT で血管壁に偏心性に付着した血栓は，慢性期肺塞栓を示す。
+
+### XCO. 先天性心疾患
+[2016-42](http://www.radiology.jp/content/files/20160825.pdf#page=14)
+疾患と胸部X線所見との組み合わせとして正しいのはどれか。1 つ選べ。
+a	 高安動脈炎 右第 2 弓拡大
+b	 Fallot 四徴症 心腰部陥凹
+c	 動脈管開存症 肺血管陰影減弱
+d	 心房中隔欠損症 左第 1 弓拡大
+e	 肺動脈血栓塞栓症 肺門部陰影縮小
+
+[2013-42](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=14)
+胸部X線写真で肺血管陰影が増強するのはどれか。2 つ選べ。
+a 動脈管開存
+b Ebstein 奇形
+c Fallot 四徴症
+d 心房中隔欠損
+e 修正大血管転位
+
+[2012-44](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=15)
+肺血管陰影が減少するのはどれか。1 つ選べ。
+a 動脈管開存
+b 大動脈縮窄
+c Fallot 四徴症
+d 心室中隔欠損
+e 心房中隔欠損
+
+
+### XCZ. 心血管画像診断総合問題
+[2016-44](http://www.radiology.jp/content/files/20160825.pdf#page=15)
+疾患と異常所見との組み合わせとして正しいのはどれか。1 つ選べ。
+a	 川崎病 冠動脈遠位部瘤
+b	 高安動脈炎 上行大動脈拡張
+c	 大動脈弁狭窄症 上行大動脈縮小
+d	 Buerger 病 虫食い状血管狭窄・石灰化
+e	 小伏在静脈弁不全 大腿内側部静脈瘤
+
+[2015-42](http://www.radiology.jp/content/files/20150821.pdf#page=15)
+心疾患について正しいのはどれか。1 つ選べ。
+a	 粘液腫は無茎性が多い。
+b	 血栓は左心耳に好発する。
+c	 心室瘤の好発部位は右心室前壁である。
+d	 収縮性心膜炎の石灰化は心尖部で厚い。
+e	 川崎病の冠動脈瘤は遠位部に好発する。
+
+[2014-41](http://www.radiology.jp/content/files/1377.pdf#page=15)
+造影 MR angiography が CT angiography よりも適しているのはどれか。1 つ選べ。
+a ステント留置術後
+b 急性期大動脈解離
+c 透析患者の末梢動脈病変
+d 高度石灰化病変の内腔評価
+e 肺塞栓症の胸部と下肢の同時評価
+
+[2014-43](http://www.radiology.jp/content/files/1377.pdf#page=15)
+心大血管疾患と好発部との組み合わせとして正しいのはどれか。2 つ選べ。
+a 粘液腫 ――――――――――右室
+b 胸部外傷 ―――――――――大動脈峡部
+c 高安動脈炎 ――――――――大腿動脈
+d 閉塞性血栓血管炎 ―――――上行大動脈
+e 心房細動による血栓 ――――左心耳
