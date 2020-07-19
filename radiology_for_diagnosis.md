@@ -72,6 +72,16 @@
         - **XQI3. 乳腺MRI (5題)**
         - XQI4. 乳腺総論まとめ (1題)
         - XQIN. 乳腺腫瘍各論 (6題)
+    - [小児](#小児) (24題)        
+        - **XOT1. 被虐待児症候群 (4題)**
+        - XOT2. 小児骨疾患 (1題)
+        - XOI. 小児胸部疾患
+            - **XOI1. 小児の胸部単純X線 (3題)**
+            - XOI2. 小児の胸部疾患の鑑別と治療 (4題)
+        - **XOAB. 小児腹部疾患 (7題)**
+        - XONa. 小児腹部腫瘤 (2題)
+        - XOC. 川崎病 (1題)
+        - XOJ. 頭蓋と中枢神経の発生異常 (2題)
 
 
 # 画像診断総論
@@ -1900,3 +1910,225 @@ b 造影 MRI は漸増型の造影パターンを示す。
 c T2 強調像で筋と同程度の信号を示す。
 d 辺縁は不明瞭である。
 e 腋窩リンパ節転移が高頻度に見られる。
+
+
+
+## 小児
+### XOT1. 被虐待児症候群
+[2019-48](http://www.radiology.jp/content/files/20190904_02.pdf#page=18)
+被虐待児症候群の画像所見として頻度が低いのはどれか。1 つ選べ。
+a	 肋骨骨折
+b	 硬膜下血腫
+c	 消化管穿孔
+d	 頭蓋骨骨折
+e	 眼窩吹き抜け骨折
+
+[2016-50](http://www.radiology.jp/content/files/20160825.pdf#page=17)
+ 被虐待児症候群と関連が低いのはどれか。1 つ選べ。
+a	 肋骨骨折
+b	 脊椎棘突起骨折
+c	 脛骨骨幹部斜状骨折
+d	 大腿骨遠位骨幹端骨折
+e	 時相の異なる複数の骨折
+
+[2014-50](http://www.radiology.jp/content/files/1377.pdf#page=18)
+被虐待児症候群に特徴的な骨病変はどれか。1 つ選べ。
+a 隆起骨折
+b 若木骨折
+c 成長板損傷
+d 骨幹端損傷
+e 上腕骨外側顆骨折
+
+[2012-48](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=16)
+被虐待児症候群の骨画像所見として頻度が高いのはどれか。1 つ選べ。
+a wormian bone（間挿骨）
+b 後側弯症
+c 骨幹端損傷
+d 椎体圧迫骨折
+e 成長板軟骨損傷
+
+### XOT2. 小児骨疾患
+[2019-50](http://www.radiology.jp/content/files/20190904_02.pdf#page=18)
+Langerhans 細胞組織球症（LCH）の画像所見として，誤っているのはどれか。1 つ選
+べ。
+a	 扁平椎
+b	 floating tooth
+c	 胸腺の多数の小石灰化
+d	 頭蓋骨 punched out lesion
+e	 全肺均等に分布するのう胞性病変
+
+
+### XOI. 小児胸部疾患
+#### XOI1. 小児の胸部単純X線
+[2018-49](http://www.radiology.jp/content/files/20180926_2.pdf#page=19)
+新生児胸部X線写真で認めるサインのうち，病的所見はどれか。2 つ選べ。
+a	 sail sign
+b	 wavy sign
+c	 notch sign
+d	 spinnaker sign
+e	 angel wing sign
+
+[2016-49](http://www.radiology.jp/content/files/20160825.pdf#page=17)
+新生児・乳児に認められる胸部X線所見として病的なのはどれか。2つ選べ。
+a	 sail sign
+b	 wavy sign
+c	 notch sign
+d	 spinnaker sign
+e	 distinct cardiac border sign
+
+[2015-49](http://www.radiology.jp/content/files/20150821.pdf#page=17)
+新生児・乳児の単純 X 線写真における所見として異常なのはどれか。1つ選べ。
+a	 胸腺陰影
+b	 小泉門開大
+c	 大腿骨頭骨端核
+d	 前頭洞含気不良
+e	 生後 2 日で直腸ガスが同定不可
+
+#### XOI2. 小児の胸部疾患の鑑別と治療
+[2018-50](http://www.radiology.jp/content/files/20180926_2.pdf#page=19)
+新生児肺疾患とX線写真所見の組み合わせで正しいのはどれか。1 つ選べ。
+a	 Gross A 型 食道閉鎖　 　胃泡の存在
+b	 呼吸窮迫症候群（RDS）　 　両側肺の過膨張
+c	 先天性横隔膜ヘルニア　 　縦隔の患側偏位
+d	 胎便吸引症候群（MAS）　 　両側肺の網状顆粒状陰影
+e	 新生児一過性多呼吸症（TTN）　 　両側肺門から末梢に拡がる索状影
+
+[2017-48](http://www.radiology.jp/content/files/20170904_2.pdf#page=18)
+新生児期に認める胸部疾患と画像所見との組み合わせとして誤っているのはどれか。1 つ選べ。
+a	 呼吸窮迫症候群（RDS）　 　肺野のすりガラス影
+b	 新生児一過性多呼吸　 　片側性の肺野透過性亢進
+c	 先天性横隔膜ヘルニア　 　縦隔影の健常側偏位
+d	 先天性肺気道奇形（CPAM）　 　肺野の限局性透亮像
+e	 気管食道瘻（TEF）Gross C 型　 　胃泡の存在
+
+[2012-49](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=17)
+小児呼吸器疾患のうち両側肺過膨張を呈するのはどれか。1 つ選べ。
+a クループ
+b 急性喉頭蓋炎
+c ウィルス性肺炎
+d シミター症候群
+e 呼吸窮迫症候群
+
+[2013-48](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=16)
+新生児期の胸部疾患で外科手術の適応となるのはどれか。2 つ選べ。
+a 気管食道瘻
+b 気管支肺異形成
+c 胎便吸引症候群
+d 呼吸促迫症候群
+e 先天性横隔膜ヘルニア
+
+### XOAB. 小児腹部疾患
+[2014-48](http://www.radiology.jp/content/files/1377.pdf#page=17)
+正常な新生児の腹部単純X線写真として正しいのはどれか。1 つ選べ。
+a 出生直後には胃泡を認めない。
+b 生後 6 時間以内では小腸にガスは認められない。
+c 生後 24 時間以内に腸管ガスは直腸に達する。
+d 生後 24 時間以内で腸管の拡張を認める。
+e 生後 24 時間以後は小腸と大腸の区別は容易になる。
+
+[2018-48](http://www.radiology.jp/content/files/20180926_2.pdf#page=18)
+急激進行性の嘔吐を主訴に来院した新生児の腹部超音波検査で，上腹部に clockwise
+whirlpool sign を認めた。その後の対応に関して正しいのはどれか。1 つ選べ。
+a	 胃管挿入
+b	 人工肛門造設
+c	 根治的開腹手術
+d	 高圧注腸による整復
+e	 翌日超音波検査再検
+
+[2017-49](http://www.radiology.jp/content/files/20170904_2.pdf#page=18)
+ 新生児，乳児の消化管疾患と画像所見との組み合わせとして誤っているのはどれか。
+1 つ選べ。
+a	 新生児胃破裂　 　Football sign
+b	 肥厚性幽門狭窄症　 　Cervix sign
+c	 十二指腸閉鎖症　 　Triple bubble sign
+d	 中腸軸捻転を合併した腸回転異常症　 　Whirlpool sign
+e	 腸重積　 　Target sign
+
+[2016-48](http://www.radiology.jp/content/files/20160825.pdf#page=16)
+超音波検査所見の triangular cord sign が診断に有用なのはどれか。1 つ選べ。
+a	 腸重積
+b	 胆道閉鎖症
+c	 消化管重複症
+d	 肥厚性幽門狭窄症
+e	 先天性胆道拡張症
+
+[2015-50](http://www.radiology.jp/content/files/20150821.pdf#page=17)
+先天性横隔膜ヘルニアについて正しいのはどれか。2 つ選べ。
+a	 右側に多い。
+b	 縦隔は患側に偏位する。
+c	 肺成熟度は MRI で評価できる。
+d	 Bochdalek ヘルニアが最も多い。
+e	 胸腔内への肝臓の脱出は予後因子ではない。
+
+[2013-49](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=17)
+小児疾患と画像所見の組み合わせで正しいのはどれか。1 つ選べ。
+a 腸重積―――――――――――― target sign
+b 虫垂炎―――――――――――― whirlpool sign
+c 先天性巨大結腸症――――――― corkscrew sign
+d 肥厚性幽門狭窄症――――――― 幽門管短縮
+e 気管食道痩 Gross A 型 ―――― 胃泡拡大
+
+[2012-50](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=17)
+小児消化管・腹膜・腹壁疾患について正しいのはどれか。1 つ選べ。
+a 肥厚性幽門狭窄症の幽門筋肥厚は 8 mm 以上である。
+b 十二指腸閉鎖症では膜様閉鎖を呈するものが多い。
+c 腸重積では超音波検査で target sign を示す。
+d Hirschsprung 病の注腸検査では浣腸の前処置が必要である。
+e 腹壁破裂の腸管は囊で覆われている。
+
+
+### XONa. 小児腹部腫瘤
+[2014-49](http://www.radiology.jp/content/files/1377.pdf#page=17)
+小児の腹部腫瘍について正しいのはどれか。2 つ選べ。
+a 腎芽腫は，しばしば対側へ進展する。
+b 小児の卵巣腫瘍は，ほとんどが悪性である。
+c 肝芽腫では，血清 AFP が上昇することが多い。
+d 神経芽腫では，石灰化を認めることは稀である。
+e 仙尾部奇形腫では，鎖肛等の奇形をしばしば合併する。
+
+[2013-50](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=17)
+肝芽腫について正しいのはどれか。1 つ選べ。
+a 新生児期に多い。
+b 肺転移は稀である。
+c 腫瘍内の出血や壊死が多い。
+d 小児悪性腫瘍で最も頻度が高い。
+e 全体の 50％ で血清 AFP の上昇を認める。
+
+
+### XOC. 川崎病
+[2019-49](http://www.radiology.jp/content/files/20190904_02.pdf#page=18)
+ 川崎病の合併症として，誤っているのはどれか。1 つ選べ。
+a	 心筋炎
+b	 冠動脈瘤
+c	 咽後膿瘍
+d	 冠動脈狭窄
+e	 頸部リンパ節腫大
+
+
+### XOJ. 頭蓋と中枢神経の発生異常
+[2017-50](http://www.radiology.jp/content/files/20170904_2.pdf#page=18)
+ 小児の頭蓋骨画像所見と疾患との組み合わせとして誤っているのはどれか。1 つ選べ。
+a	 Wormian bone（縫合間挿骨）　 　骨形成不全症
+b	 長頭頭蓋（舟状頭蓋）　 　冠状縫合早期癒合症
+c	 Lacunar skull　 　Chiari Ⅱ型奇形
+d	 Beveled edge appearance　 　Langerhans 細胞組織球症
+e	 Cloverleaf 頭蓋　 　Crouzon 症候群
+
+[2015-48](http://www.radiology.jp/content/files/20150821.pdf#page=17)
+Chiari II 奇形に通常伴わないのはどれか。1 つ選べ。
+a	 滑脳症
+b	 延髄圧迫
+c	 二分脊椎
+d	 脊髄髄膜瘤
+e	 脳梁形成異常
+
+
+## 肝胆膵
+### XBa. 肝
+### XBb. 胆
+### XBc. 膵
+### XBd. 脾
+
+## 消化管
+
+## 
