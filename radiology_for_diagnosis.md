@@ -1,3 +1,12 @@
+# INDEX
+- [画像診断総論]
+- [画像診断各論]
+    - [脳](#脳)(54題)
+    - [頭頸部](#頭頸部)(19題)
+
+
+# 画像診断総論
+
 # 画像診断各論
 ## 脳
 ### 撮像法
@@ -451,3 +460,157 @@ b 膠芽腫
 c 脳梗塞
 d PRES（posterior reversible encephalopathy syndrome）
 e MELAS（mitochondrial myopathy, encephalopathy, lactic acidosis, stroke-like episodes）
+
+
+## 頭頸部
+### 眼窩
+[2019-23](http://www.radiology.jp/content/files/20190904_02.pdf#page=9)
+成人の眼窩の筋円錐内腫瘤として頻度が最も高いものはどれか。1 つ選べ。
+a	 髄膜腫
+b	 類表皮腫
+c	 視神経膠腫
+d	 悪性リンパ腫
+e	 海綿状血管腫（奇形）
+
+[2012-29](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=10)
+眼窩筋円錐内に発生しにくいのはどれか。 1 つ 選べ。
+a 髄膜腫
+b 類皮腫
+c 神経膠腫
+d 悪性黒色腫
+e 悪性リンパ腫
+
+[2016-24](http://www.radiology.jp/content/files/20160825.pdf#page=8)
+ 甲状腺眼症について正しいのはどれか。1 つ選べ。
+a	 外眼筋の腱部が侵される。
+b	 外眼筋肥厚は下直筋に最も多い。
+c	 画像上両側性は 50％未満である。
+d	 甲状腺機能が正常なのは 1％未満である。
+e	 急性期に外眼筋は T2 強調像で低信号を呈する。
+
+### 耳
+[2019-24](http://www.radiology.jp/content/files/20190904_02.pdf#page=9)
+上鼓室型（弛緩部型）真珠腫で見られることが最も少ない所見はどれか。1 つ選べ。
+a	 耳小骨の侵食
+b	 Prussak 腔病変
+c	 鼓室天蓋の侵食
+d	 顔面神経陥凹部の侵食
+e	 鼓膜被蓋（scutum）の鈍化
+
+[2018-25](http://www.radiology.jp/content/files/20180926_2.pdf#page=10)
+真珠腫につき正しいのはどれか。2 つ選べ。
+a	 鼓室硬化症を合併することはない。
+b	 本邦では先天性真珠腫は鼓室後半部に多い。
+c	 緊張部型真珠腫はしばしば Prussak 腔に生じる。
+d	 弛緩部型真珠腫は耳小骨を外側に偏位させる。
+e	 弛緩部型真珠腫は CT で scutum の鈍化がみられる。
+
+[2017-22](http://www.radiology.jp/content/files/20170904_2.pdf#page=9)
+中耳および内耳疾患の診断に MRI が CT よりも有用なのはどれか。1 つ選べ。
+a	 骨化性迷路炎
+b	 窓型耳硬化症
+c	 耳小骨連鎖異常
+d	 迷路内神経鞘腫
+e	 上半規管裂隙症候群
+
+### 咽喉頭
+[2017-23](http://www.radiology.jp/content/files/20170904_2.pdf#page=9)
+上咽頭癌の TNM 分類において T4 となる進展領域はどれか。2 つ選べ。
+a	 眼　窩
+b	 上顎洞
+c	 頭蓋底
+d	 下咽頭
+e	 傍咽頭間隙
+
+[2016-23](http://www.radiology.jp/content/files/20160825.pdf#page=8)
+頭頸部腫瘍の TNM 分類で，N カテゴリーが異なるのはどれか。1 つ選べ。
+a	 口　腔
+b	 上咽頭
+c	 中咽頭
+d	 下咽頭
+e	 喉　頭
+
+[2015-24](http://www.radiology.jp/content/files/20150821.pdf#page=9)
+頭頸部癌の TNM 分類において，病理組織型が病期分類に影響する部位はどれか。1 つ
+選べ。
+a	 口　腔
+b	 咽　頭
+c	 喉　頭
+d	 鼻　腔
+e	 甲状腺
+
+[2014-16](http://www.radiology.jp/content/files/1377.pdf#page=6)
+上咽頭癌の TNM 分類において T4 となる進展領域はどれか。2 つ選べ。
+a 眼窩
+b 副鼻腔
+c 下咽頭
+d 頭蓋底（骨）
+e 傍咽頭間隙
+
+[2012-28](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=10)
+上咽頭癌の T 分類として進展部位が T2 に該当するのはどれか。1 つ選べ。
+a 眼窩
+b 副鼻腔
+c Meckel 洞
+d 傍咽頭間隙
+e Rosenmüller 窩
+
+### 唾液腺
+[2018-23](http://www.radiology.jp/content/files/20180926_2.pdf#page=10)
+ Warthin 腫瘍について正しいのはどれか。1 つ選べ。
+a	 女性に多い。
+b	 高い ADC を示す。
+c	 顎下腺に好発する。
+d	 漸増性の造影パターンを示す。
+e	 18F-FDG-PET で高集積を示す。
+
+[2017-24](http://www.radiology.jp/content/files/20170904_2.pdf#page=10)
+Warthin 腫瘍について正しいのはどれか。1 つ選べ。
+a	 高い ADC 値を示す。
+b	 顎下腺に好発する。
+c	 非喫煙男性に多い。
+d	 漸増性の造影パターンを示す。
+e	 FDG-PET で高い SUV 値を示す。
+
+
+### 甲状腺
+[2012-30](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=10)
+甲状腺原発悪性腫瘍について正しいのはどれか。2 つ選べ。
+a 乳頭癌は最も頻度が高い。
+b 濾胞癌は最も予後が良い。
+c 未分化癌は若年者に発生する。
+d 悪性リンパ腫は慢性甲状腺炎に発生する。
+e 髄様癌は多発性内分泌腫瘍症 1 型に属する。
+
+
+### ほか
+[2018-24](http://www.radiology.jp/content/files/20180926_2.pdf#page=10)
+拡散強調像で高信号を示すことが最も多い頭頸部病変はどれか。1つ選べ。
+`側頸囊胞` `リンパ管腫` `眼窩静脈瘤` `中耳真珠腫` `グロームス腫瘍`  
+
+[2014-17](http://www.radiology.jp/content/files/1377.pdf#page=7)
+頭頸部の拡散強調画像で高信号を示すことが多いのはどれか。2つ選べ。
+`神経鞘腫` `側頸囊胞` `中耳真珠腫` `悪性リンパ腫` `リンパ管腫（リンパ管奇形）` 
+
+[2013-28](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=10)
+若年性血管線維腫で正しいのはどれか。1 つ選べ。
+a 被膜を有する。
+b 女性に好発する。
+c 蝶形骨洞に発生する。
+d 翼口蓋窩が拡大する。
+e 術前に生検が必須である。
+
+[2013-29](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=10)
+耳下腺腫瘍の画像診断において正しいのはどれか。2 つ選べ。
+a 多形腺腫は被膜を認める。
+b 悪性リンパ腫は高い ADC 値を示す。
+c 耳下腺内に腫大リンパ節を認めることはない。
+d 下顎後静脈は顔面神経の位置の推定に有用である。
+e Warthin 腫瘍はダイナミック MRI で漸増性の造影パターンを示す。
+
+[2013-30](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=10)
+a 上顎癌
+b 急性副鼻腔炎
+c 副鼻腔真菌症
+d 術後性頬部囊胞
+e 若年性血管線維腫
