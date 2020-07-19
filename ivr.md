@@ -52,11 +52,11 @@ e	 深部静脈血栓症 下大静脈フィルター
 
 
 ## 生検
-[2018-68](http://www.radiology.jp/content/files/20180926_2.pdf#page=25)
+◎[2018-68](http://www.radiology.jp/content/files/20180926_2.pdf#page=25)
 エコーガイド下針生検を行う臓器として最も**不適切**なのはどれか。1つ選べ。  
 `肝` `腎` `骨` `乳腺` `表在リンパ節`  
 
-[2017-68](http://www.radiology.jp/content/files/20170904_2.pdf#page=24)
+◎[2017-68](http://www.radiology.jp/content/files/20170904_2.pdf#page=24)
 腫瘍に対する経皮的針生検を行う際の臓器とガイド画像との組み合わせとして，**適切でない**のはどれか。1つ選べ。  
 `骨 - CT` `肝 - US` `腎 - US` `肺 - MRI` `乳腺 - MRI`  
 
@@ -152,13 +152,16 @@ c 正中仙骨動脈
 d 右深大腿動脈
 e 右内腸骨動脈
 
-[2013-66](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=22)
-IVR 施行中に徐脈と血圧低下が認められた。静注する薬剤として適切なのはどれか。1 つ選べ。
-a ステロイド
-b テオフィリン
-c アドレナリン
-d 塩酸リドカイン
-e 硫酸アトロピン
+◎[2013-66](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=22)
+IVR 施行中に徐脈と血圧低下が認められた。静注する薬剤として適切なのはどれか。1つ選べ。  
+`ステロイド` `テオフィリン` `アドレナリン` `塩酸リドカイン` `硫酸アトロピン`  
+
+<details>
+<summary></summary>
+ 
+- 2013-66: `硫酸アトロピン` 
+</details>
+
 
 [2012-67](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=23)
 血管造影や IVR での皮膚消毒について誤っているのはどれか。1 つ選べ。
