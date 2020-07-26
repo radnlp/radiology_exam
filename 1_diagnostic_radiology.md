@@ -536,7 +536,8 @@ PACSの基本機能**でない**のはどれか。1つ選べ。
 【医療情報の規格(医療情報第6版 医療情報システム編 6.2章より)】
 
 医療情報分野における代表的な標準規格には以下のようなものがある:
-- DICOM:
+- DICOM (Digital Imaging and Communications in Medicine)
+    - 医用画像における画像検査のデータ生成とデータ通信に利用される標準規格. 詳細は後述.
 - HL7 (Health Level 7)
     - 病院間で診療データをスムーズに交換するための国際規約. 簡単にいうと電子カルテの標準規格.
     - Level 7という名称はOSI参照モデルの第7層のアプリケーション層を主な対象としていることから.
@@ -549,22 +550,21 @@ PACSの基本機能**でない**のはどれか。1つ選べ。
 - 2017-15: `医用画像の標準化と同義である。`
 </details>
 
-[2014-15](http://www.radiology.jp/content/files/1377.pdf#page=6)
-DICOM 規格について正しいのはどれか。1 つ選べ。
-a 通信を規定している。
-b ヘッダーは規定していない。
-c ISO 認定の国際標準規格ではない。
-d 一種類の画像形式のみ使用可能である。
-e 放射線画像検査以外には使用できない。
+◎[2014-15](http://www.radiology.jp/content/files/1377.pdf#page=6)
+DICOM 規格について正しいのはどれか。1つ選べ。  
+`通信を規定している。`  
+`ヘッダーは規定していない。`  
+`ISO 認定の国際標準規格ではない。`  
+`一種類の画像形式のみ使用可能である。`  
+`放射線画像検査以外には使用できない。`  
 
-[2012-15](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=5)
-DICOM について誤っているのはどれか。1 つ選べ。
-a 医用画像のフォーマットと通信プロトコルの規格である。
-b すべての医用画像モダリティはこの規格に準拠している。
-c Digital Imaging and Communications in Medicine の略である。
-d Modality Working Management（MWM）はその機能の一つである。
-e DICOM3.0 は 8 つのサービスクラスと呼ばれる機能で成り立っている。
-
+◎[2012-15](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=5)
+DICOM について**誤っている**のはどれか。1つ選べ。  
+`医用画像のフォーマットと通信プロトコルの規格である。`  
+`すべての医用画像モダリティはこの規格に準拠している。`  
+`Digital Imaging and Communications in Medicine の略である。`  
+`Modality Working Management（MWM）はその機能の一つである。`  
+`DICOM3.0 は 8 つのサービスクラスと呼ばれる機能で成り立っている。`  
 
 [2013-09](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=3)
 放射線診療に関連する IT 用語の組み合わせで**関係ない**のはどれか。1つ選べ。  
@@ -574,6 +574,35 @@ e DICOM3.0 は 8 つのサービスクラスと呼ばれる機能で成り立っ
 `HL7 ―――――― 電子カルテ`  
 `IHE ―――――― 医療機関情報統合`  
 
+
+<details>
+<summary></summary>
+
+【DICOM規格の詳細 (医療情報第6版 医療情報システム編 6.2章より)】
+
+- 歴史
+    - 前身はACRとNEMA(米国電気工業会: National Electrical Manufacturers Association)が策定したACR-NEMA規格.
+    - 1993年にRSNAによってDICOMとして承認された.
+    - 2006年にISOに承認され, 国際標準規格となった (当時はISO12052:2006. 現在はISO12052:2017が最新版).
+    - 現在では放射線画像以外にも眼科, 内視鏡, 病理, 超音波などにも広がっている.
+- 全体の構成
+    - 規格書本体(Base standard)と補遺(Supplement)からなる.
+- 情報モデルとオブジェクト
+    - オブジェクトと, それに対して処理を行う機能であるサービスの組み合わせである, SOP (Service Object Pair)を単位として通信や処理を定義している.
+        - サービスクラスとしては次のようなものがある:
+            - 保存 Storage
+            - 検索と取得 Query/Retrieve
+            - モダリティワークリスト管理 MWM (Modality Worklist Management)
+            - 交信確認 Verification
+        - オブジェクトクラスとしてはCT, MRI, 取り込み画像, 単純X線などがある.
+    - また, そのサービスクラスの機能の提供者をSCP (Service Class Provider), 利用者をSCU (Service Class User)とよぶ.
+    - 装置の機能は, SOPとSCP/SCUの関係を単位として実装されている.
+
+**こたえ**
+- 2014-15: `通信を規定している。`
+- 2012-15: `DICOM3.0 は 8 つのサービスクラスと呼ばれる機能で成り立っている。`
+- 2013-09: 
+</details>
 
 
 
@@ -631,6 +660,8 @@ b カラーモニタはモノクロモニタの代替とはならない。
 c 胸部 X 線写真では輝度が 20％ 低下すると精度が劣化する。
 d マンモグラフィの画像観察では 500 万画素モニタが推奨される。
 e モニタ管理用標準テストパターン（TG-18QC）のグレースケールは 8 階調である。
+
+
 
 ### 個人情報保護
 ◎[2013-10](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=4)
