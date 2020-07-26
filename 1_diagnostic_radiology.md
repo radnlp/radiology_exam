@@ -136,11 +136,7 @@ e 陽電子は陰電子と結合して消滅するとき，2 本の放射線を�
 ## MRI総論
 ◎[2013-03](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1)
 MR hydrography に**含まれない**のはどれか。1つ選べ。  
-`MR urography`  
-`MR sialography`  
-`MR myelography`  
-`MR tractography`  
-`MR cholangiopancreatography`  
+`MR urography` `MR sialography` `MR myelography` `MR tractography` `MR cholangiopancreatography`  
 
 <details>
 <summary></summary>
@@ -151,7 +147,7 @@ MR hydrography に**含まれない**のはどれか。1つ選べ。
 
 
 ◎[2017-07](http://www.radiology.jp/content/files/20170904_2.pdf#page=4)
-MRI で高信号を示すのはどれか。2 つ選べ。
+MRI で高信号を示すのはどれか。2つ選べ。  
 `T2 強調像での線維化`  
 `T2 強調像での石灰化`  
 `T1 強調像でのメラニン`  
@@ -159,7 +155,7 @@ MRI で高信号を示すのはどれか。2 つ選べ。
 `T1 強調像でのメトヘモグロビン`  
 
 ◎[2016-02](http://www.radiology.jp/content/files/20160825.pdf#page=1)
-物質・病態と MRI の信号強度との組み合わせとして正しいのはどれか。1 つ選べ。
+物質・病態と MRI の信号強度との組み合わせとして正しいのはどれか。1つ選べ。  
 `線維化 - T2 強調像で高信号`  
 `メラニン - T2 強調像で高信号`  
 `速い血流 - T2 強調像で高信号`  
@@ -187,41 +183,44 @@ MRIのT1強調像で高信号を呈しやすいのはどれか。2つ選べ。
 - 2014-51: `高分化型脂肪肉腫`, `卵巣内膜症性囊胞`  
 </details>
 
-[2018-08](http://www.radiology.jp/content/files/20180926_2.pdf#page=5)
+◎[2013-64](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=22)
+MRI において脂肪抑制法として用いられるのはどれか。2つ選べ。  
+`EPI 法` `GRE 法` `STIR 法` `FLAIR 法` `CHESS 法`  
+
+◎[2015-04](http://www.radiology.jp/content/files/20150821.pdf#page=2)
+MRIの脂肪抑制法は水と脂肪の物質特性の違いを利用している。物質特性として一般的なのはどれか。2つ選べ。  
+`拡散係数` `縦緩和時間` `横緩和時間` `共鳴周波数` `プロトン密度`  
+
+◎[2013-04](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=2)
+MRIにおけるケミカルシフトアーチファクトの原因はどれか。1つ選べ。  
+`励起磁場の不均一性` `物質間の磁化率の差` `受信コイルの感度むら` `物質間の誘導電流の差` `物質間の共鳴周波数の差`  
+
+◎[2018-08](http://www.radiology.jp/content/files/20180926_2.pdf#page=5)
 MRI の脂肪抑制法について正しいのはどれか。2 つ選べ。
-a	 脂肪の中心周波数は水よりも低い。
-b	 STIR 法では脂肪以外は抑制されない。
-c	 スピンエコー（SE）法以外は使用できない。
-d	 水選択励起法は局所磁場変動に影響されない。
-e	 周波数選択的脂肪抑制法は静磁場強度が高い方が脂肪抑制効果が良好である。
-
-[2015-04](http://www.radiology.jp/content/files/20150821.pdf#page=2)
-MRIの脂肪抑制法は水と脂肪の物質特性の違いを利用している。物質特性として一般的
-なのはどれか。2 つ選べ。
-a	 拡散係数
-b	 縦緩和時間
-c	 横緩和時間
-d	 共鳴周波数
-e	 プロトン密度
-
-[2013-64](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=22)
-MRI において脂肪抑制法として用いられるのはどれか。2 つ選べ。
-a EPI 法
-b GRE 法
-c STIR 法
-d FLAIR 法
-e CHESS 法
+`脂肪の中心周波数は水よりも低い。`  
+`STIR 法では脂肪以外は抑制されない。`  
+`スピンエコー（SE）法以外は使用できない。`  
+`水選択励起法は局所磁場変動に影響されない。`  
+`周波数選択的脂肪抑制法は静磁場強度が高い方が脂肪抑制効果が良好である。`  
 
 
+<details>
+<summary></summary>
 
+【Chemical Shiftについて】
 
-[2019-07](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)
-MRI の時定数 T1 に関して正しいのはどれか。2 つ選べ。
-a	 位相分散の速さを表す。
-b	 同一組織では T2 より短い。
-c	 エネルギー放出の速さを表す。
-d	 分子運動の方向性が関与する。
-e	 スピン―格子緩和時間に相当する。
+- 電子がプロトンから離れるほど遮蔽効果が弱まり実効磁場が大きくなるため周波数が大きくなる.
+- 電気陰性度は O > C なので, 水のプロトンのほうが脂肪のプロトンよりも共鳴周波数が大きい.
+
+![](img/chemical_shift.png)
+
+**こたえ**
+- 2013-64: `STIR 法`, `CHESS 法`
+- 2015-04: `縦緩和時間`, `共鳴周波数` 
+- 2013-04: `物質間の共鳴周波数の差`
+- 2018-08: `脂肪の中心周波数は水よりも低い。`, `周波数選択的脂肪抑制法は静磁場強度が高い方が脂肪抑制効果が良好である。` 
+</details>
+
 
 [2016-03](http://www.radiology.jp/content/files/20160825.pdf#page=1)
 市販の超伝導 MRI 装置の筐体（MRI 装置の本体，ガントリー）に組みこまれていない
@@ -232,7 +231,13 @@ c	 静磁場コイル
 d	 傾斜磁場コイル
 e	 照射コイル（RF コイル）
 
-
+[2019-07](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)
+MRI の時定数 T1 に関して正しいのはどれか。2 つ選べ。
+a	 位相分散の速さを表す。
+b	 同一組織では T2 より短い。
+c	 エネルギー放出の速さを表す。
+d	 分子運動の方向性が関与する。
+e	 スピン―格子緩和時間に相当する。
 
 [2014-02](http://www.radiology.jp/content/files/1377.pdf#page=1)
 MRI について誤っているのはどれか。1 つ選べ。
@@ -242,16 +247,6 @@ c 拡散強調画像において脳脊髄液は高信号となる。
 d 外国に比べてわが国は永久磁石装置の普及率が高い。
 e 超電導磁石の冷却は液体ヘリウムによって行われている。
 
-[2013-04](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=2)
-MRI におけるケミカルシフトアーチファクトの原因はどれか。1 つ選べ。
-a 励起磁場の不均一性
-b 物質間の磁化率の差
-c 受信コイルの感度むら
-d 物質間の誘導電流の差
-e 物質間の共鳴周波数の差
-
-
-
 [2013-67](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=23)
 MRI のアーチファクトでないのはどれか。1 つ選べ。
 a リングアーチファクト
@@ -259,8 +254,6 @@ b 折り返しアーチファクト
 c ジッパーアーチファクト
 d クロストークアーチファクト
 e トランケーションアーチファクト
-
-
 
 [2012-07](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=3)
 MRI について正しいのはどれか。2 つ選べ。
