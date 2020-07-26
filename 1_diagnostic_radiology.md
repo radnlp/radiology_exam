@@ -48,8 +48,8 @@
             - **特発性間質性肺炎 (4題)**
             - びまん性肺疾患その他 (3題)
         - XIN. 肺結節,肺腫瘍,気管支腫瘍
-            - 肺癌のstaging (8題) Complete!
-            - **肺結節の良悪性 (2題)**
+            - 肺癌のstaging (8題) (Complete!)
+            - **肺結節の良悪性 (2題)** (Complete!)
             - 肺結節ほか (5題)
             - 気管支結節 (1題)
         - **XIM. 石綿肺とその周辺 (3題)**
@@ -134,13 +134,58 @@ d 荷電粒子が結晶に入射したとき閃光を発する物質をシンチ
 e 陽電子は陰電子と結合して消滅するとき，2 本の放射線を正反対の方向に放出する。
 
 ## MRI総論
-[2019-07](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)
-MRI の時定数 T1 に関して正しいのはどれか。2 つ選べ。
-a	 位相分散の速さを表す。
-b	 同一組織では T2 より短い。
-c	 エネルギー放出の速さを表す。
-d	 分子運動の方向性が関与する。
-e	 スピン―格子緩和時間に相当する。
+◎[2013-03](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1)
+MR hydrography に**含まれない**のはどれか。1つ選べ。  
+`MR urography`  
+`MR sialography`  
+`MR myelography`  
+`MR tractography`  
+`MR cholangiopancreatography`  
+
+<details>
+<summary></summary>
+
+**こたえ**
+- 2013-03: `MR tractography`
+</details>
+
+
+◎[2017-07](http://www.radiology.jp/content/files/20170904_2.pdf#page=4)
+MRI で高信号を示すのはどれか。2 つ選べ。
+`T2 強調像での線維化`  
+`T2 強調像での石灰化`  
+`T1 強調像でのメラニン`  
+`FLAIR 像でのヘモジデリン`  
+`T1 強調像でのメトヘモグロビン`  
+
+◎[2016-02](http://www.radiology.jp/content/files/20160825.pdf#page=1)
+物質・病態と MRI の信号強度との組み合わせとして正しいのはどれか。1 つ選べ。
+`線維化 - T2 強調像で高信号`  
+`メラニン - T2 強調像で高信号`  
+`速い血流 - T2 強調像で高信号`  
+`脂肪沈着 - T1 強調像で高信号`  
+`粘稠な液体 - T1 強調像で低信号`  
+
+◎[2014-51](http://www.radiology.jp/content/files/1377.pdf#page=18)
+MRIのT1強調像で高信号を呈しやすいのはどれか。2つ選べ。  
+`腎癌` `副腎腺腫` `前立腺癌` `高分化型脂肪肉腫` `卵巣内膜症性囊胞`  
+
+
+<details>
+<summary></summary>
+【Hbの経時的変化とMRI所見】
+
+- 赤血球内オキシHb（HbO2）: 反磁性体
+- 赤血球内デオキシHb（Hb）: 磁性体。磁化率artifact(+)
+- 赤血球内メトHb（MetHb）: 反磁性体，T1短縮
+- 遊離メトHb（MetHb）: 反磁性体，T1短縮
+- 貪食細胞内ヘモジデリン: 磁性体
+
+**こたえ**
+- 2017-07: `T1 強調像でのメラニン`, `T1 強調像でのメトヘモグロビン`  
+- 2016-02: `脂肪沈着 - T1 強調像で高信号`  
+- 2014-51: `高分化型脂肪肉腫`, `卵巣内膜症性囊胞`  
+</details>
 
 [2018-08](http://www.radiology.jp/content/files/20180926_2.pdf#page=5)
 MRI の脂肪抑制法について正しいのはどれか。2 つ選べ。
@@ -149,31 +194,6 @@ b	 STIR 法では脂肪以外は抑制されない。
 c	 スピンエコー（SE）法以外は使用できない。
 d	 水選択励起法は局所磁場変動に影響されない。
 e	 周波数選択的脂肪抑制法は静磁場強度が高い方が脂肪抑制効果が良好である。
-
-[2017-07](http://www.radiology.jp/content/files/20170904_2.pdf#page=4)
-MRI で高信号を示すのはどれか。2 つ選べ。
-a	 T2 強調像での線維化
-b	 T2 強調像での石灰化
-c	 T1 強調像でのメラニン
-d	 FLAIR 像でのヘモジデリン
-e	 T1 強調像でのメトヘモグロビン
-
-[2016-02](http://www.radiology.jp/content/files/20160825.pdf#page=1)
-物質・病態と MRI の信号強度との組み合わせとして正しいのはどれか。1 つ選べ。
-a	 線維化 T2 強調像で高信号
-b	 メラニン T2 強調像で高信号
-c	 速い血流 T2 強調像で高信号
-d	 脂肪沈着 T1 強調像で高信号
-e	 粘稠な液体 T1 強調像で低信号
-
-[2016-03](http://www.radiology.jp/content/files/20160825.pdf#page=1)
-市販の超伝導 MRI 装置の筐体（MRI 装置の本体，ガントリー）に組みこまれていない
-のはどれか。1 つ選べ。
-a	 シムコイル
-b	 表面コイル
-c	 静磁場コイル
-d	 傾斜磁場コイル
-e	 照射コイル（RF コイル）
 
 [2015-04](http://www.radiology.jp/content/files/20150821.pdf#page=2)
 MRIの脂肪抑制法は水と脂肪の物質特性の違いを利用している。物質特性として一般的
@@ -184,6 +204,36 @@ c	 横緩和時間
 d	 共鳴周波数
 e	 プロトン密度
 
+[2013-64](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=22)
+MRI において脂肪抑制法として用いられるのはどれか。2 つ選べ。
+a EPI 法
+b GRE 法
+c STIR 法
+d FLAIR 法
+e CHESS 法
+
+
+
+
+[2019-07](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)
+MRI の時定数 T1 に関して正しいのはどれか。2 つ選べ。
+a	 位相分散の速さを表す。
+b	 同一組織では T2 より短い。
+c	 エネルギー放出の速さを表す。
+d	 分子運動の方向性が関与する。
+e	 スピン―格子緩和時間に相当する。
+
+[2016-03](http://www.radiology.jp/content/files/20160825.pdf#page=1)
+市販の超伝導 MRI 装置の筐体（MRI 装置の本体，ガントリー）に組みこまれていない
+のはどれか。1 つ選べ。
+a	 シムコイル
+b	 表面コイル
+c	 静磁場コイル
+d	 傾斜磁場コイル
+e	 照射コイル（RF コイル）
+
+
+
 [2014-02](http://www.radiology.jp/content/files/1377.pdf#page=1)
 MRI について誤っているのはどれか。1 つ選べ。
 a T1 緩和時間は T2 緩和時間よりも長い。
@@ -191,14 +241,6 @@ b 1.5T 以上の高磁場装置は超伝導装置が多い。
 c 拡散強調画像において脳脊髄液は高信号となる。
 d 外国に比べてわが国は永久磁石装置の普及率が高い。
 e 超電導磁石の冷却は液体ヘリウムによって行われている。
-
-[2013-03](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1)
-MR hydrography に含まれないのはどれか。1 つ選べ。
-a MR urography
-b MR sialography
-c MR myelography
-d MR tractography
-e MR cholangiopancreatography
 
 [2013-04](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=2)
 MRI におけるケミカルシフトアーチファクトの原因はどれか。1 つ選べ。
@@ -208,13 +250,6 @@ c 受信コイルの感度むら
 d 物質間の誘導電流の差
 e 物質間の共鳴周波数の差
 
-[2013-64](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=22)
-MRI において脂肪抑制法として用いられるのはどれか。2 つ選べ。
-a EPI 法
-b GRE 法
-c STIR 法
-d FLAIR 法
-e CHESS 法
 
 
 [2013-67](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=23)
@@ -225,13 +260,7 @@ c ジッパーアーチファクト
 d クロストークアーチファクト
 e トランケーションアーチファクト
 
-[2014-51](http://www.radiology.jp/content/files/1377.pdf#page=18)
-MRI の T1 強調像で高信号を呈しやすいのはどれか。2 つ選べ。
-a 腎癌
-b 副腎腺腫
-c 前立腺癌
-d 高分化型脂肪肉腫
-e 卵巣内膜症性囊胞
+
 
 [2012-07](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=3)
 MRI について正しいのはどれか。2 つ選べ。
@@ -241,6 +270,8 @@ c 拍動流に伴うアーチファクトは位相エンコードの方向に観
 d 撮像条件を同一とした場合，化学シフトアーチファクトは磁場強度が高いほど大きくなる。
 e グラディエントエコー法は，スピンエコー法と比べて磁化率アーチファクトの影響を受けにく
 い。
+
+
 
 ## US総論
 [2014-52](http://www.radiology.jp/content/files/1377.pdf#page=18)
