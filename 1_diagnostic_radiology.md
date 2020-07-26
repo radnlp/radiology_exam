@@ -45,7 +45,7 @@
             - 呼吸器感染症の鑑別 (2題)
         - XIF. 膠原病,アレルギー (4題)
         - XII. びまん性肺疾患
-            - **特発性間質性肺炎 (4題)**
+            - **特発性間質性肺炎 (4題)** (Complete!)
             - びまん性肺疾患その他 (3題)
         - XIN. 肺結節,肺腫瘍,気管支腫瘍
             - 肺癌のstaging (8題) (Complete!)
@@ -1432,29 +1432,48 @@ e 多発すりガラス状陰影
 </details>
 
 #### びまん性肺疾患その他
-[2019-36](http://www.radiology.jp/content/files/20190904_02.pdf#page=14)
-閉塞性細気管支炎と関連が低いのはどれか。1 つ選べ。
-a	 膠原病
-b	 糖尿病
-c	 臓器移植
-d	 重症感染
-e	 有毒ガス吸引
+◎[2012-33](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=11)
+Langerhans 細胞組織球症について正しいのはどれか。1つ選べ。  
+`斑状影` `多発薄壁囊胞` `下肺野優位線状影` `肺門周囲の多発粒状影` `肺野末梢のすりガラス状陰影`  
 
-[2014-37](http://www.radiology.jp/content/files/1377.pdf#page=13)
-閉塞性細気管支炎の CT 所見として正しいのはどれか。2 つ選べ。
-a 肺容積低下
-b 肺血管の狭細化
-c tree-in-bud pattern
-d びまん性すりガラス陰影
-e 肺野のモザイク状吸収域
+◎[2019-36](http://www.radiology.jp/content/files/20190904_02.pdf#page=14)
+閉塞性細気管支炎と関連が**低い**のはどれか。1つ選べ。  
+`膠原病` `糖尿病` `臓器移植` `重症感染` `有毒ガス吸引`  
 
-[2012-33](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=11)
-Langerhans 細胞組織球症について正しいのはどれか。1 つ選べ。
-a 斑状影
-b 多発薄壁囊胞
-c 下肺野優位線状影
-d 肺門周囲の多発粒状影
-e 肺野末梢のすりガラス状陰影
+◎[2014-37](http://www.radiology.jp/content/files/1377.pdf#page=13)
+閉塞性細気管支炎のCT所見として正しいのはどれか。2つ選べ。  
+`肺容積低下` `肺血管の狭細化` `tree-in-bud pattern` `びまん性すりガラス陰影` `肺野のモザイク状吸収域`  
+
+<details>
+<summary></summary>
+
+【びまん性肺疾患その他】
+
+- PLCH
+    - Langerhans細胞からなる肉芽腫が, 呼吸細気管支領域に小葉中心性に多発する.
+    - 肉芽腫の内部のLangerhans細胞はやがて脱落するので, 高率で空洞化する.
+    - さらに, チェックバルブ機構などもあいまって歪な嚢胞を多数形成する.
+    - 上中肺野中心.
+    - 喫煙と強く関連し, 若年発症するため, DIPを伴っている場合はすりガラス影も随伴することがある.
+
+![](img/plch_illust.jpg)
+![](img/plch.png)
+
+- 閉塞性細気管支炎(BO: Bronchiolitis obliterans)
+    - 膠原病, タバコ, 重症感染, 臓器移植, 有毒ガス吸入などによって起こる.
+    - 末梢細気管支が閉塞してair trappingによる肺過膨張をきたす, 閉塞性肺障害.
+    - 機序は2通りある:
+        - 呼吸細気管支内部にポリープ様肉芽が生じる(classical proliferative type)
+        - 粘膜下や周囲の瘢痕化による周囲からの狭窄(constrictive type)
+    - 画像所見はmosaic attenuation + air trappingが起きている箇所の肺血管狭小化.
+
+![](img/bo_illust.jpg)
+![](img/bo.jpg)    
+
+- 2012-33: `多発薄壁囊胞` 
+- 2019-36: `糖尿病`
+- 2014-37: `肺血管の狭細化`, `肺野のモザイク状吸収域`  
+</details>
 
 
 ### XIN. 肺結節,肺腫瘍,気管支腫瘍
@@ -1594,13 +1613,13 @@ e 肺野末梢のすりガラス状陰影
 
 
 #### 肺結節ほか
-[2018-36](http://www.radiology.jp/content/files/20180926_2.pdf#page=14)
-CTで両肺に多発する空洞性転移を認めた。原発巣として**考えにくい**のはどれか。1つ選べ。  
-`膵癌` `大腸癌` `下咽頭癌` `甲状腺癌` `頭皮血管肉腫`  
-
 [2016-37](http://www.radiology.jp/content/files/20160825.pdf#page=13)
 肺過誤腫に特徴的なCT所見はどれか。2つ選べ。  
 `スピクラ` `胸膜嵌入像` `すりガラス影` `ポップコーン状石灰化` `脂肪を示唆する低吸収域`  
+
+[2018-36](http://www.radiology.jp/content/files/20180926_2.pdf#page=14)
+CTで両肺に多発する空洞性転移を認めた。原発巣として**考えにくい**のはどれか。1つ選べ。  
+`膵癌` `大腸癌` `下咽頭癌` `甲状腺癌` `頭皮血管肉腫`  
 
 [2016-38](http://www.radiology.jp/content/files/20160825.pdf#page=13)
 肺定型的カルチノイドの画像所見として頻度が最も**低い**のはどれか。1つ選べ。  
@@ -1749,29 +1768,23 @@ e 肺葉外分画症は肺葉内分画症より発生頻度が低い。
 
 ### XIZ. 総合問題
 #### 病変分布
+◎[2015-32](http://www.radiology.jp/content/files/20150821.pdf#page=11)
+病変が上肺に多い疾患はどれか。2つ選べ。  
+`肺結核症` `誤嚥性肺炎` `肺血栓塞栓症` `特発性間質性肺炎` `Langerhans 細胞組織球症`  
+
+◎[2013-33](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=11)
+病変が上肺野に優位な分布を示すのはどれか。1つ選べ。  
+`石綿肺症` `粟粒結核` `非特異性間質性肺炎` `びまん性汎細気管支炎` `Langerhans 細胞組織球症`  
+
 [2016-34](http://www.radiology.jp/content/files/20160825.pdf#page=12)
-びまん性肺疾患で上肺野優位に病変が分布するのはどれか。2 つ選べ。
+びまん性肺疾患で上肺野優位に病変が分布するのはどれか。2つ選べ。
 a	 珪肺症
 b	 石綿肺
 c	 粟粒結核
 d	 特発性肺線維症
 e	 Langerhans 細胞組織球症
 
-[2015-32](http://www.radiology.jp/content/files/20150821.pdf#page=11)
-病変が上肺に多い疾患はどれか。2 つ選べ。
-a	 肺結核症
-b	 誤嚥性肺炎
-c	 肺血栓塞栓症
-d	 特発性間質性肺炎
-e	 Langerhans 細胞組織球症
 
-[2013-33](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=11)
-病変が上肺野に優位な分布を示すのはどれか。1 つ選べ。
-a 石綿肺症
-b 粟粒結核
-c 非特異性間質性肺炎
-d びまん性汎細気管支炎
-e Langerhans 細胞組織球症
 
 [2019-33](http://www.radiology.jp/content/files/20190904_02.pdf#page=13)
 下肺野優位に分布する肺疾患はどれか。2 つ選べ。
@@ -1852,6 +1865,23 @@ b	 粟粒結核
 c	 過敏性肺炎
 d	 びまん性汎細気管支炎
 e	 Langerhans 細胞組織球症
+
+<details>
+<summary></summary>
+
+【肺の病変分布】
+
+**こたえ**
+
+- 感染症:
+    - 肺結核: 上肺野優位
+- IIPs:
+    - IPF/UIP, NSIP, COP: 下肺野優位
+- びまん肺ほか:
+    - PLCH: 上肺野優位 & 小葉中心性
+
+- 2015-32: `肺結核症`,` Langerhans 細胞組織球症`  
+</details>
 
 
 #### 所見との関係
