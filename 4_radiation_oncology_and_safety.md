@@ -679,6 +679,8 @@ e	 ファイバードコイルではコイルの逸脱防止のためにファ�
 - 体積1/3の耐容線量が小さい臓器は, 水晶体(10Gy), 網膜と肺(45Gy), 視神経と視交叉と小腸と肝(50Gy).
 - 体積3/3の耐容線量が小さい臓器は, 水晶体(10Gy), 肺(17.5Gy), 腎(23Gy), 肝(30Gy)など.
 
+注意: **放射線治療計画ガイドラインの第1章と第12章に掲載されている耐容線量では有害事象の内容が異なる部分がある.**
+
 ![](img/td55_1.jpg)
 ![](img/td55_2.jpg)
 
@@ -1656,26 +1658,36 @@ RI 内用療法に用いられる放射性核種はどれか。2つ選べ。
 
 
 ## 腫瘍学
-### 放射線感受性
-
-
-
 ### 癌とウイルス
-[2016-92](http://www.radiology.jp/content/files/20160825.pdf#page=33)
- 悪性腫瘍とウイルスとの組み合わせとして関連が乏しいのはどれか。1 つ選べ。
-a	 肝細胞癌 HCV（Hepatitis C virus）
-b	 中咽頭癌 EBV（Epstein-Barr virus）
-c	 子宮頸癌 HPV（Human Papilloma virus）
-d	 胃 MALT リンパ腫 Helicobacter pylori
-e	 脳原発悪性リンパ腫 HIV（Human Immunodeficiency virus）
-
-[2013-86](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29)
+◎[2013-86](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29)
 HPV (Human Papillomavirus) がその発症と関連する腫瘍はどれか。2つ選べ。  
-a 上咽頭癌
-b 中咽頭癌
-c 肝細胞癌
-d 子宮頸癌
-e Burkitt リンパ腫
+`上咽頭癌` `中咽頭癌` `肝細胞癌` `子宮頸癌` `Burkittリンパ腫`
+
+◎[2016-92](http://www.radiology.jp/content/files/20160825.pdf#page=33)
+悪性腫瘍とウイルスとの組み合わせとして**関連が乏しい**のはどれか。1つ選べ。  
+`肝細胞癌 - HCV（Hepatitis C virus）`  
+`中咽頭癌 - EBV（Epstein-Barr virus）`  
+`子宮頸癌 - HPV（Human Papilloma virus）`  
+`胃 MALT リンパ腫 - Helicobacter pylori`  
+`脳原発悪性リンパ腫 - HIV（Human Immunodeficiency virus）`  
+
+
+<details>
+<summary></summary>
+
+【癌とウイルスとの関連】
+
+- 上咽頭癌: 非角化型扁平上皮癌がもっとも高頻度で, そのほぼ100%がEBV関連. 次に多いのは角化型扁平上皮癌.
+- 中咽頭癌: 日本では中咽頭癌の4割がHPV関連. HPV関連のほうがそうでないものより予後はよい.
+- Burkittリンパ腫: EBVが発症に関与する.  
+- 中枢神経系原発悪性リンパ腫(PCNSL): HIVによる免疫抑制患者に発症することが多い.  
+
+**こたえ**
+- 2013-86: `中咽頭癌`, `子宮頸癌` 
+- 2016-92: `中咽頭癌 - EBV（Epstein-Barr virus）`
+</details>
+
+
 
 ### ほか
 [2019-87](http://www.radiology.jp/content/files/20190904_02.pdf#page=31)
@@ -2470,6 +2482,41 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 咽頭癌の放射線治療の有害事象として頻度が**低い**のはどれか。1つ選べ。  
 `白内障` `味覚障害` `嚥下障害` `唾液腺障害` `甲状腺機能低下症`  
 
+<details>
+<summary></summary>
+
+【咽頭癌の概要】
+
+- ウイルスとの関連
+    - 上咽頭癌: 非角化型扁平上皮癌がもっとも高頻度で, そのほぼ100%がEBV関連. 次に多いのは角化型扁平上皮癌.
+    - 中咽頭癌: 日本では中咽頭癌の4割がHPV関連. HPV関連のほうがそうでないものより予後はよい.
+
+【咽頭癌の治療方針】
+
+- 上咽頭癌: 
+    - 解剖学的に手術が難しいため, 治療法はほぼCCRT一択となる.
+    - T1N0M0のみRT単独も適応あり.
+- 中咽頭癌: 
+    - p16(-)(≒HPV関連でない)の場合:
+        - Stage0: 外科的切除.
+        - Stage1-2: RT単独または外科的切除.
+        - Stage3-4A: CCRTまたは外科的切除. ただしT1-2N1M0に限ってRT単独も可.
+        - Stage4B: 手術可能なら外科的切除, 不可能ならCCRT.
+    - p16(+)(≒HPV関連)の場合:
+        - Stage0: 外科的切除.
+        - Stage1: CCRTまたはRT単独または外科的切除.
+        - Stage2: CCRTまたは外科的切除.
+        - Stage3: 手術可能なら外科的切除, 不可能ならCCRT.
+- 下咽頭癌:
+    - 喉頭温存が可能であれば: 原則的に根治的CCRT. 頸部郭清や救済手術を追加する場合もある. Stage1-2ならRT単独のことも. 
+    - 喉頭温存は不可能だが手術は可能ならば: 根治手術. 断端陽性 or リンパ節節外浸潤陽性の場合は術後CCRTを追加.
+
+**こたえ**
+
+
+
+</details>
+
 
 ### 喉頭癌
 ◎[2017-94](http://www.radiology.jp/content/files/20170904_2.pdf#page=33)
@@ -2520,8 +2567,6 @@ I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。
     - 晩期: 甲状腺機能低下症
 - 効果
     - 5年局所制御率は60%以上.
-
-GTV+声帯+微視的病変+頸部リンパ節(Lv.2,3,4a,6)
 
 **こたえ**
 - 2017-94: `声帯全体`
