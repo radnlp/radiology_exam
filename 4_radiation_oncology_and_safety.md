@@ -3267,22 +3267,29 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 - 2015-91: `メトトレキサート後の放射線治療`
 </details>
 
-[2013-94](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32)
-成人の星細胞腫（WHO Grade 2）の術後照射で一般に用いられるのはどれか。1 つ選べ。
-a 30Gy/10Fr/2週
-b 40Gy/20Fr/4週
-c 50Gy/25Fr/5週
-d 60Gy/30Fr/6週
-e 70Gy/35Fr/7週
+◎[2013-94(改題)](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32)
+成人の星細胞腫（WHO Grade 2）の術後照射で一般に用いられるのはどれか。1つ選べ。  
+`30Gy/10Fr` `40Gy/20Fr` `54Gy/30Fr` `60Gy/40Fr` `75Gy/50Fr`  
 
 <details>
 <summary></summary>
 
-【星細胞腫の放射線治療】
+【神経膠腫の悪性度と治療方針】
 
+- WHO Grade 2 (低悪性度): Diffuse Astrocytoma (IDH wild/mutant), Oligodendroglioma (IDH wild/mutant)
+    - 最大限に肉眼的摘出をめざし, その後術後照射を追加する.
+    - CTV: GTV + 摘出腔 + 1cmマージン.
+    - 線量: 54Gy/30Fr.
+    - 成績: 5年生存率はDiffuse Astrocytomaで68%, Oligodendrogliomaで88%.
+    - 有害事象: 晩期でもっとも問題となるのは放射性脳壊死.
+- WHO Grade 3-4 (高悪性度):
+    - 最大限に肉眼的摘出をめざし, その後テモゾロミド, ニトロソウレア, カルムスチンによる化学療法 + 術後照射を追加する.
+    - 線量: 60Gy/30Fr.
+    - 成績: 5年生存率はGlioblastomaで10%.
+    - 有害事象: 晩期でもっとも問題となるのは放射性脳壊死.
 
- 
 **こたえ**
+- 2013-94: `54Gy/30Fr`
 </details>
 
 [2019-92](http://www.radiology.jp/content/files/20190904_02.pdf#page=32)
