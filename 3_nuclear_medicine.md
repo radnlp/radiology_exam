@@ -587,6 +587,18 @@ e 骨髄
 
 ## 脳神経核医学
 ### X6JC. 脳血流シンチグラフィ
+
+◎[2014-78](http://www.radiology.jp/content/files/1377.pdf#page=27)
+放射性医薬品として脳血流SPECTに用いられるのはどれか。2つ選べ。  
+`Tc-99m-MDP` `Tc-99m-ECD` `Tc-99m-GSA` `Tc-99m-MIBI` `Tc-99m-HMPAO` 
+
+<details>
+<summary></summary>
+
+**こたえ**
+- 2014-78: `Tc-99m-ECD`, `Tc-99m-HMPAO`
+</details>
+
 [2019-74](http://www.radiology.jp/content/files/20190904_02.pdf#page=26)
 投与後に脳集積が速やかに生じて一定になる放射性医薬品はどれか。1 つ選べ。
 a	 18F-FDG
@@ -630,13 +642,7 @@ d	 てんかん発作時の局所脳血流の評価に最も優れているの�
 e	 局所脳血流量と集積との直線性が最も優れているのは99mTc-HM-PAO である。
 
 
-[2014-78](http://www.radiology.jp/content/files/1377.pdf#page=27)
-放射性医薬品として脳血流 SPECT に用いられるのはどれか。2 つ選べ。
-a 99mTc-MDP
-b 99mTc-ECD
-c 99mTc-GSA
-d 99mTc-MIBI
-e 99mTc-HMPAO
+
 
 [2014-80](http://www.radiology.jp/content/files/1377.pdf#page=28)
 脳血流 SPECT を用いた統計画像解析について誤っているのはどれか。1 つ選べ。
