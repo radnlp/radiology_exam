@@ -3,7 +3,7 @@
     - [放射性核種](#放射性核種) (13題)
     - [PETとSPECTの原理](#PETとSPECTの原理) (8題)(Complete!)
 - [核医学各論](#核医学各論)
-    - [FDG-PETとGaシンチグラフィ](#FDG-PETとGaシンチグラフィ) (14題)
+    - [FDG-PETとGaシンチグラフィ](#FDG-PETとGaシンチグラフィ) (14題)(Complete!)
     - [脳神経核医学](#脳神経核医学)
         - 脳血流シンチグラフィ (10題)
         - ドパミントランスポーターシンチグラフィとMIBGシンチグラフィ (9題)
@@ -547,11 +547,11 @@ FDG-PETについて正しいのはどれか。1つ選べ。
 </details>
 
 
-[2018-83](http://www.radiology.jp/content/files/20180926_2.pdf#page=30)
+◎[2018-83](http://www.radiology.jp/content/files/20180926_2.pdf#page=30)
 F-18-FDG-PETにおいて有意な集積亢進を**呈しにくい**のはどれか。1つ選べ。  
 `甲状腺腫` `下垂体腺腫` `線維性骨異形成` `耳下腺多形腺腫` `膵管内乳頭粘液性腺腫` 
 
-[2017-83](http://www.radiology.jp/content/files/20170904_2.pdf#page=30)
+◎[2017-83](http://www.radiology.jp/content/files/20170904_2.pdf#page=30)
 疾患としてF-18-FDGの集積が亢進することが**最も少ない**のはどれか。1つ選べ。  
 `悪性黒色腫` `Warthin 腫瘍` `甲状腺未分化癌` `細気管支肺胞上皮癌` `びまん性大細胞型 B 細胞リンパ腫`  
 
@@ -660,15 +660,40 @@ FDG-PETの保険適用として正しいのはどれか。2つ選べ。
 </details>
 
 
-
-[2018-82](http://www.radiology.jp/content/files/20180926_2.pdf#page=30)
+◎[2018-82](http://www.radiology.jp/content/files/20180926_2.pdf#page=30)
 Ga-67シンチグラフィで生理的集積を**示さない**のはどれか。1つ選べ。  
 `大脳` `涙腺` `肝臓` `腸管` `骨髄` 
 
-[2015-80](http://www.radiology.jp/content/files/20150821.pdf#page=28)
+◎[2015-80](http://www.radiology.jp/content/files/20150821.pdf#page=28)
 サルコイドーシスで認められるGa-67シンチグラムのサインはどれか。2つ選べ。  
 `stripe sign` `panda sign` `lambda sign` `lollipop sign` `Westermark sign` 
 
+<details>
+<summary></summary>
+
+【Gaシンチグラフィ】
+
+- 概要
+    - Ga-67を使用する. 物理学的半減期は約78時間.
+    - γ線のエネルギーは3種類ある: 93.3keV, 185keV, 300keV.
+    - トランスフェリンと結合して運搬される.
+        - 炎症組織では: 血流増加, 毛細血管透過性亢進, 細菌や多核球への取り込み, 組織間質への結合などにより取り込まれる.
+        - 腫瘍組織では: 細胞膜表面のトランスフェリン受容体を通じて腫瘍細胞内に取り込まれる.
+    - 24時間以内に12%が腎から排泄されるが, 残りは肝から排泄されるため腸管の描出が目立つ.
+- 検査法
+    - 74-148MBqを静注して48-72時間後に撮像する.
+    - 腸管排泄による集積の影響を緩和するため, 撮像前に下剤内服などをして排便させる.
+- 所見
+    - 生理的集積: 鼻咽頭, 涙腺, 唾液腺, 肝, 腸管, 骨髄に生理的集積する.
+        - ![](img/ga-67_normal.jpg)
+    - 異常集積:
+        - サルコイドーシス: Panda sign, Lambda sign.
+        - ![](img/ga-67_sarcoidosis.jpg)
+
+**こたえ**
+- 2018-82: `大脳`
+- 2015-80: `panda sign`, `lambda sign`
+</details>
 
 
 ## 脳神経核医学
@@ -1027,6 +1052,10 @@ e 副腎過形成による原発性アルドステロン症
 
 
 ## 異所性胃粘膜シンチグラフィ
+[2015-81](http://www.radiology.jp/content/files/20150821.pdf#page=28)
+異所性胃粘膜シンチグラフィで用いる放射性医薬品はどれか。1つ選べ。  
+`Tc-99m-DMSA` `Tc-99m-DTPA` `Tc-99m-HMDP` `Tc-99m-HSAD` `Tc-99m-pertechnetate` 
+
 [2018-84](http://www.radiology.jp/content/files/20180926_2.pdf#page=30)
 異所性胃粘膜シンチグラフィに使用する放射性医薬品を投与した 30 分後に全身像を撮
 像した場合，陽性描画されないのはどれか。1 つ選べ。
@@ -1036,13 +1065,7 @@ c	 胃
 d	 腎　臓
 e	 大　腸
 
-[2015-81](http://www.radiology.jp/content/files/20150821.pdf#page=28)
-異所性胃粘膜シンチグラフィで用いる放射性医薬品はどれか。1 つ選べ。
-a	 99mTc-DMSA
-b	 99mTc-DTPA
-c	 99mTc-HMDP
-d	 99mTc-HSAD
-e	 99mTc-pertechnetate
+
 
 ## 肝受容体シンチグラフィ
 
