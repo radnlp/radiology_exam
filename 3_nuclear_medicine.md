@@ -703,20 +703,33 @@ Ga-67シンチグラフィで生理的集積を**示さない**のはどれか�
 放射性医薬品として脳血流SPECTに用いられるのはどれか。2つ選べ。  
 `Tc-99m-MDP` `Tc-99m-ECD` `Tc-99m-GSA` `Tc-99m-MIBI` `Tc-99m-HMPAO` 
 
+◎[2019-74](http://www.radiology.jp/content/files/20190904_02.pdf#page=26)
+投与後に脳集積が速やかに生じて一定になる放射性医薬品はどれか。1つ選べ。  
+`F-18-FDG` `Tc-99m-ECD` `In-111-DTPA` `I-123-IMP` `I-123-ioflupane` 
+
 <details>
 <summary></summary>
 
+【脳血流シンチグラフィの薬剤】
+
+- 脳血流SPECTトレーサーの質の評価 (核医学テキスト)
+    - 脳血流シンチグラフィでは一定以上の血流は正しく測定できないことがある
+        - トレーターの単位断面体積あたりのBBBの透過率に依存する
+        - 言い換えると, 初回循環でのトレーサーの摂取率 (EF(Extraction Fraction)) に依存する
+        - EFが低いと初回循環ですべてが拡散しないため血流量が多い場合に透過量が頭打ちになる
+        - トレーサーが脂溶性であるほどBBBを透過しやすいのでEFも大きく, より多くの血流量にまで対応できる
+        - EFはI-123-IMPがもっとも高く(90%), Tc-99m-ECDがもっとも低い(77%)
+        - ![](img/cerebral_blood_flow_spect.jpg)
+    - ただし撮像はTc製剤のほうがすばやく行える
+        - Tc-99m-ECD, Tc-99m-HMPAOは直接脳に取り込まれる
+        - I-123-IMPはいったん肺に取り込まれてから緩徐に放出される
+
 **こたえ**
 - 2014-78: `Tc-99m-ECD`, `Tc-99m-HMPAO`
+- 2019-74: `Tc-99m-ECD`?
 </details>
 
-[2019-74](http://www.radiology.jp/content/files/20190904_02.pdf#page=26)
-投与後に脳集積が速やかに生じて一定になる放射性医薬品はどれか。1 つ選べ。
-a	 18F-FDG
-b	 99mTc-ECD
-c	 111In-DTPA
-d	 123I-IMP
-e	 123I-ioflupane
+
 
 [2019-75](http://www.radiology.jp/content/files/20190904_02.pdf#page=27)
 脳潅流圧が緩徐に低下した場合，はじめに起きるのはどれか。1 つ選べ。
