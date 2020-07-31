@@ -79,6 +79,9 @@
 - 2015-01: `β崩壊の後，原子量が1増える。`
 </details>
 
+◎[2014-72](http://www.radiology.jp/content/files/1377.pdf#page=25)
+放射性核種としてPET検査に用いられるのはどれか。2つ選べ。　　
+`N-13` `O-15` `Sr-89` `Tc-99m` `I-123`  
 
 ◎[2013-71](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=24)
 次の放射性同位元素の中でβ線を放出するのはどれか。2つ選べ。  
@@ -115,24 +118,17 @@
     - Au-198 -> (β-壊変) -> Hg-198
 
 **こたえ**
+- 2014-72: `N-13`, `O-15`
 - 2013-71: `Y-90`, `I-131`
 </details>
 
 [2018-72](http://www.radiology.jp/content/files/20180926_2.pdf#page=26)
-ジェネレータで生成できる放射性核種はどれか。2 つ選べ。
-a	 81mKr
-b	 99mTc
-c	 123I
-d	 131I
-e	 201Tl
+ジェネレータで生成できる放射性核種はどれか。2つ選べ。  
+`Kr-81m` `Tc-99m` `I-123` `I-131` `Tl-201` 
 
 [2015-71](http://www.radiology.jp/content/files/20150821.pdf#page=25)
- ジェネレータで生成される放射性同位元素はどれか。1 つ選べ。
-a	 67Ga
-b	 81mKr
-c	 111In
-d	 123I
-e	 201Tl
+ジェネレータで生成される放射性同位元素はどれか。1つ選べ。  
+`Ga-67` `Kr-81m` `In-111` `I-123` `Tl-201` 
 
 <details>
 <summary></summary>
@@ -200,14 +196,6 @@ b 1.6 日
 c 2日
 d 8日
 e 10 日
-
-[2014-72](http://www.radiology.jp/content/files/1377.pdf#page=25)
-放射性核種として PET 検査に用いられるのはどれか。2 つ選べ。
-a 13N
-b 15O
-c 89Sr
-d 99mTc
-e 123I
 
 [2012-71](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=24)
 次の放射性同位元素の中で半減期が最も長いのはどれか。1 つ選べ。
