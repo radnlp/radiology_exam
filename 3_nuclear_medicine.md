@@ -6,11 +6,11 @@
     - [FDG-PETとGaシンチグラフィ](#FDG-PETとGaシンチグラフィ) (14題)(Complete!)
     - [脳神経核医学](#脳神経核医学)
         - 脳血流シンチグラフィ (10題)
-        - ドパミントランスポーターシンチグラフィとMIBGシンチグラフィ (9題)
+        - ドパミントランスポーターシンチグラフィとMIBGシンチグラフィ (8題)
         - 脳神経核医学ほか (2題)
     - [心臓核医学](#心臓核医学) (10題)
     - [肺換気血流シンチグラフィ](#肺換気血流シンチグラフィ) (5題)
-    - [内分泌核医学](#内分泌核医学) (4題)
+    - [内分泌核医学](#内分泌核医学) (5題)
     - [異所性胃粘膜シンチグラフィ](#異所性胃粘膜シンチグラフィ) (2題)
     - [肝受容体シンチグラフィ](#肝受容体シンチグラフィ) (1題)
     - [腎シンチグラフィ](#腎シンチグラフィ) (5題)
@@ -845,9 +845,9 @@ Ga-67シンチグラフィで生理的集積を**示さない**のはどれか�
 - てんかん
     - 発作中にはてんかん焦点の血流が増加し, 発作間欠期にはてんかん焦点の血流が低下する.
 - Parkinson症候群
-    - 進行性核上性麻痺: 前頭葉内側
+    - 進行性核上性麻痺: 前頭葉内側の血流低下
     - 大脳皮質基底核変性症: 大脳皮質に強い血流左右差
-    - 多系統萎縮症: 小脳の血流低下
+    - 多系統萎縮症: 小脳, 脳幹の血流低下
 
 **こたえ**
 - 2014-81: `Alzheimer病`, `Lewy小体型認知症`
@@ -860,46 +860,55 @@ Ga-67シンチグラフィで生理的集積を**示さない**のはどれか�
 
 
 ### X6Js. ドパミントランスポーターシンチグラフィとMIBGシンチグラフィ
-[2018-78](http://www.radiology.jp/content/files/20180926_2.pdf#page=28)
-正しいのはどれか。2 つ選べ。
-a	 123I-ioflupane SPECT において本態性振戦では線条体の集積が低下する。
-b	 123I-MIBG 心シンチグラフィにおいて Parkinson 病では左室集積が低下する。
-c	 123I-ioflupane SPECT において Alzheimer 型認知症では線条体の集積が低下する。
-d	 123I-ioflupane SPECT において Lewy 小体型認知症では線条体の集積が低下する。
-e	 123I-MIBG 心シンチグラフィにおいて進行性核上性麻痺では左室集積が低下する。
+◎[2015-75](http://www.radiology.jp/content/files/20150821.pdf#page=26)
+ドーパミントランスポーターのSPECT製剤はどれか。1つ選べ。  
+`Tc-99m-ECD` `Tc-99m-HMPAO` `I-123-IMP` `I-123-ioflupane` `I-123-iomazenil`  
 
-[2017-78](http://www.radiology.jp/content/files/20170904_2.pdf#page=28)
-123I-ioflupane SPECT で線条体の集積低下がみられることが多い疾患はどれか。
-2 つ選べ。
-a	 本態性振戦
-b	 前頭側頭型認知症
-c	 皮質基底核変性症
-d	 Lewy 小体型認知症
-e	 Alzheimer 型認知症
+◎[2014-79](http://www.radiology.jp/content/files/1377.pdf#page=27)
+ドーパミントランスポーター製剤はどれか。1つ選べ。  
+`Tc-99m-DTPA` `Tc-99m-O4-` `I-123-IMP` `I-123-ioflupane` `I-123-iomazenil`  
 
 [2016-78](http://www.radiology.jp/content/files/20160825.pdf#page=28)
-123I-ioflupane 脳 SPECT について正しいのはどれか。1 つ選べ。
-a	 主に視床に集積する。
-b	 加齢とともに集積が低下する。
-c	 主にドーパミン受容体の分布を反映している。
-d	 症状の強い側と同側に画像で集積低下が見られることが多い。
-e	 びまん性に集積低下が見られた場合は，Alzheimer 型認知症が考えやすい。
+I-123-ioflupane脳SPECTについて正しいのはどれか。1つ選べ。  
+`主に視床に集積する。`  
+`加齢とともに集積が低下する。`  
+`主にドーパミン受容体の分布を反映している。`  
+`症状の強い側と同側に画像で集積低下が見られることが多い。`  
+`びまん性に集積低下が見られた場合は，Alzheimer 型認知症が考えやすい。`  
 
-[2015-75](http://www.radiology.jp/content/files/20150821.pdf#page=26)
-ドーパミントランスポーターの SPECT 製剤はどれか。1 つ選べ。
-a	 99mTc-ECD
-b	 99mTc-HMPAO
-c	 123I-IMP
-d	 123I-ioflupane
-e	 123I-iomazenil
+◎[2017-78](http://www.radiology.jp/content/files/20170904_2.pdf#page=28)
+I-123-ioflupane SPECTで線条体の集積低下がみられることが多い疾患はどれか。2つ選べ。  
+`本態性振戦` `前頭側頭型認知症` `皮質基底核変性症` `Lewy小体型認知症` `Alzheimer型認知症`  
 
-[2014-79](http://www.radiology.jp/content/files/1377.pdf#page=27)
-ドーパミントランスポーター製剤はどれか。1 つ選べ。
-a 99mTc-DTPA
-b 99mTc-O4-
-c 123I-IMP
-d 123I-ioflupane
-e 123I-iomazenil
+<details>
+<summary></summary>
+
+【ドパミントランスポーターシンチグラフィ】
+
+-
+
+**こたえ**
+- 2015-75: `I-123-ioflupane`
+- 2014-79: `I-123-ioflupane`
+- 2016-78: 
+- 2017-78: `皮質基底核変性症`, `Lewy小体型認知症`
+</details>
+
+[2012-77](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=26)
+123I-MIBG について正しいのはどれか。1 つ選べ。
+a 心不全で心縦隔比が上昇する。
+b 心不全で洗い出し率が低下する。
+c カテコールアミン受容体と結合する。
+d アセチルコリンと同様の動態を示す。
+e パーキンソン病で心集積が低下する。
+
+[2014-85](http://www.radiology.jp/content/files/1377.pdf#page=29)
+123I-MIBG によるシンチグラフィが適応でないのはどれか。1 つ選べ。
+a 心不全
+b 神経芽腫
+c パーキンソン病
+d クッシング症候群
+e Lewy 小体型認知症
 
 [2016-80](http://www.radiology.jp/content/files/20160825.pdf#page=29)
 123I-MIBG 交感神経シンチグラフィで，心不全の症例で見られる頻度が高いのはどれか。
@@ -910,29 +919,14 @@ c	 心/縦隔比の減少
 d	 左室前壁の集積増加
 e	 心筋からの洗い出し率の増加
 
-[2014-85](http://www.radiology.jp/content/files/1377.pdf#page=29)
-123I-MIBG によるシンチグラフィが適応でないのはどれか。1 つ選べ。
-a 心不全
-b 神経芽腫
-c パーキンソン病
-d クッシング症候群
-e Lewy 小体型認知症
+[2018-78](http://www.radiology.jp/content/files/20180926_2.pdf#page=28)
+正しいのはどれか。2つ選べ。  
+a	 123I-ioflupane SPECT において本態性振戦では線条体の集積が低下する。
+b	 123I-MIBG 心シンチグラフィにおいて Parkinson 病では左室集積が低下する。
+c	 123I-ioflupane SPECT において Alzheimer 型認知症では線条体の集積が低下する。
+d	 123I-ioflupane SPECT において Lewy 小体型認知症では線条体の集積が低下する。
+e	 123I-MIBG 心シンチグラフィにおいて進行性核上性麻痺では左室集積が低下する。
 
-[2012-77](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=26)
-123I-MIBG について正しいのはどれか。1 つ選べ。
-a 心不全で心縦隔比が上昇する。
-b 心不全で洗い出し率が低下する。
-c カテコールアミン受容体と結合する。
-d アセチルコリンと同様の動態を示す。
-e パーキンソン病で心集積が低下する。
-
-[2012-80](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=27)
-123I-MIBG が集積しないのはどれか。1 つ選べ。
-a 神経芽腫
-b 神経鞘腫
-c カルチノイド
-d 褐色細胞腫
-e 甲状腺髄様癌
 
 ### X6JZ. 脳神経核医学ほか
 
@@ -1117,6 +1111,14 @@ b 褐色細胞腫
 c 肺癌の副腎転移
 d 副腎腺腫によるクッシング症候群
 e 副腎過形成による原発性アルドステロン症
+
+[2012-80](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=27)
+123I-MIBG が集積しないのはどれか。1 つ選べ。
+a 神経芽腫
+b 神経鞘腫
+c カルチノイド
+d 褐色細胞腫
+e 甲状腺髄様癌
 
 
 ## 異所性胃粘膜シンチグラフィ
