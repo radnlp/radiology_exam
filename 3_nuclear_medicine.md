@@ -930,21 +930,26 @@ e	 123I-MIBG 心シンチグラフィにおいて進行性核上性麻痺では�
 
 ### X6JZ. 脳神経核医学ほか
 
-[2017-77](http://www.radiology.jp/content/files/20170904_2.pdf#page=27)
-検査項目として SPECT で評価できないのはどれか。1 つ選べ。
-a	 酸素代謝
-b	 脳血液量
-c	 脳血流量
-d	 ドーパミントランスポータ
-e	 中枢性ベンゾジアゼピン受容体
+◎[2017-77](http://www.radiology.jp/content/files/20170904_2.pdf#page=27)
+検査項目としてSPECTで**評価できない**のはどれか。1つ選べ。  
+`酸素代謝` `脳血液量` `脳血流量` `ドーパミントランスポータ` `中枢性ベンゾジアゼピン受容体`  
 
-[2012-75](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=25)
-放射性医薬品と評価対象との組み合わせで正しいのはどれか。1 つ選べ。
-a 99mTc-ECD ――――――――脳酸素代謝率
-b 99mTc-HMPAO ――――――脳腫瘍悪性度
-c 111In-DTPA ―――――――てんかん焦点
-d 123I-IMP ―――――――――内頸動脈内膜剥離術後の過灌流
-e 123I-iomazenil―――――――脳血液量
+◎[2012-75](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=25)
+放射性医薬品と評価対象との組み合わせで正しいのはどれか。1つ選べ。  
+`Tc-99m-ECD - 脳酸素代謝率`  
+`Tc-99m-HMPAO - 脳腫瘍悪性度`  
+`In-111-DTPA - てんかん焦点`  
+`I-123-IMP - 内頸動脈内膜剥離術後の過灌流`  
+`I-123-iomazenil - 脳血液量`  
+
+
+<details>
+<summary></summary>
+    
+**こたえ**
+- 2017-77: `酸素代謝`
+- 2012-75: `I-123-IMP - 内頸動脈内膜剥離術後の過灌流`  
+</details>
 
 
 
