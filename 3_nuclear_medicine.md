@@ -1345,15 +1345,15 @@ e	 201TlCl
 
 
 ## RI内用療法
-[2012-85](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=29)
+◎[2012-85](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=29)
 RI内用療法に用いられる放射性核種はどれか。2つ選べ。  
 `Co-60` `Sr-89` `Y-90` `In-111` `I-123` 
 
-[2015-84](http://www.radiology.jp/content/files/20150821.pdf#page=29)
+◎[2015-84](http://www.radiology.jp/content/files/20150821.pdf#page=29)
 放射性同位元素として内用療法に用いるのはどれか。1つ選べ。  
 `Kr-81m` `Y-90` `Tc-99m` `I-123` `Tl-201` 
 
-[2013-84](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=28)
+◎[2013-84](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=28)
 骨転移の疼痛緩和に用いられる放射性核種はどれか。1つ選べ。  
 `Sr-89` `Y-90` `Tc-99m` `In-111` `I-131` 
 
@@ -1406,6 +1406,12 @@ e	 CD20陽性の悪性リンパ腫に対するRI内用療法では予め111In標
 <summary></summary>
 
 【RI内用療法】
+
+- RI内用療法
+    - I-131内服: 分化型甲状腺癌, Basedow病
+    - Sr-89静注: 骨転移
+    - Ra-223静注: 骨転移 (**唯一α線を放出する核種**. ほかはすべてβ線を放出)
+    - Y-90静注: 悪性リンパ腫
 
 **こたえ**
 - 2012-85: `Sr-89`, `Y-90`
