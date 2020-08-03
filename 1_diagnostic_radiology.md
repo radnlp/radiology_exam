@@ -4300,43 +4300,96 @@ Paget病で**誤っている**のはどれか。1つ選べ。
 
 ### XTNb. 骨腫瘍
 
+[2019-21](http://www.radiology.jp/content/files/20190904_03.pdf#page=19)
+20歳代の女性。右膝背側の痛みを主訴に来院した。右膝関節の単純X線写真の側面像を示す。可能性が最も高いのはどれか。1つ選べ。  
+`類骨骨腫` `骨化性筋炎` `悪性リンパ腫` `傍骨性骨肉腫` `メロレオストーシス`  
+![](img/2nd_201921.png)
+
 <details>
 <summary></summary>
 【良性骨腫瘍】
 
 - 骨に由来するもの
     - 骨腫 osteoma
+        - 画像:
     - 類骨骨腫 osteoid osteoma
+        - 画像:
     - 骨芽細胞腫 osteoblastoma
+        - 画像: 境界明瞭な溶骨像 + その中心に骨化像.
 - 軟骨に由来するもの
-    - 内軟骨腫 enchondroma
-    - 内軟骨腫症 enchondromatosis
     - 骨軟骨腫 osteochondroma
+        - 良性骨腫瘍のなかでもっとも多い.
+        - 画像: 骨表面から突出性に発育する骨性隆起性の良性軟骨形成性腫瘍.
+    - 内軟骨腫 enchondroma
+        - 画像:
+        - 多発することがある. Ollier病, Maffucci症候群.
+    - 内軟骨腫症 enchondromatosis
     - 多発性骨軟骨性外骨腫症 multiple osteocartilaginous exostoses
     - 傍骨性骨軟骨異型増生 bizarre parosteal osteochondromatous proliferation
     - 軟骨芽細胞腫 chondroblastoma
+        - 画像: 辺縁に骨硬化を伴う境界明瞭な限局性の溶骨像.
     - 軟骨粘液線維腫 chondromyxoid fibroma
-- ほか
-- 非骨化性線維腫 non-ossifying fibroma
-- 線維性骨異形成症 fibrous dysplasia
-- 骨線維性異形成症 osteofibrous dysplasia
-- 類腱線維腫 desmoplastic fibroma
-- 単純性骨嚢腫 simple bone cyst
-- 動脈瘤様骨嚢腫 aneurysmal bone cyst
-- 骨巨細胞腫 giant cell tumor
-- 血管腫
-- 骨内脂肪腫 intrassoues lipoma
-- ほか
-    - 骨内ガングリオン
-    - Langerhans細胞組織球症
-    - Erdheim-Chester病
-    - 骨梗塞
-    - 骨化性筋炎
 
 **こたえ**
 </details>
 
 
+<details>
+<summary></summary>
+【良性骨腫瘍(2)】
+
+- 非骨化性線維腫 non-ossifying fibroma
+    - NF1患者に多発することがある. 
+    - 分布: 骨幹端. 中央ではなく左右どちらかに偏って出現する.
+    - 画像: 境界明瞭な骨透亮像. 貝殻状の骨硬化縁を伴うこともある.
+- 類腱線維腫 desmoplastic fibroma
+- 単純性骨嚢腫 simple bone cyst
+    - 画像:
+- 動脈瘤様骨嚢腫 aneurysmal bone cyst
+    - 画像:
+- 骨巨細胞腫 giant cell tumor
+    - 画像: 分葉状の溶骨像. soap and bubble appearance.
+- 血管腫 hemangioma
+- 骨内脂肪腫 intrassoues lipoma
+
+**こたえ**
+</details>
+
+
+
+[2018-29](http://www.radiology.jp/content/files/20180926_2.pdf#page=12)
+線維性骨異形成について**誤っている**のはどれか。1つ選べ。  
+`膨脹性発育を示す。`  
+`時に悪性転化する。`  
+`中年以降に発症する。`  
+`溶骨性病変・すりガラス状陰影が混在する。`  
+`筋肉内粘液腫を合併したものを Mazabraud 症候群と呼ぶ。`  
+
+<details>
+<summary></summary>
+【腫瘍類似性疾患】
+
+- 線維性骨異形成症 fibrous dysplasia
+    - McCune-Albright症候群で多発することがある.
+- 骨線維性異形成症 osteofibrous dysplasia
+- Langerhans細胞組織球症
+    - 画像: 頭蓋骨の抜き打ち像.-
+- Erdheim-Chester病
+- 骨梗塞
+
+**こたえ**
+- 2018-29: `中年以降に発症する。`
+</details>
+
+
+
+◎[2019-29](http://www.radiology.jp/content/files/20190904_02.pdf#page=11)
+Ewing肉腫について正しいものはどれか。2つ選べ。  
+`高齢者に多い。`  
+`地図状の骨破壊がみられる。`  
+`小円形細胞腫瘍に分類される。`  
+`骨外腫瘤を形成することが多い。`  
+`長管骨に発生する場合は骨端に多い。`  
 
 <details>
 <summary></summary>
@@ -4345,34 +4398,37 @@ Paget病で**誤っている**のはどれか。1つ選べ。
 - 骨肉腫 osteosarcoma
     - すべての原発性骨悪性腫瘍の20%を占める.
     - 10代に好発する.
-    - 
+    - 病理: 既存の海綿骨間を浸潤性に発育する. さまざまな程度でレース状の骨形成を伴う.
+    - 分布: 骨幹端.
+    - 画像:
+        - 長管骨のに溶骨像/造骨像が混在した腫瘤を形成する. 造骨のある部分は綿飴や雲のような外観. 
+        - 骨膜反応を伴う. 放射状(sunburst)になったりCodman三角を呈したりする.
+        
 - 軟骨肉腫 chondrosarcoma
+    - 中高年に好発する.
+    - 骨軟骨腫や骨軟骨腫症から悪性転化することがある.
+    - 病理: 石灰化や嚢胞変性を伴う軟骨形成.
+    - 分布: 骨幹端.
+    - 画像:
+        - リング状, カンマ状, ポップコーン状の石灰化像が髄内にみられる.
+        - 反応性の骨皮質肥厚がみられる(endosteal scalopping).
+        
 - Ewing肉腫 Ewing sarcoma
+    - 多くは20歳未満に生じる.
+    - 病理: 未熟で未分化な細胞からなる. 小円形細胞腫瘍に分類される.
+    - 分布: 骨幹.
+    - 画像: 骨幹部に虫食い状の溶骨像を生じる. 強い骨膜反応を伴う. 骨外腫瘤を伴うことも.
 - 骨髄腫 myeloma
 - アダマンチノーマ adamantinoma
 - 脊索腫 chordoma
 
 **こたえ**
-
+- 2019-29: `小円形細胞腫瘍に分類される。`, `骨外腫瘤を形成することが多い。`  
 </details>
 
 
 
-[2019-29](http://www.radiology.jp/content/files/20190904_02.pdf#page=11)
-Ewing 肉腫について正しいものはどれか。2 つ選べ。
-a	 高齢者に多い。
-b	 地図状の骨破壊がみられる。
-c	 小円形細胞腫瘍に分類される。
-d	 骨外腫瘤を形成することが多い。
-e	 長管骨に発生する場合は骨端に多い。
 
-[2018-29](http://www.radiology.jp/content/files/20180926_2.pdf#page=12)
-線維性骨異形成について誤っているのはどれか。1 つ選べ。
-a	 膨脹性発育を示す。
-b	 時に悪性転化する。
-c	 中年以降に発症する。
-d	 溶骨性病変・すりガラス状陰影が混在する。
-e	 筋肉内粘液腫を合併したものを Mazabraud 症候群と呼ぶ。
 
 [2019-26](http://www.radiology.jp/content/files/20190904_02.pdf#page=10)
 骨幹端の帯状透亮像（lucent metaphyseal band）をきたす疾患はどれか。1 つ選べ。
@@ -4383,7 +4439,7 @@ d	 被虐待児症候群
 e	 低リン血症性くる病
 
 [2018-30](http://www.radiology.jp/content/files/20180926_2.pdf#page=12)
- 骨病変の単純 X 線写真所見で誤っているのはどれか。1 つ選べ。
+骨病変の単純X線写真所見で**誤っている**のはどれか。1 つ選べ。
 a	 軟骨芽細胞腫は骨端部に多い。
 b	 巨細胞腫は骨端線閉鎖前に多い。
 c	 内軟骨腫は石灰化をしばしば来す。
@@ -4391,7 +4447,7 @@ d	 孤立性骨囊胞は骨中心性に発生する。
 e	 線維性骨異形成症は骨折を伴った場合に骨膜反応を示す。
 
 [2017-26](http://www.radiology.jp/content/files/20170904_2.pdf#page=10)
-骨腫瘍と好発年齢との組み合わせとして誤っているのはどれか。1 つ選べ。
+骨腫瘍と好発年齢との組み合わせとして**誤っている**のはどれか。1つ選べ。
 a	 軟骨肉腫　 　10～20 歳
 b	 Ewing 肉腫　 　5～20 歳
 c	 骨巨細胞腫　 　20～50 歳
@@ -4407,7 +4463,7 @@ d	 非骨化性線維腫　 　Codman 三角
 e	 Langerhans 細胞組織球症　 　頭蓋骨打ち抜き像
 
 [2017-28](http://www.radiology.jp/content/files/20170904_2.pdf#page=11)
- 骨腫瘤性病変のうち周囲に広範な浮腫性変化を伴いやすいのはどれか。2 つ選べ。
+骨腫瘤性病変のうち周囲に広範な浮腫性変化を伴いやすいのはどれか。2つ選べ。
 a	 内軟骨腫
 b	 骨軟骨腫
 c	 類骨骨腫
@@ -4415,7 +4471,7 @@ d	 軟骨芽細胞腫
 e	 線維性骨異形成
 
 [2016-27](http://www.radiology.jp/content/files/20160825.pdf#page=9)
- 骨端に好発するのはどれか。1 つ選べ。
+骨端に好発するのはどれか。1つ選べ。
 a	 骨肉腫
 b	 内軟骨腫
 c	 軟骨芽細胞腫
@@ -4423,7 +4479,7 @@ d	 非骨化性線維腫
 e	 軟骨粘液線維腫
 
 [2012-21](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=7)
-骨端に生じるのはどれか 。1 つ選べ。
+骨端に生じるのはどれか 。1つ選べ。
 a Ewing 肉腫
 b 悪性リンパ腫
 c 多発性骨髄腫
@@ -4431,7 +4487,7 @@ d 軟骨芽細胞腫
 e 非骨化性線維腫
 
 [2015-29](http://www.radiology.jp/content/files/20150821.pdf#page=10)
-骨幹に好発するのはどれか。1 つ選べ。
+骨幹に好発するのはどれか。1つ選べ。
 a	 骨肉腫
 b	 巨細胞腫
 c	 Ewing 肉腫
@@ -4471,7 +4527,7 @@ d 地図状骨破壊
 e 浸透状骨破壊
 
 [2012-20](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=7)
-骨髄浮腫を伴うことが少ないのはどれか。1 つ選べ。
+骨髄浮腫を伴うことが少ないのはどれか。1つ選べ。
 a 類骨骨腫
 b 内軟骨腫
 c Brodie 膿瘍
