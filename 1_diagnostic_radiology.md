@@ -4299,6 +4299,65 @@ Paget病で**誤っている**のはどれか。1つ選べ。
 
 
 ### XTNb. 骨腫瘍
+
+<details>
+<summary></summary>
+【良性骨腫瘍】
+
+- 骨に由来するもの
+    - 骨腫 osteoma
+    - 類骨骨腫 osteoid osteoma
+    - 骨芽細胞腫 osteoblastoma
+- 軟骨に由来するもの
+    - 内軟骨腫 enchondroma
+    - 内軟骨腫症 enchondromatosis
+    - 骨軟骨腫 osteochondroma
+    - 多発性骨軟骨性外骨腫症 multiple osteocartilaginous exostoses
+    - 傍骨性骨軟骨異型増生 bizarre parosteal osteochondromatous proliferation
+    - 軟骨芽細胞腫 chondroblastoma
+    - 軟骨粘液線維腫 chondromyxoid fibroma
+- ほか
+- 非骨化性線維腫 non-ossifying fibroma
+- 線維性骨異形成症 fibrous dysplasia
+- 骨線維性異形成症 osteofibrous dysplasia
+- 類腱線維腫 desmoplastic fibroma
+- 単純性骨嚢腫 simple bone cyst
+- 動脈瘤様骨嚢腫 aneurysmal bone cyst
+- 骨巨細胞腫 giant cell tumor
+- 血管腫
+- 骨内脂肪腫 intrassoues lipoma
+- ほか
+    - 骨内ガングリオン
+    - Langerhans細胞組織球症
+    - Erdheim-Chester病
+    - 骨梗塞
+    - 骨化性筋炎
+
+**こたえ**
+</details>
+
+
+
+<details>
+<summary></summary>
+【悪性骨腫瘍】
+
+- 骨肉腫 osteosarcoma
+    - すべての原発性骨悪性腫瘍の20%を占める.
+    - 10代に好発する.
+    - 
+- 軟骨肉腫 chondrosarcoma
+- Ewing肉腫 Ewing sarcoma
+- 骨髄腫 myeloma
+- アダマンチノーマ adamantinoma
+- 脊索腫 chordoma
+
+**こたえ**
+
+</details>
+
+
+
 [2019-29](http://www.radiology.jp/content/files/20190904_02.pdf#page=11)
 Ewing 肉腫について正しいものはどれか。2 つ選べ。
 a	 高齢者に多い。
