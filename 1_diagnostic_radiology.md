@@ -61,7 +61,7 @@
             - 所見との関係 (5題)
     - [心血管](#心血管) (35題)
         - XC0. 心血管の解剖 (7題)
-        - **XC1. 心臓CTの撮像 (7題)**
+        - **XC1. 心臓CTの撮像 (7題)** (Complete!)
         - XCc. 冠動脈CTの読影 (1題)
         - XCm. 心筋疾患 (1題)
         - **XCv. 大血管疾患 (9題)**
@@ -2537,21 +2537,24 @@ d	 原因疾患として IgG4 関連疾患が最多である。
 e	 大動脈外膜に線維化を伴うリンパ球浸潤が見られる。
 
 [2018-44](http://www.radiology.jp/content/files/20180926_2.pdf#page=17)
- エンドリークについて正しいものはどれか。1 つ選べ。
-a	 腰動脈からの逆行性血流によるリーク：Type Ⅰa
-b	 ステントグラフト近位部からのリーク：Type Ⅰb
-c	 ステントグラフト間の継ぎ目からのリーク：Type Ⅱ
-d	 ステントグラフトの裂け目からのリーク：Type Ⅲ
-e	 ステントグラフト遠位部からのリーク：Type Ⅳ
+エンドリークについて正しいものはどれか。1つ選べ。  
+`腰動脈からの逆行性血流によるリーク：Type Ia`  
+`ステントグラフト近位部からのリーク：Type Ib`
+`ステントグラフト間の継ぎ目からのリーク：Type II`  
+`ステントグラフトの裂け目からのリーク：Type III`  
+`ステントグラフト遠位部からのリーク：Type IV`  
 
 [2017-42](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
-腹部大動脈のステントグラフト留置後に，腹部造影 CT にて下腸間膜動脈からの逆行性
-血流によるリークが見られた。分類として正しいのはどれか。1 つ選べ。
-a	 type Ⅰa
-b	 type Ⅰb
-c	 type Ⅱ
-d	 type Ⅲ
-e	 type Ⅳ
+腹部大動脈のステントグラフト留置後に，腹部造影CTにて下腸間膜動脈からの逆行性血流によるリークが見られた。分類として正しいのはどれか。1つ選べ。  
+`type Ia` `type Ib` `type II` `type III` `type IV`  
+
+
+<details>
+<summary></summary>
+【】
+
+**こたえ**
+</details>
 
 [2013-43](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=15)
 大動脈解離について誤っているのはどれか。1 つ選べ。
@@ -2562,12 +2565,12 @@ d DeBakey II 型では下行大動脈にエントリーがある。
 e 大動脈基部の評価に心電図同期 CT が有用である。
 
 [2012-42](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=14)
-大動脈解離について正しいのはどれか。1 つ選べ。
-a Stanford A 型は，DeBakey II 型に相当する。
-b Stanford B 型は，DeBakey III 型に相当する。
-c Stanford B 型の予後は A 型より不良である。
-d 動脈瘤合併が多い。
-e 単純 CT で急性期解離腔は低吸収を示す。
+大動脈解離について正しいのはどれか。1つ選べ。  
+`Stanford A 型は，DeBakey II 型に相当する。`  
+`Stanford B 型は，DeBakey III 型に相当する。`  
+`Stanford B 型の予後は A 型より不良である。`  
+`動脈瘤合併が多い。`  
+`単純CTで急性期解離腔は低吸収を示す。`  
 
 [2017-44](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
 Marfan 症候群の診断基準として誤っているのはどれか。1 つ選べ。
