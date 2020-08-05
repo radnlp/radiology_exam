@@ -244,12 +244,12 @@ CT検査を受ける患者の被ばく低減に有用なのはどれか。2つ�
 </details>
 
 
-[2018-07](http://www.radiology.jp/content/files/20180926_2.pdf#page=4)
+◎[2018-07](http://www.radiology.jp/content/files/20180926_2.pdf#page=4)
 ![](img/1st_201807.png)
 CT画像で，図のA～Eに該当する物質及び組織で正しいのはどれか。2つ選べ。A～E は水，空気，骨皮質，骨格筋，脂肪組織のいずれかである。  
 `A - 空気` `B - 水` `C - 骨皮質` `D - 骨格筋` `E - 脂肪組織`  
 
-[2014-03](http://www.radiology.jp/content/files/1377.pdf#page=1)
+◎[2014-03](http://www.radiology.jp/content/files/1377.pdf#page=1)
 CT (Computed Tomography) について**誤っている**のはどれか。1つ選べ。  
 `CT dose indexとは照射線量の指標である。`  
 `単純CTで甲状腺のCT値は100HU前後である。`  
@@ -257,14 +257,26 @@ CT (Computed Tomography) について**誤っている**のはどれか。1つ�
 `水 (脳脊髄液など) のCT値はほぼ0HUである。`  
 `検出器チャンネルの不具合でリングアーチファクトが生じる。`  
 
-
 <details>
 <summary></summary>
 
+【CTの線量指標】
+
+- CT線量指標 (CT dose index, CTDI)
+    - CTの線量表示方法. 最近では多くのバリエーションがある.
+        - CTDI_vol: もっとも広く利用される指標. X線管球が1回転する間の総吸収線量 ÷ ビーム幅. (照射線量ではない)
+        - DLP (dose length product): CTDI_vol × スキャン長.
+        - 実行線量 E: DLPを臓器ごとの放射線感受性によって調整した値.
+
 【CT値】
 
+- 減弱係数を数値化したもの. ちなみに減弱係数は実効原子番号の3乗に比例する.
+- 水を0HU, 空気を-1000HUと定めている.
+- 甲状腺のCT値は100HU前後.
 
 **こたえ**
+- 2018-07: `A - 空気`, `D - 骨格筋`
+- 2014-03: `CT dose indexとは照射線量の指標である。`
 </details>
 
 
