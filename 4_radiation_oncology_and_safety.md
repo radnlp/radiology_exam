@@ -918,7 +918,7 @@ DNA(=ターゲット)に放射線が当たって二重鎖切断が起これば(=
 
 ### LQモデル(§2-13-7-2)
 
-◎[2013-03](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1)
+◎[2012-03](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1)
 直線―2次曲線モデル（LQモデル）について**誤っている**のはどれか。1つ選べ。
 `α/βの単位はGyである。`
 `後期反応のα/βは早期反応に比して小さい。`
