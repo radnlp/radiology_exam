@@ -2992,28 +2992,35 @@ e	 全肺均等に分布するのう胞性病変
 ### XOI. 小児胸部疾患
 #### XOI1. 小児の胸部単純X線
 [2018-49](http://www.radiology.jp/content/files/20180926_2.pdf#page=19)
-新生児胸部X線写真で認めるサインのうち，病的所見はどれか。2 つ選べ。
-a	 sail sign
-b	 wavy sign
-c	 notch sign
-d	 spinnaker sign
-e	 angel wing sign
+新生児胸部X線写真で認めるサインのうち，病的所見はどれか。2つ選べ。  
+`sail sign` `wavy sign` `notch sign` `spinnaker sign` `angel wing sign`
 
 [2016-49](http://www.radiology.jp/content/files/20160825.pdf#page=17)
-新生児・乳児に認められる胸部X線所見として病的なのはどれか。2つ選べ。
-a	 sail sign
-b	 wavy sign
-c	 notch sign
-d	 spinnaker sign
-e	 distinct cardiac border sign
+新生児・乳児に認められる胸部X線所見として病的なのはどれか。2つ選べ。  
+`sail sign` `wavy sign` `notch sign` `spinnaker sign` `distinct cardiac border sign`
+
+<details>
+<summary></summary>
+
+【新生児の胸部単純X線での胸腺の見え方】
+
+- 正常所見
+    - sail sign: 右肺野にヨットの帆のような胸腺陰影がみえる.
+    - wavy sign: 胸腺陰影の境界が肋骨の圧迫を反映した波状になる.
+    - notch sign: 胸腺と右心系の移行部にみられる楔形の陥凹.
+- 異常所見
+    - angel wing sign: 縦隔気腫により胸腺陰影下部の透過性が亢進し, 残った左右上方の胸腺陰影が天使の羽のように見える.
+    - spinnaker sign: 縦隔気腫により胸腺陰影下部の透過性が亢進し, 残った右上方の胸腺陰影がマストに張った帆のように見える.
+    -
+
+**こたえ**
+- 2018-49: `spinnaker sign`, `angel wing sign`
+- 2016-49: `spinnaker sign`, `distinct cardiac border sign`
+</details>
 
 [2015-49](http://www.radiology.jp/content/files/20150821.pdf#page=17)
-新生児・乳児の単純 X 線写真における所見として異常なのはどれか。1つ選べ。
-a	 胸腺陰影
-b	 小泉門開大
-c	 大腿骨頭骨端核
-d	 前頭洞含気不良
-e	 生後 2 日で直腸ガスが同定不可
+新生児・乳児の単純X線写真における所見として異常なのはどれか。1つ選べ。  
+`胸腺陰影` `小泉門開大` `大腿骨頭骨端核` `前頭洞含気不良` `生後2日で直腸ガスが同定不可`
 
 #### XOI2. 小児の胸部疾患の鑑別と治療
 [2018-50](http://www.radiology.jp/content/files/20180926_2.pdf#page=19)
