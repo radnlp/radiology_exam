@@ -2991,11 +2991,11 @@ e	 全肺均等に分布するのう胞性病変
 
 ### XOI. 小児胸部疾患
 #### XOI1. 小児の胸部単純X線
-[2018-49](http://www.radiology.jp/content/files/20180926_2.pdf#page=19)
+◎[2018-49](http://www.radiology.jp/content/files/20180926_2.pdf#page=19)
 新生児胸部X線写真で認めるサインのうち，病的所見はどれか。2つ選べ。  
 `sail sign` `wavy sign` `notch sign` `spinnaker sign` `angel wing sign`
 
-[2016-49](http://www.radiology.jp/content/files/20160825.pdf#page=17)
+◎[2016-49](http://www.radiology.jp/content/files/20160825.pdf#page=17)
 新生児・乳児に認められる胸部X線所見として病的なのはどれか。2つ選べ。  
 `sail sign` `wavy sign` `notch sign` `spinnaker sign` `distinct cardiac border sign`
 
