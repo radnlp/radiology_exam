@@ -3008,6 +3008,7 @@ e	 全肺均等に分布するのう胞性病変
     - sail sign: 右肺野にヨットの帆のような胸腺陰影がみえる.
     - wavy sign: 胸腺陰影の境界が肋骨の圧迫を反映した波状になる.
     - notch sign: 胸腺と右心系の移行部にみられる楔形の陥凹.
+    - 正常構造は圧排しない. 気管などが圧排されていたら他の縦隔腫瘤を考える.
 - 異常所見
     - angel wing sign: 縦隔気腫により胸腺陰影下部の透過性が亢進し, 残った左右上方の胸腺陰影が天使の羽のように見える.
     - spinnaker sign: 縦隔気腫により胸腺陰影下部の透過性が亢進し, 残った右上方の胸腺陰影がマストに張った帆のように見える.
@@ -3054,6 +3055,36 @@ b 気管支肺異形成
 c 胎便吸引症候群
 d 呼吸促迫症候群
 e 先天性横隔膜ヘルニア
+
+<details>
+<summary></summary>
+
+【新生児の胸部単純X線(KeyBook小児)】
+
+- 呼吸窮迫症候群 respiratory distress syndrome (RDS)
+    - 肺サーファクタント不足が原因.
+    - 気管支にだけ含気があり, 肺に含気がなく, 肺の膨張も不足気味で横隔膜は挙上している.
+- 新生児一過性多呼吸症 transient tachypnea of newborn (TTN)
+    - 胎児性肺胞液の排出遅延が原因.
+    - 気管支にだけ含気があり, 肺に含気がないが, サーファクタント生成能はあるので肺の膨張も良好で横隔膜も正常の位置にある.
+- 胎便吸引症候群 meconium aspiration syndrome (MAS)
+    - 羊水誤飲による化学性肺炎.
+    - 炎症を反映した透過性低下. 低酸素刺激の代償のため肺は過膨張ぎみ.
+- 気管支肺異形成症 bronchopulmonary dysplasia (BPD), 新生児慢性肺疾患 chronic lung disease (CLD)
+    - RDSの治癒過程などで生じる不均一な肺胞壁破壊, 間質浮腫, 線維性変化.
+- Wilson-Mikity症候群
+    - m
+- 気管食道瘻 tracheoesophageal fistula (TEF)
+    - a
+- 横隔膜ヘルニア
+    - a
+
+
+**こたえ**
+
+</details>
+
+
 
 ### XOAB. 小児腹部疾患
 ◎[2014-48](http://www.radiology.jp/content/files/1377.pdf#page=17)
