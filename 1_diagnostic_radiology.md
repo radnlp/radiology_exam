@@ -2531,7 +2531,7 @@ c	 FDG-PET/CT で異常集積を認める。
 d	 原因疾患として IgG4 関連疾患が最多である。
 e	 大動脈外膜に線維化を伴うリンパ球浸潤が見られる。
 
-[2018-44](http://www.radiology.jp/content/files/20180926_2.pdf#page=17)
+◎[2018-44](http://www.radiology.jp/content/files/20180926_2.pdf#page=17)
 エンドリークについて正しいものはどれか。1つ選べ。  
 `腰動脈からの逆行性血流によるリーク：Type Ia`  
 `ステントグラフト近位部からのリーク：Type Ib`
@@ -2539,16 +2539,25 @@ e	 大動脈外膜に線維化を伴うリンパ球浸潤が見られる。
 `ステントグラフトの裂け目からのリーク：Type III`  
 `ステントグラフト遠位部からのリーク：Type IV`  
 
-[2017-42](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
+◎[2017-42](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
 腹部大動脈のステントグラフト留置後に，腹部造影CTにて下腸間膜動脈からの逆行性血流によるリークが見られた。分類として正しいのはどれか。1つ選べ。  
 `type Ia` `type Ib` `type II` `type III` `type IV`  
 
 
 <details>
 <summary></summary>
-【】
+【ステントグラフトのエンドリーク】
+
+- type 1a: ステント頭側端からのリーク.
+- type 1b: ステント尾側端からのリーク.
+- type 2: 大動脈分枝からのリーク.
+- type 3: ステントグラフトどうしの繋ぎ目からのリーク.
+- type 4: ステントグラフトの目が粗いことによるリーク.
+- type 5: 原因不明のリーク.
 
 **こたえ**
+- 2018-44: `ステントグラフトの裂け目からのリーク：Type III` 
+- 2017-42: `type II`
 </details>
 
 [2013-43](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=15)
