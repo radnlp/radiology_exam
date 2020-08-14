@@ -4351,78 +4351,92 @@ e	 ダイナミック造影 MRI 漸増性増強
 
 
 ### XQoN. 卵巣腫瘍
-[2019-67](http://www.radiology.jp/content/files/20190904_02.pdf#page=24)
-単純 CT で石灰化以外の高吸収を呈することが多いのはどれか。2 つ選べ。
-a	 黄体出血
-b	 傍卵巣囊胞
-c	 卵巣甲状腺腫
-d	 転移性卵巣腫瘍
-e	 卵巣漿液性囊胞腺腫
+◎[2017-67](http://www.radiology.jp/content/files/20170904_2.pdf#page=24)
+子宮内膜症を鑑別に挙げる必要性が高いのはどれか。1つ選べ。  
+`膀胱憩室内に生じた腫瘤`  
+`尿膜管に生じた囊胞性腫瘤`  
+`子宮頸部間質内に生じた腫瘤`  
+`ダグラス窩に生じた癒着性病変`  
+`子宮筋腫内に生じた出血性病変`  
 
-[2019-66](http://www.radiology.jp/content/files/20190904_02.pdf#page=24)
-画像所見と疾患との組み合わせで誤っているのはどれか。1 つ選べ。
-a	 Central fibrous core 　卵巣未分化胚細胞腫
-b	 Cosmos sign 　分葉状頸管腺過形成
-c	 Fat-fluid level 　卵巣成熟囊胞奇形腫
-d	 Follicle preserving sign 　卵巣悪性リンパ腫
-e	 Kissing ovary 　骨盤子宮内膜症
-
-[2017-67](http://www.radiology.jp/content/files/20170904_2.pdf#page=24)
-子宮内膜症を鑑別に挙げる必要性が高いのはどれか。1 つ選べ。
-a	 膀胱憩室内に生じた腫瘤
-b	 尿膜管に生じた囊胞性腫瘤
-c	 子宮頸部間質内に生じた腫瘤
-d	 ダグラス窩に生じた癒着性病変
-e	 子宮筋腫内に生じた出血性病変
-
-[2015-69](http://www.radiology.jp/content/files/20150821.pdf#page=24)
-成熟期女性のダグラス窩に囊胞性腫瘤が存在する時，内膜症性囊胞を積極的に考える画
-像所見はどれか。2 つ選べ。
-a	 単純 CT で囊胞内は筋肉に近い濃度を呈する。
-b	 T2 強調像で多房性囊胞性腫瘤の形態を呈する。
-c	 T1 強調像で直腸前壁との間に索状のひきつれを伴う。
-d	 T2 強調像で囊胞壁の厚さは卵胞の壁と同程度である。
-e	 T1 強調像で囊胞内は皮下脂肪よりやや低い程度の高信号を呈する。
+◎[2015-69](http://www.radiology.jp/content/files/20150821.pdf#page=24)
+成熟期女性のダグラス窩に囊胞性腫瘤が存在する時，内膜症性囊胞を積極的に考える画像所見はどれか。2つ選べ。  
+`単純 CT で囊胞内は筋肉に近い濃度を呈する。`  
+`T2 強調像で多房性囊胞性腫瘤の形態を呈する。`  
+`T1 強調像で直腸前壁との間に索状のひきつれを伴う。`  
+`T2 強調像で囊胞壁の厚さは卵胞の壁と同程度である。`  
+`T1 強調像で囊胞内は皮下脂肪よりやや低い程度の高信号を呈する。`  
 
 [2018-67](http://www.radiology.jp/content/files/20180926_2.pdf#page=25)
-子宮内膜症の発生頻度が低いのはどれか。1 つ選べ。
-a	 卵　管
-b	 広間膜
-c	 子宮円索
-d	 膀胱子宮窩
-e	 直腸子宮窩
+子宮内膜症の発生頻度が**低い**のはどれか。1つ選べ。  
+`卵管` `広間膜` `子宮円索` `膀胱子宮窩` `直腸子宮窩`  
 
-[2016-66](http://www.radiology.jp/content/files/20160825.pdf#page=24)
-T2強調像においてケミカルシフトアーチファクトが診断に役立つのはどれか。1つ選べ。
-a	 卵巣出血
-b	 莢膜細胞腫
-c	 内膜症性囊胞
-d	 成熟囊胞奇形腫
-e	 粘液性囊胞腺腫
+
+<details>
+<summary></summary>
+【子宮内膜症】
+
+**こたえ**
+- 2017-67: `ダグラス窩に生じた癒着性病変`
+- 2015-69: `T1 強調像で直腸前壁との間に索状のひきつれを伴う。`, `T1 強調像で囊胞内は皮下脂肪よりやや低い程度の高信号を呈する。`
+- 2018-67: 
+</details>
+
+
+
+◎[2019-67](http://www.radiology.jp/content/files/20190904_02.pdf#page=24)
+単純CTで石灰化以外の高吸収を呈することが多いのはどれか。2つ選べ。  
+`黄体出血` `傍卵巣囊胞` `卵巣甲状腺腫` `転移性卵巣腫瘍` `卵巣漿液性囊胞腺腫`  
+
+◎[2016-66](http://www.radiology.jp/content/files/20160825.pdf#page=24)
+T2強調像においてケミカルシフトアーチファクトが診断に役立つのはどれか。1つ選べ。  
+`卵巣出血` `莢膜細胞腫` `内膜症性囊胞` `成熟囊胞奇形腫` `粘液性囊胞腺腫`  
+
+◎[2012-64](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=22)
+MRI T2強調像で低信号部を**認めにくい**子宮・卵巣病変はどれか。1つ選べ。  
+`子宮筋腫` `子宮頸部ナボット囊胞` `卵巣線維腫` `卵巣甲状腺腫` `卵巣内膜症性囊胞`  
+
+◎[2012-65](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=22)
+捻転を来す女性生殖器（疾患）として，**考えにくい**のはどれか。1つ選べ。  
+`卵巣成熟奇形腫` `内膜症性囊胞` `卵巣線維腫` `正常卵巣` `子宮筋腫`  
+
+[2019-66](http://www.radiology.jp/content/files/20190904_02.pdf#page=24)
+画像所見と疾患との組み合わせで**誤っている**のはどれか。1つ選べ。  
+`Central fibrous core 　卵巣未分化胚細胞腫`  
+`Cosmos sign 　分葉状頸管腺過形成`  
+`Fat-fluid level 　卵巣成熟囊胞奇形腫`  
+`Follicle preserving sign 　卵巣悪性リンパ腫`  
+`Kissing ovary 　骨盤子宮内膜症`  
 
 [2014-70](http://www.radiology.jp/content/files/1377.pdf#page=24)
-画像所見と疾患との組み合わせとして間違っているのはどれか。1 つ選べ。
-a shading ――――――――――――内膜症性囊胞
-b scalloping effect ――――――――腹膜偽粘液腫
-c egg-shell calcification ――――――卵巣成熟奇形腫
-d bridging vascular sign ―――――漿膜下子宮筋腫
-e stained glass appearance ――――卵巣粘液性囊胞腺腫
+画像所見と疾患との組み合わせとして**間違っている**のはどれか。1つ選べ。  
+`shading ――――――――――――内膜症性囊胞`  
+`scalloping effect ――――――――腹膜偽粘液腫`  
+`egg-shell calcification ――――――卵巣成熟奇形腫`  
+`bridging vascular sign ―――――漿膜下子宮筋腫`  
+`stained glass appearance ――――卵巣粘液性囊胞腺腫`  
 
-[2012-64](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=22)
-MRI T2 強調像で低信号部を認めにくい子宮・卵巣病変はどれか。1 つ選べ。
-a 子宮筋腫
-b 子宮頸部ナボット囊胞
-c 卵巣線維腫
-d 卵巣甲状腺腫
-e 卵巣内膜症性囊胞
 
-[2012-65](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=22)
-捻転を来す女性生殖器（疾患）として，考えにくいのはどれか。1 つ選べ。
-a 卵巣成熟奇形腫
-b 内膜症性囊胞
-c 卵巣線維腫
-d 正常卵巣
-e 子宮筋腫
+<details>
+<summary></summary>
+【卵巣腫瘤】
+    
+- 卵巣未分化胚細胞腫
+- 卵巣悪性リンパ腫
+- 腹膜偽粘液腫
+
+【子宮筋腫】
+
+- bridging vascular sign
+
+**こたえ**
+- 2019-67: `黄体出血`, `卵巣甲状腺腫`
+- 2016-66: `成熟囊胞奇形腫`
+- 2012-64: `子宮頸部ナボット囊胞`
+- 2012-65: `内膜症性囊胞`
+- 2019-66: `Central fibrous core 　卵巣未分化胚細胞腫`
+- 2014-70: `egg-shell calcification ――――――卵巣成熟奇形腫`
+</details>
 
 
 
