@@ -2584,15 +2584,16 @@ e	 心サルコイドーシス
 - 2017-42: `type II`
 </details>
 
-[2013-43](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=15)
-大動脈解離について誤っているのはどれか。1 つ選べ。
-a 真腔は拡大した偽腔で圧排される。
-b 剥離内膜の同定は診断上特異性が高い。
-c 血栓閉塞型の偽腔は単純 CT で高吸収を示す。
-d DeBakey II 型では下行大動脈にエントリーがある。
-e 大動脈基部の評価に心電図同期 CT が有用である。
 
-[2012-42](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=14)
+◎[2013-43](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=15)
+大動脈解離について**誤っている**のはどれか。1つ選べ。  
+`真腔は拡大した偽腔で圧排される。`  
+`剥離内膜の同定は診断上特異性が高い。`  
+`血栓閉塞型の偽腔は単純CTで高吸収を示す。`  
+`DeBakey II型では下行大動脈にエントリーがある。`  
+`大動脈基部の評価に心電図同期CTが有用である。`  
+
+◎[2012-42](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=14)
 大動脈解離について正しいのはどれか。1つ選べ。  
 `Stanford A 型は，DeBakey II 型に相当する。`  
 `Stanford B 型は，DeBakey III 型に相当する。`  
@@ -2600,16 +2601,33 @@ e 大動脈基部の評価に心電図同期 CT が有用である。
 `動脈瘤合併が多い。`  
 `単純CTで急性期解離腔は低吸収を示す。`  
 
+
 <details>
 <summary></summary>
 【大動脈解離】
 
 - Stanford分類
-    - どこまでが上行大動脈でどこからが下行大動脈か?
-        - ...
-    
-**こたえ**
+    - A型: 上行大動脈進展(+) (Entryの位置は問わない)
+    - B型: 上行大動脈進展(-) (Entryの位置は問わない)
+- DeBakey分類 (自己流にAD型, A型, D型, DA型とでも名付けておこう)
+    - I型: 上行大動脈進展(+), 下行大動脈進展(+), entryは上行大動脈
+    - II型: 上行大動脈進展(+), 下行大動脈進展(-), entryは上行大動脈
+    - IIIa型: 下行大動脈進展(+), 腹部大動脈進展(-), entryは下行大動脈
+    - IIIb型: 下行大動脈進展(+), 腹部大動脈進展(+), entryは下行大動脈
+- 偽腔開存型大動脈解離
+    - 偽腔血流が非常に速いためになかなか造影されないことがあるので150秒の遅延相を追加するとよい.
+- 偽腔閉鎖型大動脈解離
+    - 単純CT: **偽腔が高吸収を示す**.
+        - 偽腔が血栓化しているため. 凝固した血液のほうが凝固していない血液よりもCT値は高い.
+    - 造影CT: 偽腔は造影されない.
+    - 日本では保存的に治療される傾向がある.
+- ULP型
+    - 造影CT: 偽腔にUlcer Like Projectionが生じる.
+    - 偽腔開存型に移行する危険性があるため手術を考慮すべき.
 
+**こたえ**
+- 2013-43: `DeBakey II型では下行大動脈にエントリーがある。` 
+- 2012-42: `Stanford B 型は，DeBakey III 型に相当する。`
 </details>
 
 
@@ -2648,30 +2666,50 @@ e	 線維筋性異型成 腎動脈起始部
 
 
 ### XCI. 肺塞栓症
-[2019-44](http://www.radiology.jp/content/files/20190904_02.pdf#page=16)
-慢性血栓塞栓性肺高血圧症（CTEPH）における肺動脈造影もしくは造影 CT の所見と
-して誤っているのはどれか。1 つ選べ。
-a	 mural defects
-b	 web and bands
-c	 abrupt narrowing
-d	 intimal irregularities
-e	 dilatation and beading
+◎[2019-44](http://www.radiology.jp/content/files/20190904_02.pdf#page=16)
+慢性血栓塞栓性肺高血圧症（CTEPH）における肺動脈造影もしくは造影CTの所見として**誤っている**のはどれか。1つ選べ。  
+`mural defects`  
+`web and bands`  
+`abrupt narrowing`  
+`intimal irregularities`  
+`dilatation and beading`  
 
-[2017-43](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
-慢性血栓性肺高血圧症の造影CT所見として誤っているのはどれか。1 つ選べ。
-a	 abrupt narrowing
-b	 complete obstruction
-c	 intimal dilatation
-d	 pouch/mural defect
-e	 webs and band
+◎[2017-43](http://www.radiology.jp/content/files/20170904_2.pdf#page=16)
+慢性血栓性肺高血圧症の造影CT所見として**誤っている**のはどれか。1つ選べ。  
+`abrupt narrowing`  
+`complete obstruction`  
+`intimal dilatation`  
+`pouch/mural defect`  
+`webs and band`  
 
-[2014-44](http://www.radiology.jp/content/files/1377.pdf#page=16)
-肺塞栓症について正しいのはどれか。2 つ選べ。
-a 造影 CT では，区域動脈枝の血栓を検出できる。
-b 下腿の塞栓源の検出には，造影 CT が第一選択である。
-c CT における肺野のモザイクパターンは，急性期で見られる。
-d D-ダイマーが陰性でも，造影 CT ではしばしば血栓が検出される。
-e 造影 CT で血管壁に偏心性に付着した血栓は，慢性期肺塞栓を示す。
+◎[2014-44](http://www.radiology.jp/content/files/1377.pdf#page=16)
+肺塞栓症について正しいのはどれか。2つ選べ。  
+`造影CTでは，区域動脈枝の血栓を検出できる。`  
+`下腿の塞栓源の検出には，造影CTが第一選択である。`  
+`CTにおける肺野のモザイクパターンは，急性期で見られる。`  
+`D-ダイマーが陰性でも，造影CTではしばしば血栓が検出される。`  
+`造影CTで血管壁に偏心性に付着した血栓は，慢性期肺塞栓を示す。`  
+
+
+<details>
+<summary></summary>
+【肺塞栓症】
+    
+- 急性肺血栓塞栓症
+    - 血栓の壁からの立ち上がりは鋭角. もしくは血管内に浮遊して見える.
+- 慢性肺血栓塞栓症
+    - 血栓の壁からの立ち上がりは鈍角.
+    - 肺実質にmosaic perfusion patternがみられやすい.
+    - 側副血行路の発達から気管支動脈拡張などを生じる.
+    - ほか, 血管が突然途絶して見える, 器質化血栓の膜様もしくは帯様器質化などを生じる.
+- 慢性血栓塞栓性肺高血圧症 (Chronic Thromboembolic Pulmonary Hypertension: CTEPH)
+    - ...
+
+**こたえ**
+- 2019-44: `dilatation and beading`
+- 2017-43: `intimal dilatation`
+- 2014-44: `造影CTでは，区域動脈枝の血栓を検出できる。`, `造影CTで血管壁に偏心性に付着した血栓は，慢性期肺塞栓を示す。`
+</details>
 
 
 ### XCO. 先天性心疾患
