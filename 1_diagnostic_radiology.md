@@ -1008,23 +1008,24 @@ e 中脳
 
 
 ### XJF. 脱髄疾患
-[2019-21](http://www.radiology.jp/content/files/20190904_02.pdf#page=8)
-多発性硬化症との鑑別診断上，視神経脊髄炎で最も重要な所見はどれか。1 つ選べ。
-a	 ovoid lesion
-b	 視神経病変
-c	 T1 black hole
-d	 側脳室周囲病変
-e	 3 椎体以上の脊髄病変
+◎[2019-21](http://www.radiology.jp/content/files/20190904_02.pdf#page=8)
+多発性硬化症との鑑別診断上，視神経脊髄炎で最も重要な所見はどれか。1つ選べ。  
+`ovoid lesion` `視神経病変` `T1 black hole` `側脳室周囲病変` `3椎体以上の脊髄病変`  
 
-[2018-21](http://www.radiology.jp/content/files/20180926_2.pdf#page=9)
+◎[2018-21](http://www.radiology.jp/content/files/20180926_2.pdf#page=9)
 多発性硬化症の MRI 所見として**誤っている**のはどれか。1 つ選べ。  
 `T2 black hole` `open-ring sign` `Dawson’s finger` `juxtacortical lesion` `ependymal dot-dash sign`  
 
 <details>
 <summary></summary>
+    
+【多発性硬化症と視神経脊髄炎の鑑別】
+
+- 多発性硬化症の脊髄病変は長くても上下2椎体までだが, 視神経脊髄炎では上下3椎体以上におよぶ.
+- 多発性硬化症でも視神経病変を生じることはある.
 
 **こたえ**
-- 2019-21: 
+- 2019-21: `3椎体以上の脊髄病変` 
 - 2018-21: `T2 black hole`
 </details>
 
