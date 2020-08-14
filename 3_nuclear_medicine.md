@@ -210,11 +210,11 @@
 物理学的半減期が最も長い放射性同位元素はどれか。1つ選べ。  
 `F-18` `Tc-99m` `In-111` `I-131` `Tl-201`  
 
-[2019-06](http://www.radiology.jp/content/files/20190904_02.pdf#page=3)
+◎[2019-06](http://www.radiology.jp/content/files/20190904_02.pdf#page=3)
 以下の核種で物理学的半減期が2番目に短いのはどれか。1つ選べ。  
 `Co-60` `I-125` `Ir-192` `Au-198` `Ra-226`  
 
-[2017-71](http://www.radiology.jp/content/files/20170904_2.pdf#page=25)
+◎[2017-71](http://www.radiology.jp/content/files/20170904_2.pdf#page=25)
 核医学検査で用いられる核種とその物理学的半減期との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `N-13 - 約20分`  
 `F-18 - 約110分`  
