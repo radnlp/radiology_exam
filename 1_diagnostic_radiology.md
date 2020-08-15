@@ -3573,63 +3573,70 @@ c	 肝動脈
 d	 腎静脈
 e	 腹部大動脈
 
-#### XBa2. びまん性肝疾患
-[2019-52](http://www.radiology.jp/content/files/20190904_02.pdf#page=19)
-腹部単純 CT で肝実質のびまん性高吸収が見られる可能性が最も低いのはどれか。1つ選べ。
-a	 糖原病
-b	 急性肝炎
-c	 アミオダロン肝
-d	 鉄剤投与中の貧血
-e	 ヘモクロマトーシス
 
-[2019-54](http://www.radiology.jp/content/files/20190904_02.pdf#page=20)
-急性肝炎（非劇症型）で見られる頻度が高い画像所見はどれか。2つ選べ。
-a	 肝萎縮
-b	 胆管壁肥厚
-c	 肝内胆管拡張
-d	 胆囊漿膜下浮腫
-e	 periportal collar sign
+
+#### XBa2. びまん性肝疾患
+◎[2019-52](http://www.radiology.jp/content/files/20190904_02.pdf#page=19)
+腹部単純CTで肝実質のびまん性高吸収が見られる可能性が最も**低い**のはどれか。1つ選べ。  
+`糖原病` `急性肝炎` `アミオダロン肝` `鉄剤投与中の貧血` `ヘモクロマトーシス`  
+
+◎[2016-52](http://www.radiology.jp/content/files/20160825.pdf#page=18)
+単純CTで肝実質がびまん性に高吸収を呈する可能性があるのはどれか。2つ選べ。  
+`脂肪肝` `うっ血肝` `劇症肝炎` `Wilson病` `ヘモクロマトーシス`  
+
+◎[2012-70](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=24)
+単純CTにて肝実質が高吸収を示すことがあるのはどれか。2つ選べ。  
+`ヘモクロマトーシス` `急性肝炎` `うっ血肝` `脂肪肝` `糖原病` 
+
+◎[2013-58](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=20)
+MRIのT2★強調像が診断に有用なのはどれか。1つ選べ。  
+`脂肪肝` `慢性肝炎` `Wilson病` `肝ヘモジデローシス` `肝サルコイドーシス`  
+
+<details>
+<summary></summary>
+
+【代謝性肝疾患】
+
+- 鉄過剰症: CTで高吸収となる.
+- Wilson病: CTで高吸収となる.
+- 糖原病
+    - グリコーゲン分解酵素が欠損しているため肝にグリコーゲンが蓄積する.
+    - 脂肪肝によるCT低吸収化と, グリコーゲン蓄積によるCT高吸収化が混在する.
+    - 肝細胞腺腫が多発する. そのうち10%前後はHCCに転化する.
+- アミオダロン肝
+    - アミオダロンがヨード基を含むため, CTで高吸収となる.
+
+**こたえ**
+- 2019-52: `急性肝炎`
+- 2016-52: `Wilson病`, `ヘモクロマトーシス`
+- 2012-70: `ヘモクロマトーシス`, `糖原病` 
+- 2013-58: `肝ヘモジデローシス`
+</details>
+
+
+◎[2019-54](http://www.radiology.jp/content/files/20190904_02.pdf#page=20)
+急性肝炎（非劇症型）で見られる頻度が高い画像所見はどれか。2つ選べ。  
+`肝萎縮` `胆管壁肥厚` `肝内胆管拡張` `胆囊漿膜下浮腫` `periportal collar sign`  
 
 [2018-57](http://www.radiology.jp/content/files/20180926_2.pdf#page=21)
-Caroli 病について誤っているのはどれか。1 つ選べ。
-a	 肝の線維化
-b	 常染色体優性遺伝
-c	 肝内胆管癌のリスク
-d	 腎囊胞性疾患の合併
-e	 central dot sign 陽性
-
-[2016-52](http://www.radiology.jp/content/files/20160825.pdf#page=18)
-単純 CT で肝実質がびまん性に高吸収を呈する可能性があるのはどれか。2 つ選べ。
-a	 脂肪肝
-b	 うっ血肝
-c	 劇症肝炎
-d	 Wilson 病
-e	 ヘモクロマトーシス
+Caroli病について**誤っている**のはどれか。1つ選べ。  
+`肝の線維化` `常染色体優性遺伝` `肝内胆管癌のリスク` `腎囊胞性疾患の合併` `central dot sign 陽性`  
 
 [2014-65](http://www.radiology.jp/content/files/1377.pdf#page=23)
-Budd-Chiari 症候群の画像所見として頻度が低いのはどれか。1 つ選べ。
-a 尾状葉腫大
-b 門脈石灰化
-c FNH-like nodule
-d 肝中枢側の斑状濃染
-e 肝内静脈―静脈シャント
+Budd-Chiari症候群の画像所見として頻度が**低い**のはどれか。1つ選べ。  
+`尾状葉腫大` `門脈石灰化` `FNH-like nodule` `肝中枢側の斑状濃染` `肝内静脈―静脈シャント`  
+
+<details>
+<summary></summary>
+
+【代謝性肝疾患】
 
 
-[2013-58](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=20)
-MRIのT2★強調像が診断に有用なのはどれか。1 つ選べ。
-a 脂肪肝
-b 慢性肝炎
-c Wilson 病
-d 肝ヘモジデローシス
-e 肝サルコイドーシス
+**こたえ**
+- 2019-54: `胆囊漿膜下浮腫`, `periportal collar sign`
+</details>
 
-[2012-70](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=24)
-単純 CT にて肝実質が高吸収を示すことがあるのはどれか。2 つ選べ。
-a ヘモクロマトーシス
-b 急性肝炎
-c うっ血肝
-d 脂肪肝
-e 糖原病
+
 
 
 #### XBa3. 原発性胆汁性肝硬変と原発性硬化性胆管炎
