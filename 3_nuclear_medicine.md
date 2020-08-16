@@ -1692,13 +1692,6 @@ c	 99mTc-MAG3
 d	 111In-DTPA
 e	 123I-BMIPP
 
-[2017-73](http://www.radiology.jp/content/files/20170904_2.pdf#page=26)
-放射性医薬品と検査項目との組み合わせとして正しいのはどれか。2 つ選べ。
-a	 99mTc-GSA　 　アシアロ糖タンパク質受容体
-b	 99mTc-HM-PAO　 　心筋血流
-c	 99mTc-MAA　 　肺血流
-d	 123I-BMIPP　 　アミノ酸代謝
-e	 123I-iomazenil　 　ドーパミン受容体
 
 [2017-74](http://www.radiology.jp/content/files/20170904_2.pdf#page=26)
 放射性医薬品としてダイナミック撮像に用いられる頻度が最も低いのはどれか。
@@ -1771,37 +1764,64 @@ e 副腎皮質シンチグラフィ ―――― デキサメサゾン
 
 
 ### 検査所見
-[2019-73](http://www.radiology.jp/content/files/20190904_02.pdf#page=26)
-放射性医薬品と病変部が陽性描画される疾患の組み合わせはどれか。1 つ選べ。
-a	 99mTc-DMSA 　腎瘢痕
-b	 99mTc-MAA 　肺血栓塞栓症
-c	 99mTc-pertechnetate 　耳下腺多形腺腫
-d	 99mTc-PYP 　心アミロイドーシス
-e	 201TlCl 　心サルコイドーシス
+◎[2019-73](http://www.radiology.jp/content/files/20190904_02.pdf#page=26)
+放射性医薬品と病変部が陽性描画される疾患の組み合わせはどれか。1つ選べ。  
+`Tc-99m-DMSA - 腎瘢痕`  
+`Tc-99m-MAA - 肺血栓塞栓症`  
+`Tc-99m-pertechnetate - 耳下腺多形腺腫`  
+`Tc-99m-PYP - 心アミロイドーシス`  
+`Tl-201 Cl - 心サルコイドーシス`  
 
-[2017-76](http://www.radiology.jp/content/files/20170904_2.pdf#page=27)
- 疾患として99mTc-pertechnetate が診断に有用ではないのはどれか。1 つ選べ。
-a	 Basedow 病
-b	 Meckel 憩室
-c	 Warthin 腫瘍
-d	 Sjögren 症候群
-e	 心アミロイドーシス
+◎[2017-73](http://www.radiology.jp/content/files/20170904_2.pdf#page=26)
+放射性医薬品と検査項目との組み合わせとして正しいのはどれか。2つ選べ。  
+`Tc-99m-GSA - アシアロ糖タンパク質受容体`  
+`Tc-99m-HMPAO - 心筋血流`  
+`Tc-99m-MAA - 肺血流`  
+`I-123-BMIPP - アミノ酸代謝`  
+`I-123-iomazenil - ドーパミン受容体`  
 
-[2015-72](http://www.radiology.jp/content/files/20150821.pdf#page=25)
-放射性医薬品に関する組み合わせとして誤っているのはどれか。1 つ選べ。
-a	 99mTc-MAA 肺血流
-b	 99mTc-MAG3 腎血漿流量
-c	 99mTc-phytate 肝受容体
-d	 123I-MIBG 心臓交感神経
-e	 201TlCl 心筋血流
+◎[2017-76](http://www.radiology.jp/content/files/20170904_2.pdf#page=27)
+疾患としてTc-99m-pertechnetateが診断に**有用ではない**のはどれか。1つ選べ。  
+`Basedow 病` `Meckel 憩室` `Warthin 腫瘍` `Sjögren 症候群` `心アミロイドーシス`  
 
-[2014-82](http://www.radiology.jp/content/files/1377.pdf#page=28)
-疾患と放射性医薬品との組み合わせとして適切なのはどれか。2 つ選べ。
-a 褐色細胞腫 ――――――――131I-adosterol
-b 転移性骨腫瘍 ―――――――99mTc-O4-
-c Hodgkin リンパ腫 ―――――90Y-iburitumomab tiuxetan
-d 先天性胆道閉鎖症 ―――――99mTc-PMT
-e 副甲状腺機能亢進症 ――――99mTc-MIBI
+◎[2015-72](http://www.radiology.jp/content/files/20150821.pdf#page=25)
+放射性医薬品に関する組み合わせとして**誤っている**のはどれか。1つ選べ。  
+`Tc-99m-MAA - 肺血流`  
+`Tc-99m-MAG3 - 腎血漿流量`  
+`Tc-99m-phytate - 肝受容体`  
+`I-123-MIBG - 心臓交感神経`  
+`Tl-201 Cl  - 心筋血流`  
+
+◎[2014-82](http://www.radiology.jp/content/files/1377.pdf#page=28)
+疾患と放射性医薬品との組み合わせとして適切なのはどれか。2つ選べ。  
+`褐色細胞腫 ――――――――I-131-adosterol`  
+`転移性骨腫瘍 ―――――――Tc-99m-O4-`  
+`Hodgkin リンパ腫 ―――――Y-90-iburitumomab tiuxetan`  
+`先天性胆道閉鎖症 ―――――Tc-99m-PMT`  
+`副甲状腺機能亢進症 ――――Tc-99m-MIBI`  
+
+
+<details>
+<summary></summary>
+
+【核医学の適応疾患まとめ(放射線医学 核医学より)】
+
+- Tc-99m-O4-による唾液腺イメージング
+    - 正常耳下腺に生理的集積を示す.
+    - 多くの耳下腺腫瘍には集積しないが, Warthin腫瘍には集積する.
+- Tc-99m-PYP(ピロリン酸)による心筋イメージング
+    - 心筋梗塞, アミロイドーシス, 心筋細胞, 心筋挫傷などが陽性描画される.
+- Y-90内用療法
+    - CD20陽性の, 難治性B細胞性非ホジキンリンパ腫やマントルリンパ腫が適応.
+
+**こたえ**
+- 2019-73: `Tc-99m-PYP - 心アミロイドーシス`
+- 2017-73: `Tc-99m-GSA - アシアロ糖タンパク質受容体`, `Tc-99m-MAA - 肺血流`  
+- 2017-76: `心アミロイドーシス`
+- 2015-72: `Tc-99m-phytate - 肝受容体`
+- 2014-82: `先天性胆道閉鎖症 ―――――Tc-99m-PMT`, `副甲状腺機能亢進症 ――――Tc-99m-MIBI`  
+</details>
+
 
 [2013-78](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=26)
 正常者で投与後に胆囊が描出されることが多いのはどれか。2 つ選べ。
@@ -1810,6 +1830,8 @@ b 99mTc-MIBI
 c 99mTc-PMT
 d 99mTc-HSA-D
 e 99mTc-スズコロイド
+
+
 
 [2018-74](http://www.radiology.jp/content/files/20180926_2.pdf#page=27)
 放射線安全管理について正しいのはどれか。1 つ選べ。
