@@ -1693,64 +1693,70 @@ e 123I-IMP 脳血流シンチグラフィ
 
 
 ### 放射線医薬品の性質,投与,撮像
-[2018-73](http://www.radiology.jp/content/files/20180926_2.pdf#page=27)
-放射性医薬品を静脈内に投与しないのはどれか。1つ選べ。
-a	 18F-FDG-PET
-b	 骨シンチグラフィ
-c	 骨髄シンチグラフィ
-d	 消化管出血シンチグラフィ
-e	 センチネルリンパ節シンチグラフィ
+◎[2018-73](http://www.radiology.jp/content/files/20180926_2.pdf#page=27)
+放射性医薬品を静脈内に**投与しない**のはどれか。1つ選べ。  
+`F-18-FDG-PET` `骨シンチグラフィ` `骨髄シンチグラフィ` `消化管出血シンチグラフィ` `センチネルリンパ節シンチグラフィ`  
 
 [2017-72](http://www.radiology.jp/content/files/20170904_2.pdf#page=26)
- 静脈に投与されない放射性医薬品はどれか。1 つ選べ。
-a	 67Ga-citrate
-b	 99mTc-DMSA
-c	 99mTc-MAG3
-d	 111In-DTPA
-e	 123I-BMIPP
+静脈に**投与されない**放射性医薬品はどれか。1つ選べ。  
+`Ga-67-citrate` `Tc-99m-DMSA` `Tc-99m-MAG3` `In-111-DTPA` `I-123-BMIPP`  
 
-[2018-76](http://www.radiology.jp/content/files/20180926_2.pdf#page=28)
-放射性医薬品の集積機序について正しいものはどれか。1 つ選べ。
-a	 123I は甲状腺内で有機化される。
-b	 201Tl は受動拡散で取り込まれる。
-c	 99mTc-GSA は肝 Kupffer 細胞で貪食される。
-d	 99mTc-ECD は血液脳関門を ATP 依存性に通過する。
-e	 18F-FDG はグルタミン酸トランスポータを介して取り込まれる。
+◎[2017-74](http://www.radiology.jp/content/files/20170904_2.pdf#page=26)
+放射性医薬品としてダイナミック撮像に用いられる頻度が最も**低い**のはどれか。1つ選べ。  
+`Ga-67-citrate` `Tc-99m-MAG3` `Tc-99m-MDP` `Tc-99m-pertechnetate` `I-123-IMP`  
 
-[2017-74](http://www.radiology.jp/content/files/20170904_2.pdf#page=26)
-放射性医薬品としてダイナミック撮像に用いられる頻度が最も低いのはどれか。
-1 つ選べ。
-a	 67Ga-citrate
-b	 99mTc-MAG3
-c	 99mTc-MDP
-d	 99mTc-pertechnetate
-e	 123I-IMP
+◎[2017-75](http://www.radiology.jp/content/files/20170904_2.pdf#page=27)
+放射性医薬品として投与件数あたりの副作用発生頻度が最も高いのはどれか。1つ選べ。  
+`F-18-FDG` `Tc-99m-HMDP` `I-123-iomazenil` `I-123-MIBG` `I-131-adosterol`  
 
-[2017-75](http://www.radiology.jp/content/files/20170904_2.pdf#page=27)
-放射性医薬品として投与件数あたりの副作用発生頻度が最も高いのはどれか。1つ選べ。
-a	 18F-FDG
-b	 99mTc-HMDP
-c	 123I-iomazenil
-d	 123I-MIBG
-e	 131I-adosterol
+◎[2016-75](http://www.radiology.jp/content/files/20160825.pdf#page=27)
+生理食塩水で希釈し, ゆっくりと静脈内に投与する必要がある放射性医薬品はどれか。1つ選べ。  
+`I-123-IMP` `I-123-MIBG` `I-123-BMIPP` `I-123-FP-CIT` `I-131-adosterol`  
 
-[2016-75](http://www.radiology.jp/content/files/20160825.pdf#page=27)
-生理食塩水で希釈し，ゆっくりと静脈内に投与する必要がある放射性医薬品はどれか。
-1 つ選べ。
-a	 123I-IMP
-b	 123I-MIBG
-c	 123I-BMIPP
-d	 123I-FP-CIT
-e	 131I-adosterol
+◎[2018-76](http://www.radiology.jp/content/files/20180926_2.pdf#page=28)
+放射性医薬品の集積機序について正しいものはどれか。1つ選べ。  
+`I-123は甲状腺内で有機化される。`  
+`Tl-201は受動拡散で取り込まれる。`  
+`Tc-99m-GSAは肝Kupffer細胞で貪食される。`  
+`Tc-99m-ECDは血液脳関門を ATP 依存性に通過する。`  
+`F-18-FDGはグルタミン酸トランスポータを介して取り込まれる。`  
 
 [2015-73](http://www.radiology.jp/content/files/20150821.pdf#page=26)
-放射性医薬品と成人における投与量との組み合わせとして適切でないのはどれか。1 つ
-選べ。
+放射性医薬品と成人における投与量との組み合わせとして適切でないのはどれか。1つ選べ。
 a	 18F-FDG 185 MBq
 b	 99mTc-DMSA 185 MBq
 c	 99mTc-HMDP 740 MBq
 d	 123I-IMP 185 MBq
 e	 131I-アドステロール 185 MBq
+
+
+<details>
+<summary></summary>
+
+【マイナーな核医学検査】
+
+【トレーサーの投与と集積】
+
+- I-131-adosterol: エタノールが添加されているため血管痛を防ぐために希釈してゆっくり投与する.
+- Tl-201: Na/K-ATP-aseによって心筋細胞に取り込まれる.
+
+**こたえ**
+- 2018-73: `センチネルリンパ節シンチグラフィ`  
+- 2017-72: `In-111-DTPA`
+- 2017-74: `Ga-67-citrate`
+- 2017-75: `I-131-adosterol`
+- 2016-75: `I-131-adosterol`  
+- 2018-76: `I-123は甲状腺内で有機化される。`
+- 2015-73: 
+</details>
+
+
+
+
+
+
+
+
 
 [2015-74](http://www.radiology.jp/content/files/20150821.pdf#page=26)
 健常人で有効半減期が最も短い放射性医薬品はどれか。1 つ選べ。
