@@ -1621,6 +1621,8 @@ e 中脳
 
 
 ### XJF. 脱髄疾患
+#### 多発性硬化症
+#### 視神経脊髄炎
 ◎[2019-21](http://www.radiology.jp/content/files/20190904_02.pdf#page=8)
 多発性硬化症との鑑別診断上，視神経脊髄炎で最も重要な所見はどれか。1つ選べ。  
 `ovoid lesion` `視神経病変` `T1 black hole` `側脳室周囲病変` `3椎体以上の脊髄病変`  
@@ -1642,6 +1644,19 @@ e 中脳
 - 2018-21: `T2 black hole`
 </details>
 
+#### 急性散在性脳脊髄炎(ADEM)
+
+<details>
+<summary></summary>
+    
+【急性散在性脳脊髄炎】
+
+- 
+
+![](img/adem.jpg)
+
+**こたえ**
+</details>
 
 ### XJH. 中枢神経感染症
 [2-2019-10](http://www.radiology.jp/content/files/20190904_03.pdf#page=8)
