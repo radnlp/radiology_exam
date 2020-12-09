@@ -1493,7 +1493,7 @@ von Hippel-Lindau 病に関連の深いものはどれか。2つ選べ。
 
 <details>
 <summary></summary>
-![](img/2nd_201907.png)
+![](img/2_201907.png)
 </details>
 
 [2-2019-08](http://www.radiology.jp/content/files/20190904_03.pdf#page=6)
@@ -1501,7 +1501,7 @@ von Hippel-Lindau 病に関連の深いものはどれか。2つ選べ。
 `くも膜下出血` `急性期脳梗塞` `原発性脳腫瘍` `転移性脳腫瘍` `急性硬膜下血腫`  
 <details>
 <summary></summary>
-![](img/2nd_201908.png)
+![](img/2_201908.png)
 </details>
 
 
@@ -5740,9 +5740,27 @@ e 糖尿病
 
 
 ## 産婦人科
+### XQuN. 子宮腫瘤
+[2-2019-57](http://www.radiology.jp/content/files/20190904_03.pdf#page=55)
+40歳代の女性。倦怠感と嘔気，無月経を主訴に来院した。MRIのT2強調像とガドリニウム造影T1強調像の矢状断像を示す。可能性が最も高いのはどれか。1つ選べ。  
+`子宮体癌` `遺残胎盤` `胞状奇胎` `子宮内膜増殖症` `子宮内膜ポリープ`
+
+<details>
+<summary>画像</summary>
+
+![](img/2_2019_57.png)
+**こたえ**
+- 2017-66: `喫煙歴`
+- 2015-67: `頸管上皮`, `子宮内膜`
+</details>
+
+### XQoN. 卵巣腫瘤
+[2-2019-58](http://www.radiology.jp/content/files/20190904_03.pdf#page=56)
+
+
 ### XQ0. 解剖
 [2018-65](http://www.radiology.jp/content/files/20180926_2.pdf#page=24)
-産婦人科臓器・構造で両者が接している組み合わせはどれか。1 つ選べ。
+産婦人科臓器・構造で両者が接している組み合わせはどれか。1つ選べ。
 a	 卵管間質部　 　卵巣
 b	 直腸子宮窩　 　前腟円蓋
 c	 子宮体部　 　広間膜
@@ -6264,7 +6282,7 @@ Paget病で**誤っている**のはどれか。1つ選べ。
 [2019-21](http://www.radiology.jp/content/files/20190904_03.pdf#page=19)
 20歳代の女性。右膝背側の痛みを主訴に来院した。右膝関節の単純X線写真の側面像を示す。可能性が最も高いのはどれか。1つ選べ。  
 `類骨骨腫` `骨化性筋炎` `悪性リンパ腫` `傍骨性骨肉腫` `メロレオストーシス`  
-![](img/2nd_201921.png)
+![](img/2_201921.png)
 
 ◎[2016-27](http://www.radiology.jp/content/files/20160825.pdf#page=9)
 骨端に好発するのはどれか。1つ選べ。  
