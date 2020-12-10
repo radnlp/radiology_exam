@@ -4981,6 +4981,40 @@ e	 びまん性同心円状胆管壁肥厚
 ![](img/2_201949.png)
 </details>
 
+
+
+[2-2018-46](http://www.radiology.jp/content/files/20180926_3.pdf#page=44)
+60歳代の女性。背部痛を主訴に来院した。造影CTを示す。考えられる疾患はどれか。2つ選べ。  
+`通常型膵癌` `膵腺房細胞癌` `漿液性囊胞腺腫` `膵神経内分泌腫瘍` `膵管内乳頭粘液性腫瘍`  
+
+<details>
+<summary>画像</summary>
+
+![](img/2_201846.png)
+</details>
+
+[2-2018-47](http://www.radiology.jp/content/files/20180926_3.pdf#page=45)
+60歳代の男性。上腹部痛を主訴に来院した。ダイナミックCTを示す。この疾患で異常が見られにくい臓器はどれか。1つ選べ。  
+`胆管` `脾` `腎` `大動脈` `前立腺`  
+
+<details>
+<summary>画像</summary>
+
+![](img/2_201847.png)
+</details>
+
+[2-2018-48](http://www.radiology.jp/content/files/20180926_3.pdf#page=46)
+40歳代の男性。心窩部痛を主訴に来院した。造影CTの横断像と再構成冠状断像を示す。可能性が最も高いのはどれか。1つ選べ。  
+`胆管癌` `十二指腸癌` `Groove膵炎` `化膿性胆管炎` `十二指腸潰瘍`  
+
+<details>
+<summary>画像</summary>
+
+![](img/2_201848.png)
+</details>
+
+
+
 <details>
 <summary></summary>
 
