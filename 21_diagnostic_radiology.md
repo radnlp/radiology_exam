@@ -4956,6 +4956,7 @@ e	 びまん性同心円状胆管壁肥厚
 
 <details>
 <summary>画像</summary>
+
 ![](img/2_201947.png)
 </details>
 
@@ -4966,6 +4967,7 @@ e	 びまん性同心円状胆管壁肥厚
 
 <details>
 <summary>画像</summary>
+
 ![](img/2_201948.png)
 </details>
 
@@ -4975,6 +4977,7 @@ e	 びまん性同心円状胆管壁肥厚
 
 <details>
 <summary>画像</summary>
+
 ![](img/2_201949.png)
 </details>
 
