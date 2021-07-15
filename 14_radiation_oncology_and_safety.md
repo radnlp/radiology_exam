@@ -839,7 +839,16 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 (§2-13-3,3-1-1,安全1-2)
 
 ◎[2013-05](http://www.radiology.jp/content/files/2013_2s_exsam.pdf)
-放射線感受性が高い細胞周期はどれか。2つ選べ。 `M期` `G0期` `S期の後半` `G1期の前半` `G1期からS期への移行期`
+放射線感受性が高い細胞周期はどれか。2つ選べ。  
+`M期` `G0期` `S期の後半` `G1期の前半` `G1期からS期への移行期`
+
+[2020-73](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26)
+細胞周期の組み合わせがいずれも放射線抵抗性なのはどれか。1つ選べ。  
+`G1期前半，M期`  
+`G2M期，S期後半`  
+`G1期前半，S期後半`  
+`G1からSへの移行期，M期`  
+`G1期前半，G1からSへの移行期`  
 
 <details>
 <summary></summary>
