@@ -730,6 +730,11 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 ◎[2013-87](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29)
 放射線治療の施行において直列臓器として考えるのはどれか。2つ選べ。  
 `肺` `肝臓` `小腸` `腎臓` `脊髄`
+
+[2020-62](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22)
+放射線治療の影響を考える上で並列臓器と考えられるのはどれか。2つ選べ。  
+`脳幹` `腎臓` `小腸` `視交叉` `耳下腺`
+
 <details>
 <summary></summary>
 
