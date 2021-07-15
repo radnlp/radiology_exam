@@ -1469,6 +1469,15 @@ Braggピークを有する放射線はどれか。2つ選べ。
 放射線治療計画で定義される体積のうち最も大きいのはどれか。1つ選べ。  
 `治療体積（TV）` `臨床標的体積（CTV）` `内的標的体積（ITV）` `計画標的体積（PTV）` `肉眼的腫瘍体積（GTV）`  
 
+[2020-59](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
+D95線量処方で正しいのはどれか。1つ選べ。  
+
+`処方線量をPTVの95%領域に投与する。`
+`処方線量の95%線量をPTV平均線量とする。`
+`処方線量の95%線量をplan isocenterへ投与する。`
+`処方線量の95%線量をPTV100%領域に投与する。`
+`plan isocenter 処方と比較して実際の投与線量は少なくなる。`
+    
 <details>
 <summary></summary>
 
@@ -1523,6 +1532,10 @@ e 5～10 mm の皮膚ボーラスの使用
 ◎[2013-89](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30)
 定位放射線照射の適応に**最もなりにくい**のはどれか。1つ選べ。  
 `膠芽腫` `肝細胞癌` `転移性肺癌` `転移性脳腫瘍` `非小細胞肺癌`  
+    
+[2020-60](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
+以下の疾患（T1N0M0とする）で，体幹部定位放射線治療の適応はどれか。2つ選べ。  
+`肝癌` `膀胱癌` `腎盂癌` `子宮体癌` `前立腺癌`
 
 <details>
 <summary></summary>
@@ -3877,7 +3890,11 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 [2018-102](http://www.radiology.jp/content/files/20180926_2.pdf#page=36)
 断端陰性でも術後照射を必要とする可能性が高いのはどれか。1つ選べ。  
 `肺癌` `直腸癌` `食道癌` `下咽頭癌` `子宮体癌` 
-
+    
+[2020-57](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=20)
+根治的放射線治療の適応はどれか。2つ選べ。  
+`胃癌` `食道癌` `直腸癌` `外陰癌` `顎下腺癌`
+    
 <details>
 <summary></summary>
 
@@ -4073,6 +4090,10 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `T4aN0 上顎洞癌 眼球`  
 `T1b2N0 子宮頸癌 卵巣`  
 `T4N1 肛門癌 肛門`  
+
+[2020-58](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
+根治的放射線治療時に殺細胞性抗がん剤併用で効果改善が**最も少ない**のはどれか。1つ選べ。  
+`肺癌` `食道癌` `前立腺癌` `子宮頸癌` `頭頸部癌`
 
 <details>
 <summary></summary>
