@@ -542,6 +542,10 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 放射線の蛍光作用を用いる検出器はどれか。1つ選べ。  
 `GM 計数管` `NaI 検出器` `比例計数管` `電離箱線量計` `半導体検出器`  
 
+[2020-77](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=27)
+ガンマ線のエネルギースペクトルの測定に使用する検出器はどれか。2つ選べ。  
+`電離箱` `GM検出器` `比例計数管` `Ge半導体検出器` `NaIシンチレーション検出器`  
+
 <details>
 <summary></summary>
 
