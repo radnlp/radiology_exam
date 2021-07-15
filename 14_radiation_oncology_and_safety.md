@@ -1397,6 +1397,17 @@ LETについて**誤っている**のはどれか。1つ選べ。
 ![](img/interaction.png)
 
 
+[2020-76](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=27)
+図はエックス線エネルギーに対する水の相互作用を示す。A の相互作用で正しいのはどれか。1つ選べ。  
+`光電効果`  
+`光核反応`  
+`電子対生成`  
+`レイリー散乱`  
+`コンプトン散乱`  
+
+![](img/1st_202076.png)
+
+
 ◎[2017-08](http://www.radiology.jp/content/files/20170904_2.pdf#page=4)
 コンプトン効果の模式図を示す。A, BおよびCの組み合わせとして正しいのはどれか。1つ選べ。  
 `入射光子, 散乱電子, 反跳光子`  
