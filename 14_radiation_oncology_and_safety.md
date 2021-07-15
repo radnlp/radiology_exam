@@ -2760,6 +2760,13 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `前処置に rhTSH を用いることができる。`  
 `1,850 MBq を投与することができる。`  
 
+[2020-65](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23)
+甲状腺分化癌で**誤っている**のはどれか。1つ選べ。  
+`年齢はリスク因子である。`  
+`被膜外進展はリスク因子である。`  
+`初回治療は摘出術が標準である。`  
+`肺転移の治療に131I 内用療法を用いる。`  
+`全摘出術後の再発予防に頸部外照射が標準である。`  
 
 <details>
 <summary></summary>
@@ -4121,7 +4128,15 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 [2020-58](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
 根治的放射線治療時に殺細胞性抗がん剤併用で効果改善が**最も少ない**のはどれか。1つ選べ。  
 `肺癌` `食道癌` `前立腺癌` `子宮頸癌` `頭頸部癌`
-
+    
+[2020-61](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22)
+初回治療で強度変調放射線治療（IMRT）の利用により生存率改善が証明されている疾患はどれか。1つ選べ。  
+`膵癌` `声門癌` `膠芽腫` `子宮頸癌` `上咽頭癌`
+    
+[2020-63](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22)
+腫瘍の摘出程度で生存率の改善と関連のある脳腫瘍はどれか。2つ選べ。  
+`膠芽腫` `髄芽腫` `頭蓋内胚腫` `転移性脳腫瘍` `中枢神経原発悪性リンパ腫`
+    
 <details>
 <summary></summary>
     
