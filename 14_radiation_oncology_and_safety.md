@@ -62,27 +62,27 @@
 (参照: 放射線と安全につきあう §1-1-2-6)
 [▲top page](#Index)
 
-◎[2019-01](http://www.radiology.jp/content/files/20190904_02.pdf#page=2){:target="_blank"}
+◎[2019-01](http://www.radiology.jp/content/files/20190904_02.pdf#page=2)
 全身被ばく12Gyの10日後に死亡した場合, 最も可能性が高い死因はどれか。1つ選べ。  
 `肝不全` `腎不全` `骨髄抑制` `消化管障害` `中枢神経障害`
 
-◎[2017-03](http://www.radiology.jp/content/files/20170904_2.pdf#page=2){:target="_blank"}
+◎[2017-03](http://www.radiology.jp/content/files/20170904_2.pdf#page=2)
 半数致死線量を照射した場合に最も起こりやすいのはどれか。1つ選べ。  
 `骨髄死` `心臓死` `腸管死` `肺臓死` `中枢神経死`
 
-◎[2016-05](http://www.radiology.jp/content/files/20160825.pdf#page=2){:target="_blank"}
+◎[2016-05](http://www.radiology.jp/content/files/20160825.pdf#page=2)
 数Gyの全身被ばくで死亡する場合に主たる原因となる放射線障害部位はどれか。1つ選べ。  
 `心` `脳` `肺` `骨髄` `腸管`
 
-◎[2015-05](http://www.radiology.jp/content/files/20150821.pdf#page=2){:target="_blank"}
+◎[2015-05](http://www.radiology.jp/content/files/20150821.pdf#page=2)
 全身照射後に無治療の場合，30日以内に約50％が死亡する線量はどれか。1つ選べ。  
 `1Gy` `4Gy` `12Gy` `24Gy` `40Gy`
 
-◎[2018-01](http://www.radiology.jp/content/files/20180926_2.pdf#page=2){:target="_blank"}
+◎[2018-01](http://www.radiology.jp/content/files/20180926_2.pdf#page=2)
 3Gyの全身被ばく後, 数時間以内に出現する可能性が最も高い症状はどれか。1つ選べ。  
 `悪心` `下痢` `高熱` `頭痛` `意識障害`
 
-◎[2013-11](http://radiology.jp/content/files/2013_2s_exsam.pdf#page=4){:target="_blank"}
+◎[2013-11](http://radiology.jp/content/files/2013_2s_exsam.pdf#page=4)
 急性放射線症候群の前駆症状**でない**のはどれか。1つ選べ。  
 `嘔吐` `下痢` `発熱` `掻痒感` `意識混濁`
 
@@ -117,7 +117,7 @@
 #### 確率的影響と確定的影響
 [▲top page](#Index)
 
-◎[2014-09](http://www.radiology.jp/content/files/1377.pdf#page=4){:target="_blank"}
+◎[2014-09](http://www.radiology.jp/content/files/1377.pdf#page=4)
 電離放射線の人体への影響として正しいのはどれか。1つ選べ。  
 `発癌は確定的影響である。`  
 `不妊は確率的影響である。`  
@@ -125,11 +125,11 @@
 `発癌の悪性度は線量に依存する。`  
 `確率的影響に明確なしきい値は存在しない。` 
 
-◎[2017-10](http://www.radiology.jp/content/files/20170904_2.pdf#page=5){:target="_blank"}
+◎[2017-10](http://www.radiology.jp/content/files/20170904_2.pdf#page=5)
 放射線による胎児への影響として確率的影響と考えられているのはどれか。2つ選べ。  
 `流産` `形態異常` `遺伝的影響` `精神発達遅滞` `小児がん発生`
 
-◎[2012-09](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=3){:target="_blank"}
+◎[2012-09](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=3)
 放射線の確定的影響で正しいのはどれか。2つ選べ。  
 `回復現象が認められる。`  
 `発症に性差が認められる。`  
@@ -171,15 +171,15 @@
 #### 急性被曝のしきい値
 [▲top page](#Index)
 
-◎[2013-15](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5){:target="_blank"}
+◎[2013-15](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5)
 放射線の確定的影響（組織障害反応）の指標である「しきい線量」は，放射線治療患者の場合，何%に障害が出現する線量か。1つ選べ。  
 `0.5～1％` `1～5％` `5～25％` `25～50％` `50％`  
 
-◎[2019-10](http://www.radiology.jp/content/files/20190904_02.pdf#page=5){:target="_blank"}
+◎[2019-10](http://www.radiology.jp/content/files/20190904_02.pdf#page=5)
 全身被ばくによる急性放射線障害のうち，しきい線量が1Gy以下のものはどれか。2つ選べ。  
 `嘔吐` `消化管障害` `造血機能低下` `女性永久不妊` `皮膚水疱形成`  
 
-◎[2018-14](http://www.radiology.jp/content/files/20180926_2.pdf#page=7){:target="_blank"}
+◎[2018-14](http://www.radiology.jp/content/files/20180926_2.pdf#page=7)
 しきい線量と確定的影響の組み合わせについて**誤っている**のはどれか。1つ選べ。  
 `0.5Gy 広範囲の照射で造血能低下`  
 `1Gy 男性の一時的不妊`  
@@ -187,11 +187,11 @@
 `4Gy 一時的脱毛`  
 `6Gy 女性の永久不妊`  
 
-◎[2019-12](http://www.radiology.jp/content/files/20190904_02.pdf#page=5){:target="_blank"}
+◎[2019-12](http://www.radiology.jp/content/files/20190904_02.pdf#page=5)
 胎児被ばくによる精神発達遅滞のしきい線量はどれか。1つ選べ。  
 `10～20 mGy` `50～60 mGy` `70～80 mGy` `100～200 mGy` `300～400 mGy`
 
-◎[2016-09](http://www.radiology.jp/content/files/20160825.pdf#page=3){:target="_blank"}
+◎[2016-09](http://www.radiology.jp/content/files/20160825.pdf#page=3)
 放射線の人体影響（妊婦，胎児）について正しいのはどれか。1つ選べ。  
 `胎児被ばくを理由とした人工妊娠中絶は違法である。`  
 `放射線被ばくでは胎児の精神発達遅滞は発症しない。`  
@@ -199,7 +199,7 @@
 `妊娠前の卵巣の被ばくで胎児の発がんリスクは増大する。`  
 `妊婦の放射線被ばく直後のナトリウム摂取は胎児影響の低減作用がある。`
 
-◎[2015-10](http://www.radiology.jp/content/files/20150821.pdf#page=4){:target="_blank"}
+◎[2015-10](http://www.radiology.jp/content/files/20150821.pdf#page=4)
 高線量の被ばくは胎児の精神発達遅滞の危険性を高める。曝露時の妊娠月数として，この恐れが最も高いのはどれか。1つ選べ。  
 `1か月` `3か月` `5か月` `8か月` `10か月`  
 
@@ -257,7 +257,7 @@
 (§安全1-1-3,レジセミ7)
 [▲top page](#Index)
 
-[2012-10](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=4){:target="_blank"}
+[2012-10](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=4)
 放射線による発がんについて正しいのはどれか。1つ選べ。  
 `自然放射線量が高い地域の住民の発がん率は高い。`  
 `放射線誘発がんで潜伏期間が最も短い腫瘍は乳癌である。`  
@@ -283,7 +283,7 @@
 (安全§2-4-1,レジセミ7)
 [▲top page](#Index)
 
-◎[2019-13](http://www.radiology.jp/content/files/20190904_02.pdf#page=6){:target="_blank"}
+◎[2019-13](http://www.radiology.jp/content/files/20190904_02.pdf#page=6)
 放射線診療の正当化に該当するのはどれか。1つ選べ。  
 `検査の適応の判断`  
 `適切な放射線量の判断`  
@@ -291,7 +291,7 @@
 `定期的な職員教育の実施`  
 `充分な数のスタッフの配置`  
 
-◎[2018-15](http://www.radiology.jp/content/files/20180926_2.pdf#page=7){:target="_blank"}
+◎[2018-15](http://www.radiology.jp/content/files/20180926_2.pdf#page=7)
 CT検査において防護の正当化に該当する行為はどれか。1つ選べ。  
 `単純CTを省略する。`  
 `適応のあることを確認する。`  
@@ -301,7 +301,7 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 
 
 
-[2020-81](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=29){:target="_blank"}
+[2020-81](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=29)
 放射線診療の最適化に相当する医師の対応はどれか。1つ選べ。  
 `画質に問題があっても再撮影は依頼しない。`  
 `診療ガイドラインに沿って検査実施を決めた。`  
@@ -309,7 +309,7 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 `できるだけ低線量で撮影するように指示した。`  
 `診断参考レベルと自施設の値を比較検討した。`  
 
-◎[2013-14](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5){:target="_blank"}
+◎[2013-14](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5)
 放射線被ばくの分類で**誤っている**のはどれか。1つ選べ。  
 `医師が医療行為で被ばく ――――――――――――――― 職業被ばく`  
 `癌患者が放射線治療で被ばく ――――――――――――― 医療被ばく`  
@@ -317,11 +317,11 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 `原子力発電所の職員が業務で被ばく ―――――――――― 職業被ばく`  
 `妊娠女性が業務で被ばくした場合の胎児の被ばく ―――― 公衆被ばく`  
 
-◎[2018-12](http://www.radiology.jp/content/files/20180926_2.pdf#page=6){:target="_blank"}
+◎[2018-12](http://www.radiology.jp/content/files/20180926_2.pdf#page=6)
 病院に出入りする人のうち公衆被ばくに含めるのはどれか。2つ選べ。  
 `見舞客` `患者家族` `納品業者` `患者介護者` `健常志願者`  
 
-◎[2014-11](http://www.radiology.jp/content/files/1377.pdf#page=5){:target="_blank"}
+◎[2014-11](http://www.radiology.jp/content/files/1377.pdf#page=5)
 医療被ばくについて正しいのはどれか。1つ選べ。  
 `線量限度が設けられている。`  
 `放射線治療による被ばくを含む。`  
@@ -329,7 +329,7 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 `自然放射線による被ばくを含む。`  
 `日本ではおおよそ年間1mSvである。`  
 
-◎[2019-08](http://www.radiology.jp/content/files/20190904_02.pdf#page=4){:target="_blank"}
+◎[2019-08](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)
 自然放射線による被ばくについて正しいのはどれか。2つ選べ。  
 `内部被ばくより外部被ばくが多い。`  
 `外部被ばくで，大地からの被ばくは地域による差がない。`  
@@ -337,7 +337,7 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 `世界平均で，自然放射線による年間被ばくは 2.4 mSv 程度である。`  
 `日本人の内部被ばくでは，吸入よりも食物摂取による被ばくが多い。`  
 
-◎[2017-05](http://www.radiology.jp/content/files/20170904_2.pdf#page=3){:target="_blank"}
+◎[2017-05](http://www.radiology.jp/content/files/20170904_2.pdf#page=3)
 日本人男性の体内放射能はどの程度か。1つ選べ。  
 `7 Bq` `70 Bq` `700 Bq` `7,000 Bq` `70,000 Bq`  
 
@@ -394,27 +394,27 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 (安全§2-4-2)
 [▲top page](#Index)
 
-◎[2015-02](http://www.radiology.jp/content/files/20150821.pdf#page=1){:target="_blank"}
+◎[2015-02](http://www.radiology.jp/content/files/20150821.pdf#page=1)
 高エネルギー放射線4.2Gyを水500gに照射した際の温度上昇は何度か。1つ選べ。ただし，吸収線量の単位はGy＝J/kg，1cal＝4.2Jなので，4.2Gy＝4.2J/kg＝1.0 cal/kgとする。1calは水1cm^3の温度を1℃上昇させる熱量である。
 `2℃` `1℃` `0.5℃` `1/1000℃` `0.5/1000℃`  
 
-◎[2014-12](http://www.radiology.jp/content/files/1377.pdf#page=5){:target="_blank"}
+◎[2014-12](http://www.radiology.jp/content/files/1377.pdf#page=5)
 Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2つ選べ。  
 `吸収線量` `実効線量` `線量限度` `等価線量` `放射能量` 
 
-◎[2013-13](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5){:target="_blank"}
+◎[2013-13](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5)
 エックス線の放射線加重係数の値はどれか。1つ選べ。  
 `0.01` `0.05` `0.1` `1.0` `2.0`
 
-◎[2016-12](http://www.radiology.jp/content/files/20160825.pdf#page=4){:target="_blank"}
+◎[2016-12](http://www.radiology.jp/content/files/20160825.pdf#page=4)
 実測では**求められない**のはどれか。1つ選べ。  
 `実効線量` `放射能量` `吸収線量` `入射皮膚表面線量` `dose length product（DLP）` 
 
-◎[2019-11](http://www.radiology.jp/content/files/20190904_02.pdf#page=5){:target="_blank"}
+◎[2019-11](http://www.radiology.jp/content/files/20190904_02.pdf#page=5)
 放射線被ばくによる発がんリスクが最も高い臓器はどれか。1つ選べ。  
 `乳房` `肝臓` `膀胱` `卵巣` `子宮`  
 
-◎[2016-10](http://www.radiology.jp/content/files/20160825.pdf#page=4){:target="_blank"}
+◎[2016-10](http://www.radiology.jp/content/files/20160825.pdf#page=4)
 放射線被ばくによる発がんリスクについて正しいのはどれか。1つ選べ。  
 `Bergonie-Tribondeau の計算式を用いてリスク評価をする。`  
 `組織加重係数は甲状腺よりも乳腺のほうが大きな値である。`  
@@ -486,11 +486,11 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 (安全§2-4-3-1,レジセミ7)
 [▲top page](#Index)
 
-[2020-79](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=28){:target="_blank"}
+[2020-79](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=28)
 線量限度適用の対象となるのはどれか。1つ選べ。  
 `患者` `患者家族` `患者介助者` `病院周辺住民` `生物医学研究志願者`  
 
-◎[2019-09(改題)](http://www.radiology.jp/content/files/20190904_02.pdf#page=4){:target="_blank"}
+◎[2019-09(改題)](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)
 職業被ばくの線量限度について**誤っている**のはどれか。1つ選べ。  
 `実効線量限度は5年間で100mSvである。`  
 `妊娠期間中の内部被ばくの実効線量限度は1mSvである。`  
@@ -498,7 +498,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `水晶体の等価線量限度は年間50mSvである。`  
 `内部被ばくの実効線量限度は年間5mSvである。`  
 
-◎[2018-11(改題)](http://www.radiology.jp/content/files/20180926_2.pdf#page=6){:target="_blank"}
+◎[2018-11(改題)](http://www.radiology.jp/content/files/20180926_2.pdf#page=6)
 妊娠を申告した放射線科医師への対応として適切なのはどれか。2つ選べ。  
 `IVR業務を免除する。`  
 `特殊健康診断を実施する。`  
@@ -506,7 +506,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `個人線量計の計測期間を2週間毎に変更する。`  
 `出産までの内部被ばくの実効線量が1mSv以下になるよう管理する。`  
 
-◎[2013-12](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=4){:target="_blank"}
+◎[2013-12](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=4)
 放射線診療従事者の管理で，男性と妊娠可能な女性とで**異なる**のはどれか。1つ選べ。  
 `健康診断の項目` `教育訓練の項目` `線量集計の間隔` `一日の作業時間` `作業環境管理方法` 
 
@@ -544,7 +544,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 ### 線量測定装置
 [▲top page](#Index)
 
-◎[2017-06](http://www.radiology.jp/content/files/20170904_2.pdf#page=3){:target="_blank"}
+◎[2017-06](http://www.radiology.jp/content/files/20170904_2.pdf#page=3)
 エックス線の測定器について，吸収線量を測定するのに適した装置とエネルギー測定に適した装置との組み合わせとして正しいのはどれか。1つ選べ。  
 `GM 検出器 - 電離箱線量計`  
 `GM 検出器 - シンチレーション検出器`  
@@ -552,11 +552,11 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `電離箱線量計 - シンチレーション検出器`  
 `シンチレーション検出器 - GM 検出器`  
 
-◎[2016-01](http://www.radiology.jp/content/files/20160825.pdf#page=1){:target="_blank"}
+◎[2016-01](http://www.radiology.jp/content/files/20160825.pdf#page=1)
 放射線の蛍光作用を用いる検出器はどれか。1つ選べ。  
 `GM 計数管` `NaI 検出器` `比例計数管` `電離箱線量計` `半導体検出器`  
 
-[2020-77](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=27){:target="_blank"}
+[2020-77](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=27)
 ガンマ線のエネルギースペクトルの測定に使用する検出器はどれか。2つ選べ。  
 `電離箱` `GM検出器` `比例計数管` `Ge半導体検出器` `NaIシンチレーション検出器`  
 
@@ -612,7 +612,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 ### 医療現場での放射線安全管理
 [▲top page](#Index)
 
-◎[2015-13](http://www.radiology.jp/content/files/20150821.pdf#page=5){:target="_blank"}
+◎[2015-13](http://www.radiology.jp/content/files/20150821.pdf#page=5)
 放射線と遮蔽体との組み合わせとして，**適切でない**のはどれか。1つ選べ。  
 `アルファ線 - 紙`  
 `ベータ線 - アルミ板`  
@@ -638,7 +638,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 - 2015-13: `エックス線 - 水`
 </details>
 
-[2018-74](http://www.radiology.jp/content/files/20180926_2.pdf#page=27){:target="_blank"}
+[2018-74](http://www.radiology.jp/content/files/20180926_2.pdf#page=27)
 放射線安全管理について正しいのはどれか。1つ選べ。  
 `F-18-FDGの放射線防護にはX線防護衣が有効である。`  
 `β線の遮蔽には厚さ10mm程度のアクリル板を用いる。`  
@@ -646,7 +646,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `Y-90-イブリツモマブチウキセタンは一般病棟入院患者に投与できない。`  
 `未使用のTc-99m標識放射性医薬品は十分減衰してから医療廃棄物として廃棄する。`  
 
-[2013-72](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=24){:target="_blank"}
+[2013-72](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=24)
 放射線管理区域内で禁止されて**いない**のはどれか。1つ選べ。  
 `排尿` `化粧` `喫煙` `昼食摂取` `缶コーヒー摂取`  
 
@@ -683,19 +683,19 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 ### 耐容線量
 [▲top page](#Index)
 
-◎[2018-02](http://www.radiology.jp/content/files/20180926_2.pdf#page=2){:target="_blank"}
+◎[2018-02](http://www.radiology.jp/content/files/20180926_2.pdf#page=2)
 通常分割で**臓器全体**が照射された場合の耐容線量（TD5/5：5年間で5％）が最も低いのはどれか。1つ選べ。  
 `脳` `肺` `肝臓` `小腸` `脊髄` 
 
-◎[2015-08](http://www.radiology.jp/content/files/20150821.pdf#page=3){:target="_blank"}
+◎[2015-08](http://www.radiology.jp/content/files/20150821.pdf#page=3)
 通常分割照射で **臓器全体(両側性の場合は両方)** が照射された場合，重篤な晩発障害を基準にすると耐容線量が最も低いのはどれか。1つ選べ。  
 `脳` `心` `肝` `腎` `膀胱`  
 
-◎[2014-07](http://www.radiology.jp/content/files/1377.pdf#page=3){:target="_blank"}
+◎[2014-07](http://www.radiology.jp/content/files/1377.pdf#page=3)
 通常分割照射における小腸（**体積1/3**）の耐容線量（TD5/5）はどれか。1つ選べ。  
 `20 Gy` `30 Gy` `40 Gy` `50 Gy` `60 Gy` 
 
-◎[2016-88](http://www.radiology.jp/content/files/20160825.pdf#page=32){:target="_blank"}
+◎[2016-88](http://www.radiology.jp/content/files/20160825.pdf#page=32)
 臓器の照射体積および TD5/5(Gy)と障害との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `脳 (1/3, 60Gy) 脳壊死`  
 `食道 (1/3, 60Gy) 食道潰瘍`  
@@ -703,7 +703,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `卵巣 (全体, 10Gy) 不妊`  
 `脊髄 (5-10cm, 50Gy) 脊髄壊死`  
 
-[2020-74](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26){:target="_blank"}
+[2020-74](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26)
 一つの臓器全体が照射された場合の耐容線量（TD5/5：5年で5%の有害事象発生率）が最も低いのはどれか。1 つ選べ。ただし，（　）内はそれぞれの判定基準である。  
 `小腸（穿孔）`  
 `脳幹（壊死）`  
@@ -745,11 +745,11 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 ### 照射後の有害事象一般
 [▲top page](#Index)
 
-[2019-86](http://www.radiology.jp/content/files/20190904_02.pdf#page=30){:target="_blank"}
+[2019-86](http://www.radiology.jp/content/files/20190904_02.pdf#page=30)
 全身照射後の最も早期に起こる反応はどれか。1つ選べ。  
 `下痢` `脱毛` `肺炎` `口内炎` `耳下腺腫脹`
 
-[2018-88](http://www.radiology.jp/content/files/20180926_2.pdf#page=32){:target="_blank"}
+[2018-88](http://www.radiology.jp/content/files/20180926_2.pdf#page=32)
 骨盤部位の放射線治療に伴う消化管有害事象で正しいのはどれか。2つ選べ。  
 `小腸より大腸に多い。`
 `イレウスは晩期に多い。`
@@ -757,7 +757,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `化学療法併用で増強しない。`
 `強度変調放射線治療の使用で減少できる。`
 
-[2016-102](http://www.radiology.jp/content/files/20160825.pdf#page=37){:target="_blank"}
+[2016-102](http://www.radiology.jp/content/files/20160825.pdf#page=37)
 放射線照射後の消化管有害反応で正しいのはどれか。2つ選べ。  
 `早期反応として下痢がある。`  
 `晩期反応として腸閉塞がある。`  
@@ -765,7 +765,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `晩期反応は小腸より大腸で起こりやすい。`  
 `早期反応には副腎皮質ステロイドを使用する。`
 
-[2015-105](http://www.radiology.jp/content/files/20150821.pdf#page=36){:target="_blank"}
+[2015-105](http://www.radiology.jp/content/files/20150821.pdf#page=36)
 放射線脊髄症について正しいのはどれか。1つ選べ。  
 `照射後3か月以内に発症することが多い。`  
 `脊髄線量 60 Gy 未満での発症はまれである。`  
@@ -779,19 +779,19 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 (§2-13-5)
 [▲top page](#Index)
 
-◎[2018-87](http://www.radiology.jp/content/files/20180926_2.pdf#page=31){:target="_blank"}
+◎[2018-87](http://www.radiology.jp/content/files/20180926_2.pdf#page=31)
 直列臓器はどれか。2つ選べ。  
 `肺` `胃` `肝臓` `腎臓` `視神経`
 
-◎[2015-87](http://www.radiology.jp/content/files/20150821.pdf#page=30){:target="_blank"}
+◎[2015-87](http://www.radiology.jp/content/files/20150821.pdf#page=30)
 放射線治療における並列臓器はどれか。2つ選べ。  
 `気管` `肺` `肝臓` `直腸` `脊髄`
 
-◎[2013-87](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29){:target="_blank"}
+◎[2013-87](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29)
 放射線治療の施行において直列臓器として考えるのはどれか。2つ選べ。  
 `肺` `肝臓` `小腸` `腎臓` `脊髄`
 
-[2020-62](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22){:target="_blank"}
+[2020-62](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22)
 放射線治療の影響を考える上で並列臓器と考えられるのはどれか。2つ選べ。  
 `脳幹` `腎臓` `小腸` `視交叉` `耳下腺`
 
@@ -810,11 +810,11 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 (§2-13-4)
 [▲top page](#Index)
 
-◎[2013-07](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=3){:target="_blank"}
+◎[2013-07](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=3)
 放射線治療に影響する4R**でない**のはどれか。1つ選べ。  
 `Repair` `Repopulation` `Redistribution` `Recombination` `Reoxygenation`
 
-◎[2017-04](http://www.radiology.jp/content/files/20170904_2.pdf#page=3){:target="_blank"}
+◎[2017-04](http://www.radiology.jp/content/files/20170904_2.pdf#page=3)
 分割照射で抗腫瘍効果の増強が期待できるのはどれか。2つ選べ。  
 `再増殖`  
 `再酸素化`  
@@ -822,23 +822,23 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 `細胞周期の再分布`  
 `DNA二重鎖切断の修復` 
 
-◎[2014-94](http://www.radiology.jp/content/files/1377.pdf#page=32){:target="_blank"}
+◎[2014-94](http://www.radiology.jp/content/files/1377.pdf#page=32)
 放射線感受性が比較的高いのはどれか。2つ選べ。  
 `甲状腺未分化癌` `網膜悪性黒色腫` `上顎洞腺様囊胞癌` `上咽頭リンパ上皮腫` `中咽頭低分化扁平上皮癌`  
 
-◎[2016-08](http://www.radiology.jp/content/files/20160825.pdf#page=3){:target="_blank"}
+◎[2016-08](http://www.radiology.jp/content/files/20160825.pdf#page=3)
 放射線感受性の腫瘍はどれか。2つ選べ。  
 `胚腫` `膠芽腫` `腎細胞癌` `甲状腺乳頭癌` `Hodgkinリンパ腫` 
 
-◎[2015-88](http://www.radiology.jp/content/files/20150821.pdf#page=31){:target="_blank"}
+◎[2015-88](http://www.radiology.jp/content/files/20150821.pdf#page=31)
 放射線感受性が高いのはどれか。2つ選べ。  
 `膠芽腫` `胚細胞腫` `神経芽腫` `平滑筋肉腫` `聴神経鞘腫`  
 
-◎[2012-87](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=29){:target="_blank"}
+◎[2012-87](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=29)
 放射線感受性が最も高いのはどれか。1つ選べ。  
 `腺癌` `骨肉腫` `Ewing肉腫` `扁平上皮癌` `悪性黒色腫`  
 
-◎[2017-86](http://www.radiology.jp/content/files/20170904_2.pdf#page=31){:target="_blank"}
+◎[2017-86](http://www.radiology.jp/content/files/20170904_2.pdf#page=31)
 放射線感受性が最も**低い**のはどれか。1つ選べ。  
 `精上皮腫` `甲状腺乳頭癌` `乳腺乳頭腺管癌` `胃マルトリンパ腫` `子宮頸部扁平上皮癌`  
 
@@ -896,7 +896,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 放射線感受性が高い細胞周期はどれか。2つ選べ。  
 `M期` `G0期` `S期の後半` `G1期の前半` `G1期からS期への移行期`
 
-[2020-73](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26){:target="_blank"}
+[2020-73](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26)
 細胞周期の組み合わせがいずれも放射線抵抗性なのはどれか。1つ選べ。  
 `G1期前半，M期`  
 `G2M期，S期後半`  
@@ -919,7 +919,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 - 2013-05: `M期`, `G1期からS期への移行期`
 </details>
 
-◎[2012-01](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1){:target="_blank"}
+◎[2012-01](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1)
 放射線による細胞死について**誤っている**のはどれか。1つ選べ。  
 `増殖死と間期死とに分類される。`  
 `アポトーシスとネクローシスとに分類される。`  
@@ -947,7 +947,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 </details>
 
 
-◎[2013-06](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=2){:target="_blank"}
+◎[2013-06](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=2)
 癌抑制遺伝子p53の代表的な機能はどれか。2つ選べ。  
 `細胞周期の停止`  
 `細胞生存の促進`  
@@ -975,11 +975,11 @@ p53遺伝子はDNA損傷刺激を受けた細胞で活性化して細胞周期�
 (§2-13-7-1)
 [▲top page](#Index)
 
-◎[2018-03](http://www.radiology.jp/content/files/20180926_2.pdf#page=2){:target="_blank"}
+◎[2018-03](http://www.radiology.jp/content/files/20180926_2.pdf#page=2)
 分割照射において亜致死損傷からの回復に必要な時間はどれか。1つ選べ。  
 `数秒間` `数分間` `数時間` `数日間` `数月間`
 
-◎[2019-02](http://www.radiology.jp/content/files/20190904_02.pdf#page=2){:target="_blank"}
+◎[2019-02](http://www.radiology.jp/content/files/20190904_02.pdf#page=2)
 照射間における亜致死損傷からの回復（SLDR）が大きい場合について正しいのはどれか。1つ選べ。  
 `照射から約6時間後に回復が始まる。`  
 `分割法による照射効果の差は小さい。`  
@@ -1016,7 +1016,7 @@ DNA(=ターゲット)に放射線が当たって二重鎖切断が起これば(=
 (§2-13-7-2)
 [▲top page](#Index)
 
-◎[2012-03](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1){:target="_blank"}
+◎[2012-03](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1)
 直線―2次曲線モデル（LQモデル）について**誤っている**のはどれか。1つ選べ。
 `α/βの単位はGyである。`  
 `後期反応のα/βは早期反応に比して小さい。`  
@@ -1024,7 +1024,7 @@ DNA(=ターゲット)に放射線が当たって二重鎖切断が起これば(=
 `致死障害は2本鎖切断であり単鎖切断では致死に至らないとしたモデルである。`  
 `細胞の生残曲線を多標的1ヒットのみで説明するには低線量の部分に無理があるため提唱された。`  
 
-◎[2017-02](http://www.radiology.jp/content/files/20170904_2.pdf#page=2){:target="_blank"}
+◎[2017-02](http://www.radiology.jp/content/files/20170904_2.pdf#page=2)
 LQモデルで，1回の照射線量をd，照射回数をnとした場合，照射効果を表す式はどれか。1つ選べ。
 `n(α+βd)`
 `n(αd+βd)`
@@ -1054,11 +1054,11 @@ LQモデルで，1回の照射線量をd，照射回数をnとした場合，照
 - 2017-02: `n(αd+βd^2)`
 </details>
 
-◎[2018-04](http://www.radiology.jp/content/files/20180926_2.pdf#page=4){:target="_blank"}
+◎[2018-04](http://www.radiology.jp/content/files/20180926_2.pdf#page=4)
 腫瘍と正常組織におけるα/β 比(LQモデル)の関係で，寡分割照射が薦められる組み合わせはどれか。1つ選べ。  
 `(腫瘍のα/β,正常組織のα/β)=(2,2),(2,3),(3,2),(3,3),(4,3)`
 
-◎[2014-06](http://www.radiology.jp/content/files/1377.pdf#page=3){:target="_blank"}
+◎[2014-06](http://www.radiology.jp/content/files/1377.pdf#page=3)
 放射線治療で起こりうる有害事象でα/β比（LQモデル）が大きいのはどれか。2つ選べ。  
 `脱毛` `咽頭炎` `脳壊死` `白内障` `腎硬化症`
 
@@ -1117,7 +1117,7 @@ LQモデルで，1回の照射線量をd，照射回数をnとした場合，照
 </details>
 
 
-◎[2015-07](http://www.radiology.jp/content/files/20150821.pdf#page=3){:target="_blank"}
+◎[2015-07](http://www.radiology.jp/content/files/20150821.pdf#page=3)
 LQモデルにおける α/β 比が小さいとされている腫瘍はどれか。1つ選べ。
 `乳癌（腺癌）` `前立腺癌（腺癌）` `肺癌（扁平上皮癌）` `頭頸部癌（扁平上皮癌）` `子宮頸癌（扁平上皮癌）`
 
@@ -1132,7 +1132,7 @@ LQモデルにおける α/β 比が小さいとされている腫瘍はどれ�
 </details>
 
 
-◎[2019-04](http://www.radiology.jp/content/files/20190904_02.pdf#page=3){:target="_blank"}
+◎[2019-04](http://www.radiology.jp/content/files/20190904_02.pdf#page=3)
 2Gy等価線量換算値（EQD2）の比較で，照射効果の大小関係が正しいのはどれか。2つ選べ。ただし，LQモデルにおけるα/β比は2と仮定する。  
 `20Gy/4fr < 24Gy/12fr`  
 `20Gy/5fr < 22Gy/11fr`  
@@ -1140,7 +1140,7 @@ LQモデルにおける α/β 比が小さいとされている腫瘍はどれ�
 `20Gy/10fr < 24Gy/12fr`  
 `20Gy/20fr < 18Gy/9fr`  
 
-◎[2016-07](http://www.radiology.jp/content/files/20160825.pdf#page=3){:target="_blank"}
+◎[2016-07](http://www.radiology.jp/content/files/20160825.pdf#page=3)
 正常組織の晩期反応が最も大きいのはどれか。1つ選べ。ただし，LQモデルにおけるα/β比は3で，照射期間の相違は無視できると仮定する。  
 `30Gy/6回` `30Gy/10回` `30Gy/12回` `30Gy/15回` `30Gy/20回`
 
@@ -1167,11 +1167,11 @@ LQモデルにおける α/β 比が小さいとされている腫瘍はどれ�
 (§3-8)
 [▲top page](#Index)
 
-◎[2017-01](http://www.radiology.jp/content/files/20170904_2.pdf#page=1){:target="_blank"}
+◎[2017-01](http://www.radiology.jp/content/files/20170904_2.pdf#page=1)
 加速過分割照射で使われている分割線量（1回線量）はどれか。1つ選べ。  
 `1.0 Gy` `1.5 Gy` `2.0 Gy` `2.5 Gy` `3.0 Gy` 
 
-◎[2014-08](http://www.radiology.jp/content/files/1377.pdf#page=4){:target="_blank"}
+◎[2014-08](http://www.radiology.jp/content/files/1377.pdf#page=4)
 通常分割照射と比較した場合，加速過分割（多分割）照射で正しいのはどれか。1つ選べ。  
 `総線量が多い。`  
 `1回線量が多い。`  
@@ -1211,7 +1211,7 @@ LQモデルにおける α/β 比が小さいとされている腫瘍はどれ�
 
 
 
-[2013-08](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=3){:target="_blank"}
+[2013-08](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=3)
 エックス線の放射線治療における分割照射のメリットとして**誤っている**のはどれか。1つ選べ。  
 `治療可能比を上昇させる。`  
 `腫瘍細胞の加速再増殖を抑える。`  
@@ -1226,11 +1226,11 @@ LQモデルにおける α/β 比が小さいとされている腫瘍はどれ�
 (§3-1-12,14,15,16,17,18)
 [▲top page](#Index)
 
-◎[2013-02](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1){:target="_blank"}
+◎[2013-02](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1)
 高LET（線エネルギー付与）放射線はどれか。2つ選べ。  
 `γ線`  `電子線`  `陽子線`  `中性子線`  `炭素イオン線`  
 
-◎[2012-02](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1){:target="_blank"}
+◎[2012-02](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=1)
 LETについて**誤っている**のはどれか。1つ選べ。  
 `陽子線は低LET放射線である。`  
 `高LET放射線では線量率効果は小さい。`  
@@ -1238,7 +1238,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 `高LET放射線のDNA損傷は直接作用が主体である。`  
 `高LET放射線では低LET放射線より酸素効果が小さい。`  
 
-◎[2012-04](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=2){:target="_blank"}
+◎[2012-04](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=2)
 放射線生物学について**誤っている**のはどれか。1つ選べ。  
 `細胞周期のうちS期にある細胞は放射線感受性が高い。`  
 `LETとは飛跡上の一定距離当たりで付与するエネルギーのことである。`  
@@ -1247,7 +1247,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 `同等の生物学的効果を及ぼす線量がX線6Gy，炭素線2Gyであれば，炭素線の生物学的効果比
 (RBE)は3である。`  
 
-◎[2014-05](http://www.radiology.jp/content/files/1377.pdf#page=3){:target="_blank"}
+◎[2014-05](http://www.radiology.jp/content/files/1377.pdf#page=3)
 エックス線と比較した場合に高LET放射線の特徴で正しいのはどれか。2つ選べ。  
 `酸素効果が大きい。`  
 `生存曲線の肩が大きい。`  
@@ -1255,7 +1255,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 `細胞周期依存性が低い。`  
 `組織内で散乱しながら進行する。` 
 
-◎[2016-06](http://www.radiology.jp/content/files/20160825.pdf#page=2){:target="_blank"}
+◎[2016-06](http://www.radiology.jp/content/files/20160825.pdf#page=2)
 治療に用いられている高LET放射線の特徴をX線と比較した記述で正しいのはどれか。1つ選べ。  
 `酸素効果が小さい。`  
 `間接作用の比率が高い。`  
@@ -1263,7 +1263,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 `組織内で散乱しながら進行する。`  
 `分割照射における修復は同程度である。`  
 
-◎[2019-03](http://www.radiology.jp/content/files/20190904_02.pdf#page=2){:target="_blank"}
+◎[2019-03](http://www.radiology.jp/content/files/20190904_02.pdf#page=2)
 治療に使われている重粒子線をX線と比較した場合に正しいのはどれか。2つ選べ。  
 `酸素効果比（OER）が大きい。`  
 `細胞周期の影響を受けやすい。`  
@@ -1271,11 +1271,11 @@ LETについて**誤っている**のはどれか。1つ選べ。
 `線エネルギー付与（LET）が低い。`  
 `生物学的効果比（RBE）が大きい。` 
 
-◎[2015-06](http://www.radiology.jp/content/files/20150821.pdf#page=3){:target="_blank"}
+◎[2015-06](http://www.radiology.jp/content/files/20150821.pdf#page=3)
 治療に使われている放射線で生物学的効果比（RBE）が最も大きいのはどれか。1つ選べ。  
 `炭素線` `電子線` `陽子線` `ガンマ線` `エックス線` 
 
-◎[2012-05](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=2){:target="_blank"}
+◎[2012-05](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=2)
 酸素効果について正しいのはどれか。1つ選べ。  
 `高LET放射線ではOERは2～3程度である。`  
 `OERは酸素分圧が高くなればなるほど高くなる。`  
@@ -1283,7 +1283,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 `照射時の組織の酸素分圧によって効果の大きさが決まる。`  
 `高LET放射線では低LET放射線にくらべ酸素効果が大きい。`  
 
-[2020-75](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26){:target="_blank"}
+[2020-75](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=26)
 治療に用いられている重粒子線について正しいのはどれか。1つ選べ。（OER：酸素増感比，LET：線エネルギー付与，RBE：生物学的効果比）  
 `エックス線よりもOERが小さい。`  
 `LETに比例してRBEが大きくなる。`  
@@ -1352,15 +1352,15 @@ LETについて**誤っている**のはどれか。1つ選べ。
 (§4-1-2)
 [▲top page](#Index)
 
-◎[2018-05](http://www.radiology.jp/content/files/20180926_2.pdf#page=3){:target="_blank"}
+◎[2018-05](http://www.radiology.jp/content/files/20180926_2.pdf#page=3)
 非荷電放射線はどれか。2つ選べ。  
 `α線` `β線` `γ線` `陽子線` `中性子線` 
 
-◎[2013-01](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1){:target="_blank"}
+◎[2013-01](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=1)
 荷電粒子線はどれか。2つ選べ。  
 `α線` `β線` `γ線` `X線` `中性子線`  
 
-◎[2012-06](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=2){:target="_blank"}
+◎[2012-06](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=2)
 電離放射線について**誤っている**のはどれか。1つ選べ。  
 `粒子線と電磁波がある。`  
 `電子線は電磁波である。`  
@@ -1404,7 +1404,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 (§4-1-3)
 [▲top page](#Index)
 
-◎[2014-04](http://www.radiology.jp/content/files/1377.pdf#page=2){:target="_blank"}
+◎[2014-04](http://www.radiology.jp/content/files/1377.pdf#page=2)
 図はエックス線のエネルギーによる相互作用の確率を示している。A，B，C はそれぞれどの反応を示しているか。適切な組み合わせを1つ選べ。  
 `光電効果 - 電子対生成 - コンプトン効果`  
 `光電効果 - コンプトン効果 - 電子対生成`  
@@ -1415,14 +1415,14 @@ LETについて**誤っている**のはどれか。1つ選べ。
 ![](img/interaction.png)
 
 
-[2020-76](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=27){:target="_blank"}
+[2020-76](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=27)
 図はエックス線エネルギーに対する水の相互作用を示す。A の相互作用で正しいのはどれか。1つ選べ。  
 `光電効果` `光核反応` `電子対生成` `レイリー散乱` `コンプトン散乱`  
 
 ![](img/1st_202076.png)
 
 
-◎[2017-08](http://www.radiology.jp/content/files/20170904_2.pdf#page=4){:target="_blank"}
+◎[2017-08](http://www.radiology.jp/content/files/20170904_2.pdf#page=4)
 コンプトン効果の模式図を示す。A, BおよびCの組み合わせとして正しいのはどれか。1つ選べ。  
 `入射光子, 散乱電子, 反跳光子`  
 `入射光子, 反跳電子, 散乱光子`  
@@ -1476,7 +1476,7 @@ LETについて**誤っている**のはどれか。1つ選べ。
 (§4-2)
 [▲top page](#Index)
 
-◎[2014-01](http://www.radiology.jp/content/files/1377.pdf#page=1){:target="_blank"}
+◎[2014-01](http://www.radiology.jp/content/files/1377.pdf#page=1)
 図はエックス線発生装置を示している。エックス線発生過程の説明文の括弧に入る用語の組み合わせとして正しいのはどれか。1つ選べ。  
 1．フィラメントから (A) が放出される。  
 2．(A) が高電圧により加速され (B) に衝突する。  
@@ -1509,11 +1509,11 @@ LETについて**誤っている**のはどれか。1つ選べ。
 (§4-3,4,8)
 [▲top page](#Index)
 
-◎[2016-86](http://www.radiology.jp/content/files/20160825.pdf#page=31){:target="_blank"}
+◎[2016-86](http://www.radiology.jp/content/files/20160825.pdf#page=31)
 10MV X線の深部線量百分率曲線はどれか。1つ選べ。 `ア`  `イ` `ウ` `エ` `オ`
 ![](img/pdd.png)
 
-◎[2015-03](http://www.radiology.jp/content/files/20150821.pdf#page=2){:target="_blank"}
+◎[2015-03](http://www.radiology.jp/content/files/20150821.pdf#page=2)
 Braggピークを有する放射線はどれか。2つ選べ。  
 `陽子線` `ベータ線` `アルファ線` `高エネルギーX線` `高エネルギー電子線`  
 
@@ -1564,7 +1564,7 @@ Braggピークを有する放射線はどれか。2つ選べ。
 ### 治療計画の手順
 [▲top page](#Index)
 
-◎[2016-89](http://www.radiology.jp/content/files/20160825.pdf#page=32){:target="_blank"}
+◎[2016-89](http://www.radiology.jp/content/files/20160825.pdf#page=32)
 3次元放射線治療計画の実施項目を示す。3番目に行うのはどれか。1つ選べ。  
 `線量計算` `DVHの確認` `治療計画用CT撮影` `標的，正常組織の輪郭入力` `X線エネルギーと照射ビームの設定`  
 
@@ -1581,15 +1581,15 @@ Braggピークを有する放射線はどれか。2つ選べ。
 (§6-1)
 [▲top page](#Index)
 
-◎[2016-87](http://www.radiology.jp/content/files/20160825.pdf#page=32){:target="_blank"}
+◎[2016-87](http://www.radiology.jp/content/files/20160825.pdf#page=32)
 すべての位置誤差が含まれるのはどれか。2つ選べ。  
 `Treated volume（TV）` `Gross tumor volume（GTV）` `Internal target volume（ITV）` `Clinical target volume（CTV）` `Planning target volume（PTV）`  
 
-◎[2015-86](http://www.radiology.jp/content/files/20150821.pdf#page=30){:target="_blank"}
+◎[2015-86](http://www.radiology.jp/content/files/20150821.pdf#page=30)
 理学所見でも決定しうるのはどれか。1つ選べ。  
 `臨床標的体積（CTV）` `内的標的体積（ITV）` `計画標的体積（PTV）` `肉眼的腫瘍体積（GTV）` `計画的リスク臓器体積（PRV）`  
 
-◎[2014-86](http://www.radiology.jp/content/files/1377.pdf#page=30){:target="_blank"}
+◎[2014-86](http://www.radiology.jp/content/files/1377.pdf#page=30)
 放射線治療での標的体積の設定として正しいのはどれか。2つ選べ。  
 `触診上の腫瘍範囲を肉眼的腫瘍体積（GTV）に設定した。`  
 `PET/CTの腫瘍集積範囲を臨床標的体積（CTV）に設定した。`  
@@ -1597,11 +1597,11 @@ Braggピークを有する放射線はどれか。2つ選べ。
 `腫瘍臓器の蠕動による移動範囲を臨床標的体積（CTV）に含めた。`  
 `腫瘍の呼吸性移動範囲を計画標的体積（PTV）の外側に追加した。`  
 
-◎[2012-86](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=29){:target="_blank"}
+◎[2012-86](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=29)
 放射線治療計画で定義される体積のうち最も大きいのはどれか。1つ選べ。  
 `治療体積（TV）` `臨床標的体積（CTV）` `内的標的体積（ITV）` `計画標的体積（PTV）` `肉眼的腫瘍体積（GTV）`  
 
-[2020-59](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21){:target="_blank"}
+[2020-59](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
 D95線量処方で正しいのはどれか。1つ選べ。  
 
 `処方線量をPTVの95%領域に投与する。`
@@ -1638,7 +1638,7 @@ D95線量処方で正しいのはどれか。1つ選べ。
 </details>
 
 ###  ビームの入れ方 (§)
-[2014-95](http://www.radiology.jp/content/files/1377.pdf#page=33){:target="_blank"}
+[2014-95](http://www.radiology.jp/content/files/1377.pdf#page=33)
 上顎洞癌の前方・側方からの4MV X線直交2門照射の線量分布を示す。
 線量分布を是正する方法として有用なのはどれか。1つ選べ。
 
@@ -1656,19 +1656,19 @@ e 5～10 mm の皮膚ボーラスの使用
 (§6-7,8,9)
 [▲top page](#Index)
     
-◎[2016-90](http://www.radiology.jp/content/files/20160825.pdf#page=33){:target="_blank"}
+◎[2016-90](http://www.radiology.jp/content/files/20160825.pdf#page=33)
 定位放射線照射の適応となるのはどれか。2つ選べ。  
 `乳癌` `膵癌` `肝細胞癌` `子宮頸癌` `聴神経腫瘍`  
 
-◎[2014-91](http://www.radiology.jp/content/files/1377.pdf#page=31){:target="_blank"}
+◎[2014-91](http://www.radiology.jp/content/files/1377.pdf#page=31)
 原発巣に対して体幹部定位放射線治療が適応となるのはどれか。2つ選べ。  
 `乳癌` `声門癌` `直腸癌` `肝細胞癌` `非小細胞肺癌`  
 
-◎[2013-89](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30){:target="_blank"}
+◎[2013-89](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30)
 定位放射線照射の適応に**最もなりにくい**のはどれか。1つ選べ。  
 `膠芽腫` `肝細胞癌` `転移性肺癌` `転移性脳腫瘍` `非小細胞肺癌`  
     
-[2020-60](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21){:target="_blank"}
+[2020-60](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
 以下の疾患（T1N0M0とする）で，体幹部定位放射線治療の適応はどれか。2つ選べ。  
 `肝癌` `膀胱癌` `腎盂癌` `子宮体癌` `前立腺癌`
 
@@ -1709,11 +1709,11 @@ e 5～10 mm の皮膚ボーラスの使用
 (§4-6)
 [▲top page](#Index)
     
-◎[2019-89](http://www.radiology.jp/content/files/20190904_02.pdf#page=31){:target="_blank"}
+◎[2019-89](http://www.radiology.jp/content/files/20190904_02.pdf#page=31)
 強度変調放射線治療(IMRT)で必要な条件はどれか。1つ選べ。  
 `前向き治療計画` `非同一平面の照射` `1mm以内の位置精度` `2方向以上の透視可装置` `線束強度を変化させた3種類以上のビーム`  
 
-◎[2017-89](http://www.radiology.jp/content/files/20170904_2.pdf#page=32){:target="_blank"}
+◎[2017-89](http://www.radiology.jp/content/files/20170904_2.pdf#page=32)
 強度変調放射線治療(IMRT)として**誤っている**のはどれか。1つ選べ。  
 `回転照射で行える。` `固定多門照射で行える。` `逆方向治療計画を用いる。` `線量処方はアイソセンターで行う。` `症例毎に物理的検証が必要である。`  
 
@@ -1750,7 +1750,7 @@ e 5～10 mm の皮膚ボーラスの使用
 (§4-11)
 [▲top page](#Index)
     
-[2018-86](http://www.radiology.jp/content/files/20180926_2.pdf#page=31){:target="_blank"}
+[2018-86](http://www.radiology.jp/content/files/20180926_2.pdf#page=31)
 画像誘導放射線治療(IGRT)で正しいのはどれか。1つ選べ。  
 `週1回施行する。`  
 `CTV縮小が可能となる。`  
@@ -1775,11 +1775,11 @@ e 5～10 mm の皮膚ボーラスの使用
 ### 密封小線源治療, RI内用療法
 [▲top page](#Index)
     
-◎[2014-92](http://www.radiology.jp/content/files/1377.pdf#page=32){:target="_blank"}
+◎[2014-92](http://www.radiology.jp/content/files/1377.pdf#page=32)
 密封小線源治療の永久挿入療法に用いられるのはどれか。2つ選べ。  
 `Sr-89` `I-125` `Cs-137` `Ir-192` `Au-198`
 
-◎[2013-92](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=31){:target="_blank"}
+◎[2013-92](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=31)
 疾患とその治療に用いる線源の組み合わせで正しいのはどれか。2つ選べ。  
 `舌 癌 ―――――― Sr-89`  
 `甲状腺癌 ―――― I-123`  
@@ -1787,15 +1787,15 @@ e 5～10 mm の皮膚ボーラスの使用
 `骨転移 ――――― Cs-137`  
 `子宮頸癌 ―――― Ir-192`  
 
-◎[2019-88](http://www.radiology.jp/content/files/20190904_02.pdf#page=31){:target="_blank"}
+◎[2019-88](http://www.radiology.jp/content/files/20190904_02.pdf#page=31)
 低線量率照射はどれか。1つ選べ。  
 `Co-60 腔内照射` `I-125 組織内照射` `定位放射線治療` `ホウ素中性子捕捉療法` `強度変調放射線治療（IMRT）`  
 
-◎[2017-87](http://www.radiology.jp/content/files/20170904_2.pdf#page=31){:target="_blank"}
+◎[2017-87](http://www.radiology.jp/content/files/20170904_2.pdf#page=31)
 組織内照射に**用いない**のはどれか。1つ選べ。  
 `I-125` `Cs-137` `Ir-192` `Au-198` `Ra-223` 
 
-[2018-90](http://www.radiology.jp/content/files/20180926_2.pdf#page=32){:target="_blank"}
+[2018-90](http://www.radiology.jp/content/files/20180926_2.pdf#page=32)
 密封小線源治療の線源種類と使用方法で**誤っている**のはどれか。1つ選べ。  
 `Co-60 - 腔内照射`  
 `I-125 - 腔内照射`  
@@ -1841,11 +1841,11 @@ e 5～10 mm の皮膚ボーラスの使用
 ### 癌とウイルス
 [▲top page](#Index)
     
-◎[2013-86](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29){:target="_blank"}
+◎[2013-86](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=29)
 HPV (Human Papillomavirus) がその発症と関連する腫瘍はどれか。2つ選べ。  
 `上咽頭癌` `中咽頭癌` `肝細胞癌` `子宮頸癌` `Burkittリンパ腫`
 
-◎[2016-92](http://www.radiology.jp/content/files/20160825.pdf#page=33){:target="_blank"}
+◎[2016-92](http://www.radiology.jp/content/files/20160825.pdf#page=33)
 悪性腫瘍とウイルスとの組み合わせとして**関連が乏しい**のはどれか。1つ選べ。  
 `肝細胞癌 - HCV（Hepatitis C virus）`  
 `中咽頭癌 - EBV（Epstein-Barr virus）`  
@@ -1874,7 +1874,7 @@ HPV (Human Papillomavirus) がその発症と関連する腫瘍はどれか。2�
 ### ほか
 [▲top page](#Index)
     
-[2019-87](http://www.radiology.jp/content/files/20190904_02.pdf#page=31){:target="_blank"}
+[2019-87](http://www.radiology.jp/content/files/20190904_02.pdf#page=31)
 UICC TNM分類第8版で正しいのはどれか。2つ選べ。  
 `小児腫瘍は対象にならない。`  
 `疾患ごと予後因子の記載がある。`  
@@ -1901,7 +1901,7 @@ UICC TNM分類第8版で正しいのはどれか。2つ選べ。
 (§7-34,35) 
 [▲top page](#Index)
     
-◎[2019-99](http://www.radiology.jp/content/files/20190904_02.pdf#page=35){:target="_blank"}
+◎[2019-99](http://www.radiology.jp/content/files/20190904_02.pdf#page=35)
 乳房温存療法の放射線治療で正しいのはどれか。2つ選べ。  
 `照射野の皮膚発汗が低下する。`  
 `非浸潤性乳管癌では省略してよい。`  
@@ -1909,7 +1909,7 @@ UICC TNM分類第8版で正しいのはどれか。2つ選べ。
 `左側乳癌で虚血性心疾患は増加しない。`  
 `非浸潤性乳管癌では生存率は向上しない。`  
 
-◎[2018-95](http://www.radiology.jp/content/files/20180926_2.pdf#page=34){:target="_blank"}
+◎[2018-95](http://www.radiology.jp/content/files/20180926_2.pdf#page=34)
 乳房温存術後の放射線治療で**誤っている**のはどれか。1つ選べ。  
 `全乳房照射を行う。`   
 `4MVのX線を用いる。`  
@@ -1917,7 +1917,7 @@ UICC TNM分類第8版で正しいのはどれか。2つ選べ。
 `腋窩リンパ節転移例で所属リンパ節照射を行う。`  
 `腫瘍床ブースト照射の併用で乳房内再発が減少する。`  
 
-◎[2017-99](http://www.radiology.jp/content/files/20170904_2.pdf#page=35){:target="_blank"}
+◎[2017-99](http://www.radiology.jp/content/files/20170904_2.pdf#page=35)
 乳房温存照射として正しいのはどれか。2つ選べ。  
 `GTVは腫瘍床である。`  
 `非浸潤癌は適応である。`  
@@ -1925,7 +1925,7 @@ UICC TNM分類第8版で正しいのはどれか。2つ選べ。
 `乳癌死の絶対リスクが低下する。`  
 `術前化学療法で病理学的CRとなった場合は必要ない。`  
 
-◎[2016-99](http://www.radiology.jp/content/files/20160825.pdf#page=36){:target="_blank"}
+◎[2016-99](http://www.radiology.jp/content/files/20160825.pdf#page=36)
 乳房温存術後照射で正しいのはどれか。2つ選べ。  
 `50Gy/25回/5週を用いる。`  
 `非浸潤癌では適応外である。`  
@@ -1933,7 +1933,7 @@ UICC TNM分類第8版で正しいのはどれか。2つ選べ。
 `線量分布の改善にfield in field法が有用である。`  
 `手術単独と比較して生存率の向上には寄与しない。`  
 
-◎[2014-98](http://www.radiology.jp/content/files/1377.pdf#page=34){:target="_blank"}
+◎[2014-98](http://www.radiology.jp/content/files/1377.pdf#page=34)
 pN0乳癌乳房温存術後の放射線治療について正しいのはどれか。1つ選べ。  
 `化学療法を同時併用する。`  
 `非浸潤性乳管癌は照射の適応である。`  
@@ -1941,7 +1941,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 `同側鎖骨上窩リンパ節領域にも照射する。`  
 `10MV以上の高エネルギーX線で照射する。` 
 
-◎[2013-98](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=33){:target="_blank"}
+◎[2013-98](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=33)
 乳癌cT1cN0M0で乳房温存術を施行したところ，腋窩リンパ節転移を4個認めた。術後照射における臨床標的体積（CTV）として適切なのはどれか。1つ選べ。  
 `乳房のみ`  
 `乳房，同側腋窩リンパ節`  
@@ -1949,7 +1949,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 `乳房，同側鎖骨上窩リンパ節`  
 `乳房，同側鎖骨上窩リンパ節，同側腋窩リンパ節`  
     
-[2020-68](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=24){:target="_blank"}
+[2020-68](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=24)
 乳癌術後照射の病態でCTVに**含めなくてよい**部位はどれか。1つ選べ。  
 `非浸潤性乳管癌乳房部分切除 残存乳房`  
 `乳房切除＋腋窩リンパ節郭清（転移1個）胸壁`  
@@ -1957,7 +1957,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 `術前化学療法後乳房部分切除（病理学的完全奏効）残存乳房`  
 `乳房部分切除＋センチネルリンパ節生検（微小転移）腋窩リンパ節`  
 
-◎[2012-97](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=33){:target="_blank"}
+◎[2012-97](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=33)
 乳癌に対する乳房温存術後の放射線治療として正しいのはどれか。1つ選べ。  
 `全乳房照射は予後の改善に寄与しない。`  
 `傍胸骨リンパ節転移が疑われる場合には手術切除が原則である。`  
@@ -2042,11 +2042,11 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 </details>
 
 
-◎[2019-98](http://www.radiology.jp/content/files/20190904_02.pdf#page=34){:target="_blank"}
+◎[2019-98](http://www.radiology.jp/content/files/20190904_02.pdf#page=34)
 乳癌温存手術後に全乳房照射を考慮してよいのはどれか。1つ選べ。  
 `活動性SLE` `活動性強皮症` `活動性関節リウマチ` `Li-Fraumeni症候群` `仰臥位で患側上肢挙上不能`  
 
-◎[2016-98](http://www.radiology.jp/content/files/20160825.pdf#page=35){:target="_blank"}
+◎[2016-98](http://www.radiology.jp/content/files/20160825.pdf#page=35)
 乳房温存術後照射を**避けるべき**併存症はどれか。2つ選べ。  
 `掌蹠角化症` `尋常性ざ瘡` `尋常性乾癬` `全身性強皮症` `色素性乾皮症`  
 
@@ -2070,7 +2070,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 (§7-36)
 [▲top page](#Index)
 
-[2015-97](http://www.radiology.jp/content/files/20150821.pdf#page=34){:target="_blank"}
+[2015-97](http://www.radiology.jp/content/files/20150821.pdf#page=34)
 右乳癌乳房切除術後，浸潤性乳管癌 腫瘍径3cm，腋窩リンパ節転移4個陽性であった。術後照射範囲として正しいのはどれか。1つ選べ。  
 `右胸壁`  
 `右腋窩リンパ節領域`  
@@ -2087,7 +2087,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 (§7-26)
 [▲top page](#Index)
     
-◎[2019-97](http://www.radiology.jp/content/files/20190904_02.pdf#page=34){:target="_blank"}
+◎[2019-97](http://www.radiology.jp/content/files/20190904_02.pdf#page=34)
 原発性肺癌IIIA期はどれか（ただし記載ない部位の進展はないものとする）。2つ選べ。  
 `原発と同側別肺葉内の副腫瘍結節`  
 `胸膜結節かつ同側肺門リンパ節転移`  
@@ -2156,7 +2156,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 (§7-28)
 [▲top page](#Index)
 
-◎[2018-104](http://www.radiology.jp/content/files/20180926_2.pdf#page=37){:target="_blank"}
+◎[2018-104](http://www.radiology.jp/content/files/20180926_2.pdf#page=37)
 原発性肺癌の定位放射線治療で正しいのはどれか。1つ選べ。  
 `肺門リンパ節をCTVに含める。`  
 `早期有害事象に肋骨骨折がある。`  
@@ -2164,7 +2164,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 `腺癌では扁平上皮癌より線量増加する。`  
 `肺門型には48Gy/4回/1～2週を用いる。`  
 
-◎[2016-97](http://www.radiology.jp/content/files/20160825.pdf#page=35){:target="_blank"}
+◎[2016-97](http://www.radiology.jp/content/files/20160825.pdf#page=35)
 末梢型IA期非小細胞肺癌の定位放射線治療として**誤っている**のはどれか。1つ選べ。  
 `放射線単独治療である。`  
 `X線エネルギーは高いほどよい。`  
@@ -2172,7 +2172,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 `画像誘導放射線治療を併用する。`  
 `重篤な合併症に致死的放射線肺炎がある。`  
 
-◎[2012-94](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=32){:target="_blank"}
+◎[2012-94](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=32)
 肺癌の定位照射が原則適応に**ならない**部位はどこか。1つ選べ。  
 `肺尖部`  `肺底部`  `肺門部`  `胸壁近接部`  `葉間胸膜部`  
 
@@ -2224,7 +2224,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 (§7-27)
 [▲top page](#Index)
 
-◎[2018-105](http://www.radiology.jp/content/files/20180926_2.pdf#page=37){:target="_blank"}
+◎[2018-105](http://www.radiology.jp/content/files/20180926_2.pdf#page=37)
 右肺上葉扁平上皮癌T2N3M0に対して根治的化学放射線療法を計画した。正しいのはどれか。2つ選べ。  
 `両側肺門をCTVに含める。`  
 `肺V20を30%以内に設定する。`  
@@ -2232,7 +2232,7 @@ pN0乳癌乳房温存術後の放射線治療について正しいのはどれ�
 `下葉原発より体内標的体積が小さい。`  
 `放射線単独治療より1回線量を減らす。`  
 
-[2017-97](http://www.radiology.jp/content/files/20170904_2.pdf#page=34){:target="_blank"}
+[2017-97](http://www.radiology.jp/content/files/20170904_2.pdf#page=34)
 III期非小細胞肺癌の化学放射線療法として正しいのはどれか。2つ選べ。  
 `肺野の腫瘤は定位照射の適応である。`  
 `線量計算に不均質補正を必要としない。`  
@@ -2240,7 +2240,7 @@ III期非小細胞肺癌の化学放射線療法として正しいのはどれ�
 `60Gy/30回/6週が標準的線量分割である。`  
 `腫瘍の呼吸性移動の把握に4D-CTを用いる。`  
     
-[2020-66](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23){:target="_blank"}
+[2020-66](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23)
 根治照射可能なIII期非小細胞肺癌の放射線治療で**誤っている**のはどれか。1つ選べ。  
 `同時化学放射線療法が標準治療である。`  
 `外部照射で呼吸性移動対策が有用である。`  
@@ -2248,15 +2248,15 @@ III期非小細胞肺癌の化学放射線療法として正しいのはどれ�
 `化学放射線療法後にデュルバルマブの地固め療法を行う。`  
 `EGFR変異陽性の場合はEGFR-TKI単独療法を放射線治療より優先する。`  
 
-◎[2016-96](http://www.radiology.jp/content/files/20160825.pdf#page=35){:target="_blank"}
+◎[2016-96](http://www.radiology.jp/content/files/20160825.pdf#page=35)
 IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含めるべきでない**のはどれか。1つ選べ。  
 `対側縦隔`  `対側肺門`  `気管分岐部`  `同側鎖骨上窩`  `対側鎖骨上窩`  
 
-◎[2015-96](http://www.radiology.jp/content/files/20150821.pdf#page=33){:target="_blank"}
+◎[2015-96](http://www.radiology.jp/content/files/20150821.pdf#page=33)
 切除不能III期非小細胞肺癌に対する同時化学放射線療法の一般的な5年生存率はどれか。1つ選べ。  
 `10％以下`  `15～25％`  `30～40％`  `45～55％`  `60％以上`  
 
-◎[2014-97](http://www.radiology.jp/content/files/1377.pdf#page=34){:target="_blank"}
+◎[2014-97](http://www.radiology.jp/content/files/1377.pdf#page=34)
 非小細胞肺癌に対する根治的放射線治療について正しいのはどれか。2つ選べ。  
 `T3N1M0では縦隔リンパ節をCTVに含める。`  
 `腺癌より扁平上皮癌の方が治療成績が良い。`  
@@ -2264,7 +2264,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `末梢型T1N0M0では肺門リンパ節をCTVに含める。`  
 `同時併用化学放射線療法は順次併用療法よりも有害事象が多い。`  
 
-◎[2012-95](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=32){:target="_blank"}
+◎[2012-95](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=32)
 非小細胞肺癌の放射線治療について正しいのはどれか。1つ選べ。  
 `局所進行癌では化学療法を順次併用する。`  
 `末梢型I期には強度変調放射線治療を行う。`  
@@ -2344,7 +2344,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 (§7-30)
 [▲top page](#Index)
 
-◎[2014-96](http://www.radiology.jp/content/files/1377.pdf#page=33){:target="_blank"}
+◎[2014-96](http://www.radiology.jp/content/files/1377.pdf#page=33)
 限局型小細胞肺癌に対する放射線治療法として推奨されるのはどれか。1つ選べ。  
 `寡分割照射`  
 `導入化学療法`  
@@ -2352,7 +2352,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `30Gy/10回/2週 の予防的全脳照射`  
 `CDDP+VP-16療法との早期同時併用`  
 
-◎[2013-97](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=33){:target="_blank"}
+◎[2013-97](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=33)
 小細胞肺癌の予防的全脳照射として推奨されるのはどれか。1つ選べ。  
 `20Gy/5Fr/1週`  `25Gy/10Fr/2週`  `30Gy/10Fr/2週`  `37.5Gy/15Fr/3週`  `40Gy/20Fr/4週`  
 
@@ -2416,7 +2416,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 ### 肺癌放射線治療のまとめ
 [▲top page](#Index)
     
-◎[2019-96](http://www.radiology.jp/content/files/20190904_02.pdf#page=34){:target="_blank"}
+◎[2019-96](http://www.radiology.jp/content/files/20190904_02.pdf#page=34)
 肺癌の病状と放射線治療法の組み合わせで**誤っている**のはどれか。1つ選べ。  
 `I期非小細胞肺癌 : 体幹部定位放射線治療`  
 `限局期小細胞肺癌 : 予防的全脳照射`  
@@ -2424,7 +2424,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `III期非小細胞肺癌 : 不均質補正法`  
 `単発(2cm)脳転移 : 定位放射線治療`  
     
-[2020-67](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=24){:target="_blank"}
+[2020-67](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=24)
 肺癌の病態と照射法の組み合わせで**誤っている**のはどれか。1つ選べ。  
 `多発脳転移 - 全脳照射`  
 `進展型小細胞肺癌 - 予防的全脳照射`  
@@ -2432,7 +2432,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `手術不能I期非小細胞肺癌 - 定位放射線治療`  
 `切除不能III期非小細胞肺癌 - 同時化学放射線療法`  
 
-◎[2015-95](http://www.radiology.jp/content/files/20150821.pdf#page=33){:target="_blank"}
+◎[2015-95](http://www.radiology.jp/content/files/20150821.pdf#page=33)
 肺癌放射線治療の線量分割として正しいのはどれか。2つ選べ。  
 `小細胞癌予防的全脳照射 25Gy/10回/2週`  
 `小細胞癌脳転移全脳照射 45Gy/15回/3週`  
@@ -2464,7 +2464,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 (§7-39)
 [▲top page](#Index)
 
-◎[2015-98](http://www.radiology.jp/content/files/20150821.pdf#page=34){:target="_blank"}
+◎[2015-98](http://www.radiology.jp/content/files/20150821.pdf#page=34)
 食道癌について正しいのはどれか。2つ選べ。  
 `頭頸部癌との重複が多い。`  
 `好発部位は胸部下部食道である。`  
@@ -2502,11 +2502,11 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 (§7-39,40,41)
 [▲top page](#Index)
 
-◎[2016-101(改題)](http://www.radiology.jp/content/files/20160825.pdf#page=36){:target="_blank"}
+◎[2016-101(改題)](http://www.radiology.jp/content/files/20160825.pdf#page=36)
 食道癌（UICC TNM 分類，第8版）で領域リンパ節として**分類されない**のはどれか。1つ選べ。
 `頸部` `縦隔` `噴門部` `鎖骨上窩` `腹部大動脈周囲`  
 
-◎[2018-94](http://www.radiology.jp/content/files/20180926_2.pdf#page=34){:target="_blank"}
+◎[2018-94](http://www.radiology.jp/content/files/20180926_2.pdf#page=34)
 胸部食道癌（扁平上皮癌）で化学放射線療法が標準治療であるのはどれか。1つ選べ。  
 `T1aN0M0，深達度m3，長径3cm`   
 `T1bN0M0，深達度sm2，長径3cm`   
@@ -2514,7 +2514,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `T3N0M0，長径6cm`   
 `T3N1M0，長径5cm`   
 
-◎[2019-94](http://www.radiology.jp/content/files/20190904_02.pdf#page=33){:target="_blank"}
+◎[2019-94](http://www.radiology.jp/content/files/20190904_02.pdf#page=33)
 食道癌の同時化学放射線療法でシスプラチンと併用する薬剤はどれか。1つ選べ。  
 `5-FU`  `カペシタビン`  `セツキシマブ`  `マイトマイシン C`  `テガフール，ギメラシル，オテラシルカリウム（S1 Ⓡ）`  
 
@@ -2598,7 +2598,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 (§7-40,41)
 [▲top page](#Index)
 
-◎[2016-100](http://www.radiology.jp/content/files/20160825.pdf#page=36){:target="_blank"}
+◎[2016-100](http://www.radiology.jp/content/files/20160825.pdf#page=36)
 食道癌の根治的化学放射線療法で正しいのはどれか。1つ選べ。  
 `肺の DVH を評価する。`  
 `照射期間中に適宜休止期間を設ける。`  
@@ -2606,7 +2606,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `腔内照射で追加照射を行うことが多い。`  
 `至適線量は 70Gy/35回/7週 程度である。`  
 
-◎[2015-99](http://www.radiology.jp/content/files/20150821.pdf#page=34){:target="_blank"}
+◎[2015-99](http://www.radiology.jp/content/files/20150821.pdf#page=34)
 局所進行食道癌の化学放射線療法として推奨されるのはどれか。1つ選べ。  
 `照射休止期間の設定`  
 `腔内照射での追加照射`  
@@ -2614,7 +2614,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `治療期間中のステント留置`  
 `処方線量 50～60 Gy/25～33 回/5～6.5 週`  
 
-◎[2013-96](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32){:target="_blank"}
+◎[2013-96](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32)
 食道癌に対する化学放射線療法で**誤っている**のはどれか。1つ選べ。  
 `心臓の晩期有害事象が問題となる。`  
 `食道ステント留置後は穿孔リスクが高い。`  
@@ -2622,7 +2622,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `手術補助療法として術後に用いるのが標準である。`  
 `併用化学療法剤はシスプラチン, 5FUの組み合わせが標準である。`  
 
-◎[2012-96](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=32){:target="_blank"}
+◎[2012-96](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=32)
 食道癌の放射線治療について正しいのはどれか。2つ選べ。  
 `頸部食道癌は強度変調放射線治療の良い適応である。`  
 `根治的化学放射線療法では 66Gy/33回を超えて照射する。`  
@@ -2630,7 +2630,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `化学放射線療法ではシスプラチンとドセタキセルの併用が標準である。`  
 `II, III 期に対する化学放射線療法の治療成績は手術療法と同等である。`  
 
-◎[2017-98](http://www.radiology.jp/content/files/20170904_2.pdf#page=35){:target="_blank"}
+◎[2017-98](http://www.radiology.jp/content/files/20170904_2.pdf#page=35)
 食道癌の根治的化学放射線療法（処方線量 60Gy/30回/6週）として**適切でない**のはどれか。1つ選べ。  
 `肺の V20Gy が 50％`  
 `肺の最大線量が 62Gy`  
@@ -2638,7 +2638,7 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 `PTV の最低線量が 57Gy`  
 `脊髄の最大線量が 35Gy`  
 
-◎[2014-99](http://www.radiology.jp/content/files/1377.pdf#page=34){:target="_blank"}
+◎[2014-99](http://www.radiology.jp/content/files/1377.pdf#page=34)
 50歳代の男性。切除不能胸部食道癌（T4N1M0 扁平上皮癌）に対して根治的化学放射線療法を行った。標準的な5年全生存率に最も近いのはどれか。1つ選べ。  
 `1％` `5％` `10％` `20％` `40％`  
 
@@ -2705,19 +2705,19 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 ### 咽頭癌
 [▲top page](#Index)
     
-◎[2013-95](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32){:target="_blank"}
+◎[2013-95](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32)
 上咽頭癌 T3N1M0 で臨床標的体積（CTV）に含む**必要がない**のはどれか。1つ選べ。  
 `斜台` `前頭洞` `翼口蓋窩` `副神経リンパ節領域` `鎖骨上窩リンパ節領域`  
 
-◎[2015-94](http://www.radiology.jp/content/files/20150821.pdf#page=33){:target="_blank"}
+◎[2015-94](http://www.radiology.jp/content/files/20150821.pdf#page=33)
 中咽頭癌 T2N2bM0 の化学放射線療法の晩期有害事象として最も頻度が高いのはどれか。1つ選べ。  
 `粘膜潰瘍` `皮膚潰瘍` `顎骨壊死` `軟骨壊死` `唾液腺障害`  
 
-◎[2012-93](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=31){:target="_blank"}
+◎[2012-93](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=31)
 咽頭癌の放射線治療の有害事象として頻度が**低い**のはどれか。1つ選べ。  
 `白内障` `味覚障害` `嚥下障害` `唾液腺障害` `甲状腺機能低下症`  
 
-◎[2013-93](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=31){:target="_blank"}
+◎[2013-93](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=31)
 広範な頸部リンパ節転移を有する上咽頭癌患者に白金製剤併用の化学放射線療法で治療した。半年後, 洗顔時に背中から両腕へ電撃痛が出現した。最も考えられるのはどれか。1つ選べ。  
 `Kernig 徴候` `Horner 徴候` `Lhermitte 徴候` `Garcin 症候群` `Pancoast 症候群`  
 
@@ -2810,11 +2810,11 @@ IIIB期非小細胞肺癌の根治的化学放射線療法で照射野に**含�
 ### 喉頭癌
 [▲top page](#Index)
 
-◎[2017-94](http://www.radiology.jp/content/files/20170904_2.pdf#page=33){:target="_blank"}
+◎[2017-94](http://www.radiology.jp/content/files/20170904_2.pdf#page=33)
 早期声門癌（T1N0M0）の根治的放射線治療における標準的 CTV はどれか。1つ選べ。  
 `患側声帯` `声帯全体` `喉頭全体` `喉頭全体と患側頸部リンパ節領域` `喉頭全体と両側頸部リンパ節領域`  
 
-◎[2012-92](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=31){:target="_blank"}
+◎[2012-92](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=31)
 I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。  
 `術前照射が標準治療である。`  
 `総線量 80Gy/40回を用いる。`  
@@ -2822,11 +2822,11 @@ I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。
 `治療中に 1週間以上の休止期間をおく。`  
 `抗癌剤との同時併用療法が標準である。`  
 
-◎[2018-93](http://www.radiology.jp/content/files/20180926_2.pdf#page=33){:target="_blank"}
+◎[2018-93](http://www.radiology.jp/content/files/20180926_2.pdf#page=33)
 声門上部癌（喉頭癌）T2N0M0 の根治的放射線治療の晩期有害事象で最も頻度が**低い**のはどれか。1つ選べ。  
 `頸動脈狭窄` `喉頭軟骨壊死` `口腔粘膜潰瘍` `甲状腺機能低下` `耳下腺機能低下`  
 
-[2020-64](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23){:target="_blank"}
+[2020-64](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23)
 声門癌の根治的放射線治療で正しいのはどれか。2つ選べ。  
 `10MV X線を用いる。`  
 `70Gy/35回/7週で治療する。`  
@@ -2877,7 +2877,7 @@ I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。
 ### 咽頭癌と喉頭癌のまとめ
 [▲top page](#Index)
     
-◎[2019-93](http://www.radiology.jp/content/files/20190904_02.pdf#page=33){:target="_blank"}
+◎[2019-93](http://www.radiology.jp/content/files/20190904_02.pdf#page=33)
 一般に鎖骨上窩リンパ節の照射が**不要**なのはどれか。1つ選べ。  
 `上咽頭癌 (上壁) T1N0M0`  
 `上咽頭癌 (側壁) T3N0M0`  
@@ -2885,11 +2885,11 @@ I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。
 `喉頭癌 (喉頭蓋) T2N0M0`  
 `下咽頭癌 (梨状陥凹) T3N0M0`  
 
-◎[2017-95](http://www.radiology.jp/content/files/20170904_2.pdf#page=34){:target="_blank"}
+◎[2017-95](http://www.radiology.jp/content/files/20170904_2.pdf#page=34)
 進行頭頸部癌の放射線治療の併用薬剤として有効なのはどれか。1つ選べ。  
 `ソラフェニブ` `クリゾチニブ` `セツキシマブ` `ベバシズマブ` `トラスツズマブ`  
 
-[2016-95](http://www.radiology.jp/content/files/20160825.pdf#page=34){:target="_blank"}
+[2016-95](http://www.radiology.jp/content/files/20160825.pdf#page=34)
 頭頸部癌の治療計画で**適切でない**のはどれか。1つ選べ。  
 `線量評価点を咽頭腔に設置`  
 `治療計画 CT 画像取得前の歯科受診`  
@@ -2897,7 +2897,7 @@ I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。
 `体重減少による輪郭変化に対する再計画`  
 `歯冠アーチファクトの密度補正後の治療計画`  
 
-[2015-93](http://www.radiology.jp/content/files/20150821.pdf#page=32){:target="_blank"}
+[2015-93](http://www.radiology.jp/content/files/20150821.pdf#page=32)
 化学放射線療法の**適応でない**のはどれか。1つ選べ。  
 `上咽頭癌 T2N1M0` `上顎洞癌 T4aN0M0` `下咽頭癌 T1N1M0` `喉頭癌 T3N0M0` `甲状腺癌 T3N1M0`  
 
@@ -2920,19 +2920,19 @@ I期喉頭癌の放射線治療として適切なのはどれか。1つ選べ。
 ### 甲状腺癌
 [▲top page](#Index)
     
-◎[2019-85](http://www.radiology.jp/content/files/20190904_02.pdf#page=30){:target="_blank"}
+◎[2019-85](http://www.radiology.jp/content/files/20190904_02.pdf#page=30)
 甲状腺悪性腫瘍において放射性ヨウ素内用療法が適応となるのはどれか。2つ選べ。  
 `髄様癌` `乳頭癌` `濾胞癌` `リンパ腫` `未分化癌`  
 
-◎[2012-90](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=30){:target="_blank"}
+◎[2012-90](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=30)
 分化型甲状腺癌の I-131 内用療法において治療効果を生じるのはどれか。1つ選べ。  
 `アルファ線` `ベータ線` `ガンマ線` `エックス線` `中性子線`  
 
-◎[2012-84](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=28){:target="_blank"}
+◎[2012-84](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=28)
 I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか。1つ選べ。  
 `食餌` `高TSH血症` `MRI造影剤の投与` `ヨード造影剤の投与` `甲状腺ホルモン剤の投与`  
 
-◎[2017-96](http://www.radiology.jp/content/files/20170904_2.pdf#page=34){:target="_blank"}
+◎[2017-96](http://www.radiology.jp/content/files/20170904_2.pdf#page=34)
 甲状腺癌の放射性ヨード内用療法として**誤っている**のはどれか。1つ選べ。  
 `甲状腺全摘後に行う。`  
 `髄様癌は適応である。`  
@@ -2940,7 +2940,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `治療の2週間前からヨード制限食を開始する。`  
 `サイログロブリン値が腫瘍残存状態と相関する。`  
 
-◎[2015-85](http://www.radiology.jp/content/files/20150821.pdf#page=30){:target="_blank"}
+◎[2015-85](http://www.radiology.jp/content/files/20150821.pdf#page=30)
 甲状腺癌の外来I-131アブレーションについて正しいのはどれか。1つ選べ。  
 `肺転移のある症例が適応になる。`  
 `骨転移のある症例が適応になる。`  
@@ -2948,7 +2948,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `前処置に rhTSH を用いることができる。`  
 `1,850 MBq を投与することができる。`  
 
-[2020-65](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23){:target="_blank"}
+[2020-65](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23)
 甲状腺分化癌で**誤っている**のはどれか。1つ選べ。  
 `年齢はリスク因子である。`  
 `被膜外進展はリスク因子である。`  
@@ -3014,7 +3014,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ## 膵癌
 [▲top page](#Index)
     
-[2019-95](http://radiology.jp/content/files/20190904_02.pdf#page=33){:target="_blank"}
+[2019-95](http://radiology.jp/content/files/20190904_02.pdf#page=33)
 膵癌の放射線治療で正しいのはどれか。1つ選べ。  
 `放射線感受性が高い。`  
 `体幹部定位放射線治療を用いる。`  
@@ -3026,7 +3026,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ## 子宮頸癌
 [▲top page](#Index)
     
-◎[2014-102](http://www.radiology.jp/content/files/1377.pdf#page=35){:target="_blank"}
+◎[2014-102](http://www.radiology.jp/content/files/1377.pdf#page=35)
 子宮頸癌の放射線治療に関する組み合わせとして正しいのはどれか。2つ選べ。  
 `子宮腔内に留置 ――――――――――――――オボイド`  
 `腔内照射との併用 ―――――――――――――中央遮蔽照射`  
@@ -3034,11 +3034,11 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `骨盤浸潤に対する線量指標 ―――――――――A 点`  
 `リモートアフタローディングシステム ――――Ir-192` 
 
-◎[2019-100](http://www.radiology.jp/content/files/20190904_02.pdf#page=35){:target="_blank"}
+◎[2019-100](http://www.radiology.jp/content/files/20190904_02.pdf#page=35)
 子宮頸癌に全骨盤照射 30.6Gy/17回/3.4週 後に腔内照射を4回投与するとき腔内照射の1 回線量(A点)で適切なのはどれか。1つ選べ。  
 `3Gy` `4Gy` `5Gy` `6Gy` `7Gy`  
 
-◎[2018-97](http://www.radiology.jp/content/files/20180926_2.pdf#page=35){:target="_blank"}
+◎[2018-97](http://www.radiology.jp/content/files/20180926_2.pdf#page=35)
 子宮頸癌で正しいのはどれか(病期はFIGO分類)。2つ選べ。  
 `根治放射線治療で妊孕性が温存できる。`  
 `原発巣の進展範囲は MRI で評価してよい。`  
@@ -3046,7 +3046,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `CT で有意な傍大動脈リンパ節腫大はⅣB 期である。`  
 `IB1 期の根治的放射線治療の 5 年生存率は約 60% である。`  
 
-◎[2017-104](http://www.radiology.jp/content/files/20170904_2.pdf#page=37){:target="_blank"}
+◎[2017-104](http://www.radiology.jp/content/files/20170904_2.pdf#page=37)
 子宮頸癌の放射線治療として正しいのはどれか。2つ選べ。  
 `中央遮蔽の幅を 4 cm とした。`  
 `全骨盤照射の総線量を 60 Gy とした。`  
@@ -3054,7 +3054,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `腟浸潤がないので閉鎖リンパ節を CTV から外した。`  
 `腔内照射の代わりに強度変調放射線治療（IMRT）を用いた。`  
 
-◎[2016-103](http://www.radiology.jp/content/files/20160825.pdf#page=37){:target="_blank"}
+◎[2016-103](http://www.radiology.jp/content/files/20160825.pdf#page=37)
 子宮頸癌の放射線治療で正しいのはどれか。2つ選べ。  
 `腔内照射用線源にIr-192を用いる。`  
 `Ib期の根治照射は腔内照射単独で行う。`  
@@ -3062,7 +3062,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `腔内照射のB点は閉鎖リンパ節線量の指標である。`  
 `Ib期根治照射の治療成績は5年生存率で70％程度である。`  
     
-[2020-69](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23){:target="_blank"}
+[2020-69](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=23)
 子宮頸癌の根治的放射線治療で正しいのはどれか。2つ選べ。  
 `晩期有害事象は下痢が最も多い。`  
 `外部照射終了後に腔内照射を実施する。`  
@@ -3070,7 +3070,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `画像誘導密封小線源治療を用いて治療計画する。`  
 `マンチェスター法の線量処方基準点はA点である。`  
     
-[2020-70](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25){:target="_blank"}
+[2020-70](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25)
 子宮頸癌の治療で**誤っている**のはどれか。1つ選べ。  
 `IIIA期に腟シリンダーを使用する。
 `リンパ節転移陽性は高リスクである。
@@ -3078,7 +3078,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `化学療法の同時併用で急性期有害事象が増強する。
 `中リスク例の術後放射線治療で遠隔転移が有意に減少する。
 
-◎[2013-99](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=33){:target="_blank"}
+◎[2013-99](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=33)
 子宮頸癌 IIB 期（FIGO）の放射線治療で**適切でない**のはどれか。1つ選べ。  
 `腔内照射を併用する。`  
 `晩期有害事象として膀胱出血がある。`  
@@ -3086,7 +3086,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `放射線治療前に導入化学療法を行う。`  
 `化学放射線療法と手術の治療成績はほぼ同等である。`  
 
-◎[2015-102](http://www.radiology.jp/content/files/20150821.pdf#page=35){:target="_blank"}
+◎[2015-102](http://www.radiology.jp/content/files/20150821.pdf#page=35)
 子宮頸癌の放射線治療成績に最も**影響しない**のはどれか。1つ選べ。  
 `組織型` `腫瘍径` `体部内膜浸潤` `骨盤リンパ節転移` `血中ヘモグロビン値`  
 
@@ -3206,11 +3206,11 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 (§7-56,レジセミ7)
 [▲top page](#Index)
     
-◎[2018-103](http://www.radiology.jp/content/files/20180926_2.pdf#page=37){:target="_blank"}
+◎[2018-103](http://www.radiology.jp/content/files/20180926_2.pdf#page=37)
 60歳代，男性，PS1。前立腺癌（初診時 PSA 9.4 ng/ml，Gleason score 4+3=7，cT1cN0M0）と診断。正しいのはどれか。2つ選べ。  
 `監視療法` `前立腺全摘術` `I-125永久挿入療法` `外部照射と2年間のホルモン療法` `前立腺全摘術と6ヶ月間のホルモン療法`  
 
-×[2014-101](http://www.radiology.jp/content/files/1377.pdf#page=35){:target="_blank"}
+×[2014-101](http://www.radiology.jp/content/files/1377.pdf#page=35)
 60 歳代の男性。前立腺癌（T3bN0M0，Gleason スコア＝4＋5，初診時 PSA 18.2 ng/ml）の治療法として正しいのはどれか。2つ選べ。  
 `陽子線治療` `内分泌単独療法` `前立腺全摘出術` `強度変調放射線治療` `I-125 永久挿入療法単独治療`  
 
@@ -3289,15 +3289,15 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 (§7-55,56,57,58)
 [▲top page](#Index)
     
-◎[2015-101](http://www.radiology.jp/content/files/20150821.pdf#page=35){:target="_blank"}
+◎[2015-101](http://www.radiology.jp/content/files/20150821.pdf#page=35)
 前立腺癌に対する根治的放射線治療として**適応でない**のはどれか。1つ選べ。  
 `Ir-192組織内照射` `3次元原体照射` `定位手術的照射` `I-125永久挿入療法` `強度変調放射線治療`  
 
-◎[2013-100(改題)](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=34){:target="_blank"}
+◎[2013-100(改題)](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=34)
 前立腺癌T2N0M0に対する放射線治療として**適切でない**のはどれか。1つ選べ。  
 `体幹部定位照射`  `強度変調放射線治療`  `高線量率組織内照射`  `定位手術的照射`  `密封小線源永久挿入療法`  
 
-◎[2017-105](http://www.radiology.jp/content/files/20170904_2.pdf#page=37){:target="_blank"}
+◎[2017-105](http://www.radiology.jp/content/files/20170904_2.pdf#page=37)
 前立腺癌の強度変調放射線治療（IMRT）として正しいのはどれか。2つ選べ。  
 `排尿直後に施行する。`  
 `低リスク例には用いない。`  
@@ -3305,19 +3305,19 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `高リスク例ではホルモン療法を併用する。`  
 `晩期直腸出血は治療後10年が発症のピークとなる。` 
 
-◎[2016-104](http://www.radiology.jp/content/files/20160825.pdf#page=37){:target="_blank"}
+◎[2016-104](http://www.radiology.jp/content/files/20160825.pdf#page=37)
 前立腺癌の根治的外照射後の晩期有害事象として最も頻度が**低い**のはどれか。1つ選べ。  
 `尿道狭窄` `直腸潰瘍` `恥骨骨折` `性機能障害` `出血性膀胱炎`  
 
-◎[2019-101](http://www.radiology.jp/content/files/20190904_02.pdf#page=35){:target="_blank"}
+◎[2019-101](http://www.radiology.jp/content/files/20190904_02.pdf#page=35)
 前立腺癌の組織内照射で用いるのはどれか。2つ選べ。  
 `Sr-89` `I-125` `I-131` `Ir-192` `Ra-223`  
 
-◎[2019-102](http://www.radiology.jp/content/files/20190904_02.pdf#page=36){:target="_blank"}
+◎[2019-102](http://www.radiology.jp/content/files/20190904_02.pdf#page=36)
 前立腺癌の永久挿入密封小線源治療の晩期有害事象で頻度が最も**低い**のはどれか。1つ選べ。  
 `直腸出血` `膀胱出血` `尿道狭窄` `勃起不全` `無精子症`  
 
-?[2012-99](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=33){:target="_blank"}
+?[2012-99](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=33)
 前立腺癌の放射線治療について正しいのはどれか。2つ選べ。  
 `低リスク群ではホルモン療法を併用する。`  
 `術後のPSA再発に対しては全骨盤照射を行う。`  
@@ -3325,7 +3325,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `高リスク群は I-125 永久挿入療法の良い適応である。`  
 `I-125 永久挿入療法後 1年以内に死亡した場合には前立腺を摘出する。`  
 
-[2020-71](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25){:target="_blank"}
+[2020-71](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25)
 前立腺癌（T3aN0M0）の放射線治療で正しいのはどれか。1つ選べ。  
 `Ra-223を併用する。`
 `排尿直後に照射する。`  
@@ -3392,7 +3392,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ## 膀胱癌
 [▲top page](#Index)    
     
-[2020-72](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25){:target="_blank"}
+[2020-72](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25)
 浸潤性膀胱癌に対する膀胱温存目的とした放射線治療との併用療法で正しいのはどれか。2つ選べ。  
 `分子標的薬`  
 `殺細胞性抗がん剤`  
@@ -3403,7 +3403,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ## 下部消化管腫瘍
 [▲top page](#Index)    
     
-[2014-100](http://www.radiology.jp/content/files/1377.pdf#page=35){:target="_blank"}
+[2014-100](http://www.radiology.jp/content/files/1377.pdf#page=35)
 肛門浸潤のないcT3N1M0下部直腸癌に対する術前照射で，照射野に通常**含めない**リンパ節領域はどれか。1つ選べ。  
 `閉鎖リンパ節` `内腸骨リンパ節` `外腸骨リンパ節` `仙骨前リンパ節` `傍直腸リンパ節` 
 
@@ -3436,11 +3436,11 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 - 2014-100: `外腸骨リンパ節`
 </details>
 
-◎[2018-99](http://www.radiology.jp/content/files/20180926_2.pdf#page=35){:target="_blank"}
+◎[2018-99](http://www.radiology.jp/content/files/20180926_2.pdf#page=35)
 肛門癌化学放射線療法に用いる薬剤はどれか。1つ選べ。(TS1®︎はテガフール・ギメラシル・オテラシルカリウムである)
 `TS1®︎+ゲムシタビン` `TS1®︎+シスプラチン` `5-FU+シスプラチン` `5-FU+カルボプラチン` `5-FU+マイトマイシンC`  
 
-◎[2019-103](http://www.radiology.jp/content/files/20190904_02.pdf#page=36){:target="_blank"}
+◎[2019-103](http://www.radiology.jp/content/files/20190904_02.pdf#page=36)
 肛門癌の放射線治療で**誤っている**のはどれか。1つ選べ。  
 `肛門温存率は約30％である。`  
 `晩期有害事象に便失禁がある。`  
@@ -3497,7 +3497,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ### 胃MALTリンパ腫
 [▲top page](#Index)    
     
-◎[2019-104](http://www.radiology.jp/content/files/20190904_02.pdf#page=36){:target="_blank"}
+◎[2019-104](http://www.radiology.jp/content/files/20190904_02.pdf#page=36)
 Ⅰ期胃MALTリンパ腫の放射線治療で正しいのはどれか。2つ選べ。
 `R-CHOP 後に行う。`  
 `空腹時に照射を行う。`  
@@ -3505,7 +3505,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `40 Gy/20 回/4 週で照射する。`  
 `CTV に十二指腸下行脚を含める。`  
 
-◎[2014-103](http://www.radiology.jp/content/files/1377.pdf#page=36){:target="_blank"}
+◎[2014-103](http://www.radiology.jp/content/files/1377.pdf#page=36)
 ピロリ除菌療法抵抗性の胃 MALT リンパ腫 IEA 期に対する放射線治療の線量分割として標準的なのはどれか。1つ選べ。  
 `4 Gy/2回/0.5週`  
 `10 Gy/2回/0.5週`  
@@ -3513,11 +3513,11 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `30.6 Gy/17回/3.5週`  
 `39.6 Gy/22回/4.5週`  
 
-◎[2017-100](http://www.radiology.jp/content/files/20170904_2.pdf#page=35){:target="_blank"}
+◎[2017-100](http://www.radiology.jp/content/files/20170904_2.pdf#page=35)
 胃マルトリンパ腫の放射線治療に伴う有害事象として頻度が最も**低い**のはどれか。1つ選べ。  
 `肝障害` `幽門狭窄` `放射線宿酔` `胃粘膜障害` `放射線肺臓炎`  
 
-◎[2015-100](http://www.radiology.jp/content/files/20150821.pdf#page=35){:target="_blank"}
+◎[2015-100](http://www.radiology.jp/content/files/20150821.pdf#page=35)
 除菌治療無効のI期胃原発 MALTリンパ腫に対する放射線単独治療の5年生存率として適切なのはどれか。1つ選べ。  
 `30%` `45%` `60%` `75%` `90%`  
 
@@ -3566,7 +3566,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ### そのほかの節外性リンパ腫
 [▲top page](#Index)    
     
-◎[2015-92](http://www.radiology.jp/content/files/20150821.pdf#page=32){:target="_blank"}
+◎[2015-92](http://www.radiology.jp/content/files/20150821.pdf#page=32)
 鼻腔 NK/T 細胞リンパ腫の放射線治療として最も有効なのはどれか。1つ選べ。  
 `放射線単独治療`  
 `CHOP 後の放射線治療`  
@@ -3574,7 +3574,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `R-CHOP 後の放射線治療`  
 `DeVIC と放射線治療の同時併用`  
 
-[2017-102](http://www.radiology.jp/content/files/20170904_2.pdf#page=36){:target="_blank"}
+[2017-102](http://www.radiology.jp/content/files/20170904_2.pdf#page=36)
 放射線単独治療が標準治療なのはどれか。1 つ選べ。
 `鼻腔 NK 細胞リンパ腫Ⅰ期`  
 `脳びまん性大細胞型 B 細胞リンパ腫`  
@@ -3607,7 +3607,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 ### Hodgkinリンパ腫 / Non-Hodgkinリンパ腫
 [▲top page](#Index)
     
-◎[2018-98](http://www.radiology.jp/content/files/20180926_2.pdf#page=35){:target="_blank"}
+◎[2018-98](http://www.radiology.jp/content/files/20180926_2.pdf#page=35)
 限局期の Hodgkin リンパ腫（低リスク群）の放射線治療で正しいのはどれか。1つ選べ。  
 `化学療法を同時併用する。`  
 `併用療法に R-CHOP を用いる。`  
@@ -3615,7 +3615,7 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 `標準的な治療後の 5 年生存率は約 70～80％である。`  
 `照射野は治療開始前に病変が存在したリンパ節領域とする。`  
 
-◎[2012-98](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=33){:target="_blank"}
+◎[2012-98](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=33)
 IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しいのはどれか。2つ選べ。  
 `放射線単独治療`  
 `リツキシマブ単独治療`  
@@ -3663,7 +3663,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 
 
 ### 白血病
-◎[2017-103](http://www.radiology.jp/content/files/20170904_2.pdf#page=36){:target="_blank"}
+◎[2017-103](http://www.radiology.jp/content/files/20170904_2.pdf#page=36)
 白血病の骨髄破壊性全身照射として**誤っている**のはどれか。1つ選べ。  
 `線量率は 1 Gy/分で行う。`  
 `急性有害事象に耳下腺炎がある。`  
@@ -3691,7 +3691,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### PCNSL
 [▲top page](#Index)
     
-◎[2015-91](http://www.radiology.jp/content/files/20150821.pdf#page=32){:target="_blank"}
+◎[2015-91](http://www.radiology.jp/content/files/20150821.pdf#page=32)
 脳原発悪性リンパ腫の放射線治療として最も適切なのはどれか。1つ選べ。  
 `放射線単独治療`  
 `ABVD 後の放射線治療`  
@@ -3717,7 +3717,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 神経膠腫
 [▲top page](#Index)
 
-◎[2013-94(改題)](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32){:target="_blank"}
+◎[2013-94(改題)](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=32)
 成人の星細胞腫（WHO Grade 2）の術後照射で一般に用いられるのはどれか。1つ選べ。  
 `30Gy/10Fr` `40Gy/20Fr` `54Gy/30Fr` `60Gy/40Fr` `75Gy/50Fr`  
 
@@ -3745,11 +3745,11 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 頭蓋内胚細胞腫瘍
 [▲top page](#Index)
 
-◎[2019-92](http://www.radiology.jp/content/files/20190904_02.pdf#page=32){:target="_blank"}
+◎[2019-92](http://www.radiology.jp/content/files/20190904_02.pdf#page=32)
 頭蓋内胚細胞腫瘍の中で放射線治療を用いることが**少ない**のはどれか。1つ選べ。  
 `胚腫` `奇形腫` `絨毛癌` `胎児性癌` `卵黄囊腫瘍`  
 
-◎[2017-92](http://www.radiology.jp/content/files/20170904_2.pdf#page=33){:target="_blank"}
+◎[2017-92](http://www.radiology.jp/content/files/20170904_2.pdf#page=33)
 頭蓋内胚腫（germinoma）として正しいのはどれか。1つ選べ。  
 `若年発症は少ない。`  
 `10 年生存率は約 80％である。`  
@@ -3820,11 +3820,11 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 髄芽腫
 [▲top page](#Index)
     
-◎[2017-93](http://www.radiology.jp/content/files/20170904_2.pdf#page=33){:target="_blank"}
+◎[2017-93](http://www.radiology.jp/content/files/20170904_2.pdf#page=33)
 髄芽腫術後の照射法として正しいのはどれか。1つ選べ。  
 `局所照射` `全脳照射` `全脳室照射` `拡大局所照射` `全脳全脊髄照射` 
 
-◎[2012-91](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=31){:target="_blank"}
+◎[2012-91](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=31)
 髄芽腫に対する適切な治療法の組み合わせはどれか。1つ選べ。  
 `手術＋拡大局所照射`  
 `拡大局所照射＋全身化学療法`  
@@ -3877,15 +3877,15 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 脳腫瘍放射線治療まとめ
 [▲top page](#Index)
 
-[2018-91](http://www.radiology.jp/content/files/20180926_2.pdf#page=33){:target="_blank"}
+[2018-91](http://www.radiology.jp/content/files/20180926_2.pdf#page=33)
 播種のない脳腫瘍の放射線治療で照射範囲を最も大きく設定するのはどれか。1つ選べ。  
 `上衣腫` `膠芽腫` `胚細胞腫` `乏突起膠腫` `脳原発悪性リンパ腫` 
 
-◎[2016-94](http://www.radiology.jp/content/files/20160825.pdf#page=34){:target="_blank"}
+◎[2016-94](http://www.radiology.jp/content/files/20160825.pdf#page=34)
 全脳全脊髄照射を標準治療として行うのはどれか。1つ選べ。  
 `髄膜腫` `上衣腫` `髄芽腫` `星細胞腫` `胚細胞腫`  
 
-◎[2014-93](http://www.radiology.jp/content/files/1377.pdf#page=32){:target="_blank"}
+◎[2014-93](http://www.radiology.jp/content/files/1377.pdf#page=32)
 疾患と放射線治療の照射法との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `髄膜腫 - 局所照射`  
 `膠芽腫 - 拡大局所照射`  
@@ -3916,7 +3916,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ## 小児腫瘍
 [▲top page](#Index)
     
-◎[2014-104](http://www.radiology.jp/content/files/1377.pdf#page=36){:target="_blank"}
+◎[2014-104](http://www.radiology.jp/content/files/1377.pdf#page=36)
 小児がんの放射線治療について**誤っている**のはどれか。1つ選べ。  
 `総線量を少なくする。`  
 `分割回数を少なくする。`  
@@ -3924,7 +3924,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `骨成長を勘案して治療計画を立てる。`  
 `晩期合併症について長期経過観察が必要である。`  
 
-◎[2015-104](http://www.radiology.jp/content/files/20150821.pdf#page=36){:target="_blank"}
+◎[2015-104](http://www.radiology.jp/content/files/20150821.pdf#page=36)
 小児がんの根治的放射線治療として正しいのはどれか。2つ選べ。  
 `10年間無病生存で経過観察を終了する。`  
 `集学的治療の一環として放射線治療を行う。`  
@@ -3932,11 +3932,11 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `白血球1000未満に減少した場合は放射線治療を休止する。`  
 `脊椎の一部が照射される場合はその椎体全体を照射野に含める。`  
 
-◎[2016-105](http://www.radiology.jp/content/files/20160825.pdf#page=38){:target="_blank"}
+◎[2016-105](http://www.radiology.jp/content/files/20160825.pdf#page=38)
 術後9日以内に照射を開始すべき小児腫瘍はどれか。1つ選べ。  
 `肝芽腫` `神経芽腫` `Wilms腫瘍` `横紋筋肉腫` `Ewing肉腫関連腫瘍`  
 
-[2018-101](http://www.radiology.jp/content/files/20180926_2.pdf#page=36){:target="_blank"}
+[2018-101](http://www.radiology.jp/content/files/20180926_2.pdf#page=36)
 術後照射の処方線量が**最も少ない**のはどれか。1つ選べ。  
 `髄芽腫` `神経芽腫` `Wilms腫瘍` `Ewing肉腫` `横紋筋肉腫` 
 
@@ -3994,7 +3994,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 骨転移
 [▲top page](#Index)
     
-◎[2012-100](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=34){:target="_blank"}
+◎[2012-100](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=34)
 骨転移の放射線治療について正しいのはどれか。2つ選べ。  
 `疼痛改善率は70～80%程度である。`  
 `疼痛緩和効果が最大となるのは照射直後である。`  
@@ -4002,7 +4002,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `溶骨性病変の骨再生には治療終了後数ヶ月以上必要である。`  
 `8Gy/1回照射は30Gy/10回照射と比較して疼痛緩和効果に劣る。`  
 
-◎[2015-103](http://www.radiology.jp/content/files/20150821.pdf#page=36){:target="_blank"}
+◎[2015-103](http://www.radiology.jp/content/files/20150821.pdf#page=36)
 骨転移の放射線治療として**誤っている**のはどれか。1つ選べ。  
 `有痛性骨転移では鎮痛剤を併用する。`  
 `30Gy/10回/2週は標準的な線量分割法の1つである。`  
@@ -4010,7 +4010,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `脊髄圧迫症状がある場合には緊急照射の適応である。`  
 `長管骨の切迫骨折では予防的固定術後の照射を検討する。`  
 
-[2014-105](http://www.radiology.jp/content/files/1377.pdf#page=36){:target="_blank"}
+[2014-105](http://www.radiology.jp/content/files/1377.pdf#page=36)
 脊髄圧迫症状を伴う骨転移について**誤っている**のはどれか。1つ選べ。  
 `緊急照射の適応である。`  
 `前駆症状として疼痛が多い。`  
@@ -4060,7 +4060,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 脳転移
 [▲top page](#Index)
     
-◎[2018-92](http://www.radiology.jp/content/files/20180926_2.pdf#page=33){:target="_blank"}
+◎[2018-92](http://www.radiology.jp/content/files/20180926_2.pdf#page=33)
 転移性脳腫瘍で正しいのはどれか。2つ選べ。  
 `最も多い原発巣は肺癌である。`  
 `37.5Gy/15回/3週で全脳照射を行う。`  
@@ -4068,7 +4068,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `全脳照射の認知機能障害は早期に多い。`  
 `定位放射線照射と全脳照射は併用しない。`  
 
-◎[2015-90](http://www.radiology.jp/content/files/20150821.pdf#page=31){:target="_blank"}
+◎[2015-90](http://www.radiology.jp/content/files/20150821.pdf#page=31)
 脳転移の治療として**誤っている**のはどれか。1つ選べ。  
 `癌性髄膜炎に全脳照射を行う。`  
 `4.5cmの孤発性腫瘍に開頭腫瘍摘出術を行う。`  
@@ -4107,11 +4107,11 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 緊急照射
 [▲top page](#Index)
     
-◎[2018-100](http://www.radiology.jp/content/files/20180926_2.pdf#page=36){:target="_blank"}
+◎[2018-100](http://www.radiology.jp/content/files/20180926_2.pdf#page=36)
 緊急放射線治療の対象はどれか。2つ選べ。  
 `多発脳転移` `癌性胸膜炎` `腫瘍内出血` `上大静脈症候群` `腫瘍性脊髄圧迫`  
 
-[2012-89](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=30){:target="_blank"}
+[2012-89](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=30)
 緩和照射の適応として緊急性が高いのはどれか。2つ選べ。  
 `癌性胸水による呼吸困難`  
 `骨転移による病的骨幹骨折`  
@@ -4137,7 +4137,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### その他の緩和照射
 [▲top page](#Index)
     
-[2019-105](http://www.radiology.jp/content/files/20190904_02.pdf#page=37){:target="_blank"}
+[2019-105](http://www.radiology.jp/content/files/20190904_02.pdf#page=37)
 緩和的放射線治療の病巣と治療内容の組み合わせで**一般的でない**のはどれか。1つ選べ。  
 `胸椎転移 - 8Gy/1回/1日`  
 `肋骨転移 - 20Gy/5回/1週`  
@@ -4163,15 +4163,15 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 治療方針
 [▲top page](#Index)
     
-◎[2014-87](http://www.radiology.jp/content/files/1377.pdf#page=30){:target="_blank"}
+◎[2014-87](http://www.radiology.jp/content/files/1377.pdf#page=30)
 全身状態および各臓器機能に問題がない患者において放射線単独治療の適応となるのはどれか。2つ選べ。  
 `上咽頭癌 II期` `中咽頭扁桃癌 I期` `小細胞肺癌 IB期` `非小細胞肺癌 IIIB期` `子宮頸癌 IB1期`  
 
-◎[2016-93](http://www.radiology.jp/content/files/20160825.pdf#page=34){:target="_blank"}
+◎[2016-93](http://www.radiology.jp/content/files/20160825.pdf#page=34)
 化学放射線療法の適応となるのはどれか。2つ選べ。  
 `膠芽腫` `胃癌Ⅰ期` `喉頭癌Ⅰ期` `肺癌ⅢB期` `前立腺癌Ⅱ期`  
 
-◎[2017-101](http://www.radiology.jp/content/files/20170904_2.pdf#page=36){:target="_blank"}
+◎[2017-101](http://www.radiology.jp/content/files/20170904_2.pdf#page=36)
 疾患と治療法との組合わせとして正しいのはどれか。1つ選べ。  
 `食道癌 - 根治的化学放射線療法`  
 `肝臓癌 - 術後化学放射線療法`  
@@ -4179,19 +4179,19 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `直腸癌 - 根治的化学放射線療法`  
 `肛門管癌 - 術前化学放射線療法`  
 
-◎[2012-88](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=30){:target="_blank"}
+◎[2012-88](http://www.radiology.jp/content/files/2012_1s_exsam.pdf#page=30)
 根治的化学放射線療法の適応となるのはどれか。2つ選べ。  
 `食道癌` `直腸癌` `肝細胞癌` `肛門管癌` `胃MALTリンパ腫`  
 
-◎[2014-88](http://www.radiology.jp/content/files/1377.pdf#page=30){:target="_blank"}
+◎[2014-88](http://www.radiology.jp/content/files/1377.pdf#page=30)
 局所進行癌における術前化学放射線療法が局所制御に有効なのはどれか。2つ選べ。  
 `膵癌` `直腸癌` `子宮頸癌` `肛門管癌` `Pancoast型肺癌`  
 
-[2018-102](http://www.radiology.jp/content/files/20180926_2.pdf#page=36){:target="_blank"}
+[2018-102](http://www.radiology.jp/content/files/20180926_2.pdf#page=36)
 断端陰性でも術後照射を必要とする可能性が高いのはどれか。1つ選べ。  
 `肺癌` `直腸癌` `食道癌` `下咽頭癌` `子宮体癌` 
     
-[2020-57](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=20){:target="_blank"}
+[2020-57](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=20)
 根治的放射線治療の適応はどれか。2つ選べ。  
 `胃癌` `食道癌` `直腸癌` `外陰癌` `顎下腺癌`
     
@@ -4264,7 +4264,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 照射法
 [▲top page](#Index)
     
-◎[2016-91](http://www.radiology.jp/content/files/20160825.pdf#page=33){:target="_blank"}
+◎[2016-91](http://www.radiology.jp/content/files/20160825.pdf#page=33)
 疾患と照射法との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `上咽頭癌 - 全頸部照射`  
 `子宮頸癌 - 全骨盤照射`  
@@ -4272,7 +4272,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `乳癌単発脳転移 - 定位手術的照射`  
 `甲状腺未分化癌 - I-131 内用療法`  
 
-◎[2014-90](http://www.radiology.jp/content/files/1377.pdf#page=31){:target="_blank"}
+◎[2014-90](http://www.radiology.jp/content/files/1377.pdf#page=31)
 治療法と適応疾患との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `炭素線治療 ――――――骨肉腫`  
 `予防的全脳照射 ――――非小細胞肺癌`  
@@ -4280,7 +4280,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `I-131 内用療法 ――――――甲状腺乳頭癌`  
 `Ir-192 腔内照射 ――――――子宮頸癌`  
 
-◎[2014-89](http://www.radiology.jp/content/files/1377.pdf#page=31){:target="_blank"}
+◎[2014-89](http://www.radiology.jp/content/files/1377.pdf#page=31)
 疾患と放射線治療の照射法との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `上咽頭癌 - 強度変調放射線治療`  
 `口腔癌 - モールド小線源治療`  
@@ -4288,7 +4288,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `前立腺癌 - 高線量率組織内照射`  
 `皮膚T細胞リンパ腫 - 全身照射(TBI)`  
 
-◎[2017-90](http://www.radiology.jp/content/files/20170904_2.pdf#page=32){:target="_blank"}
+◎[2017-90](http://www.radiology.jp/content/files/20170904_2.pdf#page=32)
 疾患と放射線治療との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `下咽頭癌 - 強度変調放射線治療`  
 `胃癌多発脳転移 - 全脳照射`  
@@ -4296,7 +4296,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `乳癌乳房温存術後 - 乳房接線照射`  
 `限局型小細胞肺癌 - 予防的全脳照射`  
 
-◎[2017-88](http://www.radiology.jp/content/files/20170904_2.pdf#page=31){:target="_blank"}
+◎[2017-88](http://www.radiology.jp/content/files/20170904_2.pdf#page=31)
 体幹部定位放射線治療の**適応でない**のはどれか。1つ選べ。  
 `前立腺癌I期` `肝細胞癌I期` `子宮頸癌IB期` `脊髄動静脈奇形` `非小細胞肺癌IA期`  
 
@@ -4311,7 +4311,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 - 2017-88: `子宮頸癌IB期`
 </details>
 
-◎[2019-90](http://www.radiology.jp/content/files/20190904_02.pdf#page=32){:target="_blank"}
+◎[2019-90](http://www.radiology.jp/content/files/20190904_02.pdf#page=32)
 強度変調放射線治療（IMRT）の使用で三次元原体照射より予後を改善できるのはどれか。1つ選べ。  
 `髄芽腫` `直腸癌` `前立腺癌` `下咽頭癌` `小細胞肺癌`  
 
@@ -4322,7 +4322,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 - 2019-90: `前立腺癌`
 </details>
 
-[2019-91](http://www.radiology.jp/content/files/20190904_02.pdf#page=32){:target="_blank"}
+[2019-91](http://www.radiology.jp/content/files/20190904_02.pdf#page=32)
 下記疾患の原発巣への重粒子線治療の適応で**不適切**なのはどれか。1つ選べ。  
 `胃（平滑筋肉腫）`  
 `腸骨（軟骨肉腫）`  
@@ -4334,7 +4334,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 標的体積
 [▲top page](#Index)
     
-◎[2018-96](http://www.radiology.jp/content/files/20180926_2.pdf#page=34){:target="_blank"}
+◎[2018-96](http://www.radiology.jp/content/files/20180926_2.pdf#page=34)
 鼠径リンパ節領域をCTVに設定するのはどれか。1つ選べ。  
 `腟癌` `膀胱癌` `直腸癌` `肛門癌` `子宮頸癌` 
 
@@ -4352,11 +4352,11 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 照射線量と照射回数
 [▲top page](#Index)
     
-◎[2013-91](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=31){:target="_blank"}
+◎[2013-91](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=31)
 放射線単独で根治的治療を行う場合に総線量が**最も少ない**のはどれか。1つ選べ。  
 `喉頭癌` `肺腺癌` `前立腺癌` `子宮頸癌` `松果体胚細胞腫`  
 
-◎[2018-89](http://www.radiology.jp/content/files/20180926_2.pdf#page=32){:target="_blank"}
+◎[2018-89](http://www.radiology.jp/content/files/20180926_2.pdf#page=32)
 疾患と照射法の組み合わせを示す。総処方線量が最も高いのはどれか。1つ選べ。  
 `乳房温存術後 - 寡分割照射`  
 `肺転移 - 定位放射線治療`  
@@ -4364,7 +4364,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `脊椎転移 - 前後対向2門照射`  
 `前立腺癌 - 強度変調放射線治療`  
 
-◎[2017-91](http://www.radiology.jp/content/files/20170904_2.pdf#page=32){:target="_blank"}
+◎[2017-91](http://www.radiology.jp/content/files/20170904_2.pdf#page=32)
 処方線量が通常分割照射で60Gy以上となるのはどれか。2つ選べ。  
 `髄芽腫の根治照射`  
 `直腸癌の術前照射`  
@@ -4372,7 +4372,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `前立腺癌の術後照射`  
 `肛門管癌の根治照射`  
 
-◎[2013-88](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30){:target="_blank"}
+◎[2013-88](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30)
 過分割照射法が適応となるのはどれか。1つ選べ。  
 `膠芽腫` `上咽頭癌` `前立腺癌` `小細胞肺癌` `胃悪性リンパ腫`  
 
@@ -4391,7 +4391,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 ### 有害事象と治療成績
 [▲top page](#Index)
     
-◎[2015-89](http://www.radiology.jp/content/files/20150821.pdf#page=31){:target="_blank"}
+◎[2015-89](http://www.radiology.jp/content/files/20150821.pdf#page=31)
 根治的放射線治療において，疾患と機能温存が可能な臓器との組み合わせとして**誤っている**のはどれか。1つ選べ。  
 `T3N1 上咽頭癌 唾液腺`  
 `T3N0 下咽頭癌 喉頭`  
@@ -4399,15 +4399,15 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 `T1b2N0 子宮頸癌 卵巣`  
 `T4N1 肛門癌 肛門`  
 
-[2020-58](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21){:target="_blank"}
+[2020-58](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=21)
 根治的放射線治療時に殺細胞性抗がん剤併用で効果改善が**最も少ない**のはどれか。1つ選べ。  
 `肺癌` `食道癌` `前立腺癌` `子宮頸癌` `頭頸部癌`
     
-[2020-61](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22){:target="_blank"}
+[2020-61](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22)
 初回治療で強度変調放射線治療（IMRT）の利用により生存率改善が証明されている疾患はどれか。1つ選べ。  
 `膵癌` `声門癌` `膠芽腫` `子宮頸癌` `上咽頭癌`
     
-[2020-63](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22){:target="_blank"}
+[2020-63](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=22)
 腫瘍の摘出程度で生存率の改善と関連のある脳腫瘍はどれか。2つ選べ。  
 `膠芽腫` `髄芽腫` `頭蓋内胚腫` `転移性脳腫瘍` `中枢神経原発悪性リンパ腫`
     
@@ -4423,7 +4423,7 @@ IA 期びまん性大細胞型 B 細胞リンパ腫の治療として正しい�
 </details>
 
 
-◎[2013-90](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30){:target="_blank"}
+◎[2013-90](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=30)
 臨床病期III期の放射線治療成績が最も不良なのはどれか。1つ選べ。  
 `膵癌` `下咽頭癌` `子宮頸癌` `小細胞肺癌` `非小細胞肺癌`  
 
