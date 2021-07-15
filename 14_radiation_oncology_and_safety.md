@@ -3216,7 +3216,15 @@ I-131の甲状腺癌への集積に影響を**及ぼさない**のはどれか�
 - 2019-102: `無精子症`
 </details>
 
-
+    
+## 膀胱癌
+[2020-72](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=25)
+浸潤性膀胱癌に対する膀胱温存目的とした放射線治療との併用療法で正しいのはどれか。2つ選べ。  
+`分子標的薬`  
+`殺細胞性抗がん剤`  
+`BCGワクチン膀胱注入`  
+`経尿道的膀胱腫瘍切除術`  
+`免疫チェックポイント阻害薬`  
 
 ## 下部消化管腫瘍
 [2014-100](http://www.radiology.jp/content/files/1377.pdf#page=35)
