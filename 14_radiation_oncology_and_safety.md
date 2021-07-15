@@ -299,6 +299,16 @@ CT検査において防護の正当化に該当する行為はどれか。1つ�
 `診断参考レベル以下の線量とする。`  
 `automatic exposure control（AEC）を用いた撮影をする。`  
 
+
+
+[2020-81](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=29)
+放射線診療の最適化に相当する医師の対応はどれか。1つ選べ。  
+`画質に問題があっても再撮影は依頼しない。`  
+`診療ガイドラインに沿って検査実施を決めた。`  
+`患者毎の放射線検査の上限回数を設定した。`  
+`できるだけ低線量で撮影するように指示した。`  
+`診断参考レベルと自施設の値を比較検討した。`  
+
 ◎[2013-14](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=5)
 放射線被ばくの分類で**誤っている**のはどれか。1つ選べ。  
 `医師が医療行為で被ばく ――――――――――――――― 職業被ばく`  
@@ -477,7 +487,7 @@ Sv（シーベルト）**以外**の単位を用いる評価量はどれか。2�
 [▲top page](#Index)
 
 [2020-79](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=28)
-線量限度適用の対象となるのはどれか。1つ選べ。
+線量限度適用の対象となるのはどれか。1つ選べ。  
 `患者` `患者家族` `患者介助者` `病院周辺住民` `生物医学研究志願者`  
 
 ◎[2019-09(改題)](http://www.radiology.jp/content/files/20190904_02.pdf#page=4)

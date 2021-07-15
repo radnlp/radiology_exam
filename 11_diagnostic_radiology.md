@@ -194,6 +194,14 @@ X線CTで正しいのはどれか。1つ選べ。
 `AEC（automatic exposure control）を使用しない。`  
 `寝台（クレードル）をガントリーの中心より低くする。`  
 
+[2020-82](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=29)
+小児の CT における被ばく低減策として**誤っている**のはどれか。1つ選べ。  
+`管電流を下げる。`  
+`管電圧を下げる。`  
+`ピッチファクターを小さくする。`  
+`寝台（クレードル）をガントリーの中心にする。`  
+`AEC（automatic exposure control）を使用する。`  
+
 ◎[2017-11](http://www.radiology.jp/content/files/20170904_2.pdf#page=5)
 CT検査を受ける患者の被ばく低減に有用なのはどれか。2つ選べ。  
 `電圧を上げる。`  
@@ -830,6 +838,10 @@ MRIの経口造影剤として使用されるのはどれか。2つ選べ。
 
 ## 医療情報
 ### 電子診療録
+[2020-84](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=30)
+電子媒体による保存の三原則に含まれるのはどれか。2つ選べ。  
+`可用性` `完全性` `機密性` `見読性` `真正性` 
+
 ◎[2018-10](http://www.radiology.jp/content/files/20180926_2.pdf#page=5)
  電子保存の三原則（基準）の中の真正性について**誤っている**のはどれか。1 つ選べ。
 `書き換えを防止する。`  
@@ -1045,6 +1057,14 @@ DICOM について**誤っている**のはどれか。1つ選べ。
 `Digital Imaging and Communications in Medicine の略である。`  
 `Modality Working Management（MWM）はその機能の一つである。`  
 `DICOM3.0 は 8 つのサービスクラスと呼ばれる機能で成り立っている。`  
+
+[2020-83](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=29)
+DICOM 規格に**含まれない**のはどれか。1つ選べ。  
+`画像転送`  
+`レポートと HIS の連携`  
+`RIS と撮像装置との連携`  
+`画像ファイルフォーマット`  
+`グレースケール標準表示関数`  
 
 [2013-09](http://www.radiology.jp/content/files/2013_2s_exsam.pdf#page=3)
 放射線診療に関連する IT 用語の組み合わせで**関係ない**のはどれか。1つ選べ。  

@@ -910,6 +910,10 @@ e	 分化型甲状腺癌
 後頭葉の血流低下がみられるのはどれか。2つ選べ。  
 `Alzheimer病` `Parkinson病` `進行性核上性麻痺` `皮質基底核変性症` `Lewy小体型認知症`  
 
+[2020-45](https://member.radiology-sys.jp/jrsWebMember/member/download/specialist_exam/2020_09.pdf#page=16)
+Lewy 小体型認知症の脳血流 SPECT で，Alzheimer 病と比べて脳血流が相対的に保たれる部位はどれか。1つ選べ。  
+`前頭葉` `側頭葉` `頭頂葉` `後頭葉` `後部帯状回`
+
 ◎[2019-76](http://www.radiology.jp/content/files/20190904_02.pdf#page=27)
 中枢神経疾患の核医学検査について**誤っている**のはどれか。1つ選べ。  
 `Lewy 小体型認知症では後頭葉の脳血流低下がみられる。`  
